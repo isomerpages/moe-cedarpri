@@ -21,3 +21,17 @@ third_nav_title: School Staff
 
 
 ### P4 Form Teachers
+
+| Class 	| Name 	| Email 	|
+|---	|---	|---	|
+| P4-Creativity 	| Mdm Ng Chooi Yew Lyn 	| [ng_chooi_yew@moe.edu.sg](mailto:ng_chooi_yew@moe.edu.sg) 	|
+| P4-Creativity 	| Mdm Norhasimah Binte Abdul Rahim 	| [norhasimah_abdul_rahim@moe.edu.sg](mailto:norhasimah_abdul_rahim@moe.edu.sg) 	|
+| P4-Integrity 	| Ms Hong Yi Ni Vionna 	| (mailto:hong_yi_ni_vionna@moe.edu.sg) 	|
+| P4-Integrity 	| Mr Sim Eak Bian 	| [sim_eak_bian@moe.edu.sg](mailto:sim_eak_bian@moe.edu.sg) 	|
+| P4-Kindness 	| Mdm Nur Idayu Bte Mohd Jamaludin 	| [nur_idayu_mohd_jamaludin@moe.edu.sg](mailto:nur_idayu_mohd_jamaludin@moe.edu.sg) 	|
+| P4-Kindness 	| Mdm Lim Chun Ling 	| [lim_chun_ling@moe.edu.sg](mailto:lim_chun_ling@moe.edu.sg) 	|
+| P4-Kindness 	| Mr Muhammad Naufal B Haji Ariffin 	| [muhammad_naufal_haji_ariffin@moe.edu.sg](mailto:muhammad_naufal_haji_ariffin@moe.edu.sg) 	|
+| P4-Responsibility 	| Mdm Choo Poh Hong Millie 	| [choo_poh_hong_millie@moe.edu.sg](mailto:choo_poh_hong_millie@moe.edu.sg) 	|
+| P4-Responsibility 	| Ms Nurjannah Bte Ayub 	| [nurjannah_ayub@moe.edu.sg](mailto:nurjannah_ayub@moe.edu.sg) 	|
+| P4-Resilience 	| Mdm Vanitha D/O Gunasekaran 	| [vanitha_gunasekaran@moe.edu.sg](mailto:vanitha_gunasekaran@moe.edu.sg) 	|
+| P4-Resilience 	| Mdm Nor Azlin Bte Mohamed Som 	| [nor_azlin_mohamed_som@moe.edu.sg](mailto:nor_azlin_mohamed_som@moe.edu.sg) 	|
