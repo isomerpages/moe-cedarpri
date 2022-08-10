@@ -4,5 +4,5 @@ collections:
     order:
       - MK Staff.md
       - School Advisory Committee.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - School Staff/.keep
+      - School Staff/subfolder-page.md
