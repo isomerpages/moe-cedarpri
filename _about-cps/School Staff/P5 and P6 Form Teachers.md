@@ -22,12 +22,12 @@ description: ""
 
 | Class 	| Name 	| Email 	|
 |---	|---	|---	|
-| P6-Integrity 	| Mrs Yeo-Tan Bee Chai 	| tan_bee_chai@moe.edu.sg 	|
-| P6-Integrity 	| Ms Sivarathinam D/O Chinnavan 	| sivarathinam_chinnavan@moe.edu.sg 	|
-| P6-Kindness 	| Mdm Maimon Bte Abdul Samad 	| maimon_abdul_samad@moe.edu.sg 	|
-| P6-Kindness 	| Mr Jaleel S/O Mohamed Ali 	| jaleel_mohamed_ali@moe.edu.sg 	|
-| P6-Kindness 	| Mdm Quah Li Zhen 	| quah_li_zhen@moe.edu.sg 	|
-| P6-Responsibility 	| Mdm Norlinda Bte Mohamed Yatim 	| norlinda_mohamed_yatim@moe.edu.sg 	|
-| P6-Responsibility 	| Mr Ilyas Hakim Bin Jamaludin 	| ilyas_hakim_jamaludin@moe.edu.sg 	|
-| P6-Resilience 	| Mr Tan Teing Sin 	| tan_teing_sin@moe.edu.sg 	|
-| P6-Resilience 	| Ms Ong Shu Wen 	| ong_shu_wen_a@moe.edu.sg 	|
+| P6-Integrity 	| Mrs Yeo-Tan Bee Chai 	| [tan_bee_chai@moe.edu.sg](mailto:tan_bee_chai@moe.edu.sg) 	|
+| P6-Integrity 	| Ms Sivarathinam D/O Chinnavan 	| [sivarathinam_chinnavan@moe.edu.sg](mailto:sivarathinam_chinnavan@moe.edu.sg) 	|
+| P6-Kindness 	| Mdm Maimon Bte Abdul Samad 	| [maimon_abdul_samad@moe.edu.sg](mailto:maimon_abdul_samad@moe.edu.sg) 	|
+| P6-Kindness 	| Mr Jaleel S/O Mohamed Ali 	| [jaleel_mohamed_ali@moe.edu.sg](mailto:jaleel_mohamed_ali@moe.edu.sg) 	|
+| P6-Kindness 	| Mdm Quah Li Zhen 	| [quah_li_zhen@moe.edu.sg](mailto:quah_li_zhen@moe.edu.sg) 	|
+| P6-Responsibility 	| Mdm Norlinda Bte Mohamed Yatim 	| [norlinda_mohamed_yatim@moe.edu.sg](mailto:norlinda_mohamed_yatim@moe.edu.sg) 	|
+| P6-Responsibility 	| Mr Ilyas Hakim Bin Jamaludin 	| [ilyas_hakim_jamaludin@moe.edu.sg](mailto:ilyas_hakim_jamaludin@moe.edu.sg) 	|
+| P6-Resilience 	| Mr Tan Teing Sin 	| [tan_teing_sin@moe.edu.sg](mailto:tan_teing_sin@moe.edu.sg) 	|
+| P6-Resilience 	| Ms Ong Shu Wen 	| [ong_shu_wen_a@moe.edu.sg](mailto:ong_shu_wen_a@moe.edu.sg) 	|
