@@ -2,6 +2,7 @@ collections:
   about-cps:
     output: true
     order:
+      - MK Staff.md
       - School Advisory Committee.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
