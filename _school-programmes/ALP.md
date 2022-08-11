@@ -25,3 +25,7 @@ We incorporate our school values and CCE domains into the CIT Programme to ensur
 **Creative and Inventive Thinking (CIT) Programme** is a school-wide programme that aims to develop and enhance students’ learning attitude and thinking skills, particularly in the areas of creativity and critical thinking. As problem contexts are based on issues faced by the community, this programme complements the “Values in Action” (VIA) programme conducted as part of Character and Citizenship Education (CCE).
 
 Our CIT Programme is based on the broad principles of Creative Problem Solving created by Isaksen, Dorval and Treffinger (2000). The CIT Programme helps students to understand challenges and opportunities, generate ideas, and develop effective plans for solving problems and managing change. As shown in figure 1, Creative Problem Solving includes four main components and eight specific stages.
+
+![](/images/Creative%20Problem%20Saving.jpg)
+
+A simplified Creative Problem Solving approach, the CREATE methodology (see below), was implemented by the school for the CIT Programme to guide students when they design appropriate solutions to address everyday problems faced by their immediate community.
