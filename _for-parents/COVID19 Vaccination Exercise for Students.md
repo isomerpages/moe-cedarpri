@@ -38,3 +38,23 @@ Thank you.
 ![](/images/Vaccination%20Guide.jpeg)
 
 -------------------------------------------------------------------------
+
+**PG Message 2 posted on 5 Jun 2021:** 
+
+**Assistance for Vaccination Appointments for P6, S1-3, JC1, PU1-2 Students:**
+
+Dear Parents/Guardians,
+
+ You would have received the SMS with the unique booking link for your child/ward’s COVID-19 vaccination appointments <for P6 only: If your child had turned 12 as of 1 Jun>. Please log in with your child’s NRIC, and book as soon in order to secure appointments on your preferred dates before the slots are opened to other groups. Please note that this link is unique to your child. If you have not received the SMS, please check if it was sent to your spouse. If both parents did not receive the SMS, please complete the FormSG and the SMS invite will be sent by 11 June.
+
+ <for P6 only: If your child is turning 12 between 2 to 7 June>, the SMS invite would only be sent by 8 June.
+
+ For parents without local handphone number, a letter of authorization and a signed hard copy medical declaration can be issued to a Singapore Citizen/Permanent Resident (e.g. family member) who can make the registration appointment on your behalf. The parents remain responsible for filling in the consent and medical declaration form. The authorised individuals will then complete the FormSG to submit their contact number. The student should bring along a copy of the signed authorisation and declaration forms on the day of the vaccination.
+
+ We would also like to inform you that when your child arrives at the vaccination centre, there will be a detailed set of screening questions to be answered by your child as part of the screening process. We are enclosing a copy of this form for your reference, and also for you to explain to your child regarding the information required at the vaccination centre. Also, please try to be contactable on your handphone during the expected appointment time of your childat the vaccination centre, should there be a need for the vaccination centre staff to call you to verify any of the information.
+
+Thank you.
+
+**Links:**  
+**Non-receipt of SMS Invites for Students**  
+[https://go.gov.sg/moevaccsmsngc](https://go.gov.sg/moevaccsmsngc)
