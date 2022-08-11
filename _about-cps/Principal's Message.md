@@ -49,5 +49,5 @@ In the words of Aristotle, “We are what we repeatedly do. Excellence therefore
 
 Thank you!
 
-Mr Chua Choon Hock (Chris)   
-Principal
+**Mr Chua Choon Hock (Chris)**   
+**Principal**
