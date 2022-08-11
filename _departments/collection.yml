@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Mathematics.md
       - CCE/Character and Citizenship Education.md
       - CCE/Moe Sexuality Education in Schools.md
