@@ -25,7 +25,8 @@ Thank you.
   
 
 **Zoom Webinar (Password: MOEVac)**  
-[https://go.gov.sg/moevacwebinar](https://go.gov.sg/moevacwebinar)  
+[https://go.gov.sg/moevacwebinar](https://go.gov.sg/moevacwebinar) 
+
 **Survey on Student Vaccination**  
 [https://go.gov.sg/moevacqn](https://go.gov.sg/moevacqn)
 
