@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Information for New Students/.keep
-      - Information for New Students.md
       - Virtual Tour @ Cedar Primary.md
       - School Related Services/Student Care Centre.md
       - School Related Services/School Bookshop.md
