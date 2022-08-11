@@ -46,14 +46,14 @@ During school term and school holidays.
 Please click the respective class for the School Booklist and Pricing.  
   
 
-*   [Primary 1](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P1%20BOOKLIST%202020.pdf)
-*   [Primary 2](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P2%20BOOKLIST%202020.pdf)
-*   [Primary 3](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P3%20BOOKLIST%202020.pdf)
-*   [Primary 4](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P4%20BOOKLIST%202020.pdf)
-*   [Primary 5](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20BOOKLIST%202020.pdf/qql/slot/u536/Parents/School%20Book%20List/CPS%20P5%20BOOKLIST.PDF)
-*   [Primary 5 (Foundation)](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20FDN%20BOOKLIST%202020.pdf)
-*   [Primary 6](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P6%20BOOKLIST%202020.pdf)
-*   [Primary 6 (Foundation)](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P6%20FDN%20BOOKLIST%202020.pdf)
+*   [Primary 1](/files/P1%20BOOKLIST%202020.pdf)
+*   [Primary 2](/files/P2%20BOOKLIST%202020.pdf)
+*   [Primary 3](/files/P3%20BOOKLIST%202020.pdf)
+*   [Primary 4](/files/P4%20BOOKLIST%202020.pdf)
+*   [Primary 5](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20BOOKLIST%202020.pdf/qql/slot/u536/Parents/School%20Book%20List/CPS%20P5%20BOOKLIST.PDF) - file not found
+*   [Primary 5 (Foundation)](/files/P5%20FDN%20BOOKLIST%202020.pdf)
+*   [Primary 6](/files/P6%20BOOKLIST%202020.pdf)
+*   [Primary 6 (Foundation)](/files/P6%20FDN%20BOOKLIST%202020.pdf)
 
   
 7\. School Uniform List: Please click [here](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/KAH%20HUAT%20UNIFORM%20SALES%202019.pdf) for school uniform list and pricing.  
