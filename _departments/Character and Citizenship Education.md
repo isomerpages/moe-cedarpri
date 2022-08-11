@@ -32,3 +32,19 @@ Skills, knowledge and dispositions that enable students to
 
 ![](/images/CCE2.png)
 Diagram:  MOE 21st Century Competencies
+
+
+**Social Emotional Learning**
+
+In Cedar Primary School, we look into taking care of the holistic development of our students. Social and Emotional Learning (SEL) is one of the key strategies for holistic development as we seek to build competencies in our students to develop them into well-rounded individuals.
+
+This is carried out through specific curriculum for SEL: Form Teacher Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education & Career Guidance, and Cyber Wellness.
+
+
+**a)** **Form Teacher Guidance Period (FTGP)**
+
+Form Teacher Guidance Period (FTGP) provides quality interaction time between form teachers and students, and equip students with social and emotional competencies.
+
+The FTGP concept is illustrated as below:
+
+![](/images/CCE3.png)
