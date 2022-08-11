@@ -56,19 +56,19 @@ Please click the respective class for the School Booklist and Pricing.
 *   [Primary 6 (Foundation)](/files/P6%20FDN%20BOOKLIST%202020.pdf)
 
   
-7\. School Uniform List: Please click [here](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/KAH%20HUAT%20UNIFORM%20SALES%202019.pdf) for school uniform list and pricing.  
+7\. School Uniform List: Please click [here](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/KAH%20HUAT%20UNIFORM%20SALES%202019.pdf) for school uniform list and pricing.  - file not found
   
 8.  Request for School ferry bus form.   
 
-*   [Cedar ComfortDelgro Ferry bus form](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/SCH%20FERRY%20BUS%202020/Sch%20Registration%20Form-CEDAR%202020%20New%20comer.pdf)
-*   [Cedar ComfortDelgro CCA bus form](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Administrative%20Matters/Cedar%20CCA%20Form%202019.pdf)
-*   [Price List](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/SCH%20FERRY%20BUS%202020/Cedar%20Bus%20Fare.pdf)
+*   [Cedar ComfortDelgro Ferry bus form](/files/Sch%20Registration%20Form-CEDAR%202020%20New%20comer.pdf)
+*   [Cedar ComfortDelgro CCA bus form](/files/Cedar%20CCA%20Form%202019.pdf)
+*   [Price List](/files/Cedar%20Bus%20Fare.pdf)
 
   
 
 9\. Canteen Matters
 
-a. [Canteen Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/Main%20Page/Cedar%20Primary%20School%20Canteen.docx)  
+a. [Canteen Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/Main%20Page/Cedar%20Primary%20School%20Canteen.docx)  - file not found 
 b. Refer to: [Eating Healthily at The School Canteen](https://www.healthhub.sg/live-healthy/511/Healthy%20meals%20in%20school)  
 c. Easy Snacks for Break Time!
 
@@ -81,7 +81,7 @@ In line with Healthy Meals in School Programme (HMSP), we would like to refresh 
 a. Group personal accident insurance for students
 
 \-    Website: [Group personal accident insurance for students](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)   
-\-    NTUC Income Insurance Co-operative Limited - Student Accident Protection Scheme - Group Personal Accident (GPA) Insurance. [FAQs for Parents](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Administrative%20Matters/NTUC%20FAQs%20for%20Parents_V2.pdf)
+\-    NTUC Income Insurance Co-operative Limited - Student Accident Protection Scheme - Group Personal Accident (GPA) Insurance. [FAQs for Parents](/files/NTUC%20FAQs%20for%20Parents_V2.pdf)
 
 b. For Group Travel Insurance Claim Portal for School Trips, [click here](https://onlinetravelclaim.income.com.sg/travel-claim-web/travel).
 
