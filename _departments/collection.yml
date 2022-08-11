@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Languages/.keep
       - Science.md
       - Mathematics.md
       - CCE/Character and Citizenship Education.md
