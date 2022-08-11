@@ -85,6 +85,6 @@ c.       Character and Citizenship Education (CCE)
 
 9.         Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable for [P5](/files/P5%20GY%20Letter.pdf) and [P6](/files/P6%20GY%20Letter.pdf). The completed opt-out form is to be submitted by 18/02/2022.
 
-10.       Parents can contact the school at 62885633 or [cedar\_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10.       Parents can contact the school at 62885633 or [cedar_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.       Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
