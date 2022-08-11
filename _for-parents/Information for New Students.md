@@ -18,8 +18,8 @@ description: ""
 
   
   
-2. [Cedar Primary School Layout](https://cedarpri-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Information%20for%20New%20Students/Cedar%20Primary%20School%20Layout%20(2019).pdf)  
+2. [Cedar Primary School Layout](/files/Cedar%20Primary%20School%20Layout%20(2019).pdf)  
   
   
 3\. Taking care of your belongings  
-[Responsiblity - Taking care of your belongings](https://cedarpri-moe-edu-sg-admin.cwp-stg.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Information%20for%20New%20Students/Responsiblity%20-%20Taking%20care%20of%20your%20belongings.pdf)
+[Responsiblity - Taking care of your belongings](/files/Responsiblity%20-%20Taking%20care%20of%20your%20belongings.pdf)
