@@ -2,6 +2,7 @@ collections:
   about-cps:
     output: true
     order:
+      - School Rules.md
       - Key Personnel.md
       - School Staff/School Staff.md
       - School Staff/P1 and P2 Form Teachers.md
