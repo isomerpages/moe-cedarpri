@@ -2,5 +2,7 @@ logo: /images/logo_sub.png
 links:
   - title: About Cps
     collection: about-cps
+  - title: Departments
+    collection: departments
   - title: Contact Us
     url: /contact-us/
