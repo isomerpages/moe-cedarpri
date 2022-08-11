@@ -41,5 +41,5 @@ Social and Emotional Learning (SEL) is the process through which young Cedarians
 2.    Ms Nurjannah                                 PAL VA Specialist / ST Art    
 3.    Mr Daryl Sung Tze Hao              SG PAL Specialist / PAL Co-ordinator   
 4.    Mr Rizal Aziz                                    OE PAL Specialist   
-5.    Mr Firdaus                                         PAL PA Specialist
-6.    Ms Cindy Chan                                PAL PA Specialist   
+5.    Mr Firdaus                                         PAL PA Specialist    
+6.    Ms Cindy Chan                                PAL PA Specialist
