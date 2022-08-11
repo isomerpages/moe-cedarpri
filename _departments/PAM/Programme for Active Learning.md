@@ -34,7 +34,7 @@ Social and Emotional Learning (SEL) is the process through which young Cedarians
 
 
 
-### **PAL Planning Team**
+### PAL Planning Team
 
 
 1.    Mr Jabbar Jaafar                           PAL Advisor   
@@ -43,3 +43,8 @@ Social and Emotional Learning (SEL) is the process through which young Cedarians
 4.    Mr Rizal Aziz                                    OE PAL Specialist   
 5.    Mr Firdaus                                         PAL PA Specialist    
 6.    Ms Cindy Chan                                PAL PA Specialist
+
+
+
+### PAL Exposure
+
