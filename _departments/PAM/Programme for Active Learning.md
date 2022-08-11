@@ -48,3 +48,7 @@ Social and Emotional Learning (SEL) is the process through which young Cedarians
 
 ### PAL Exposure
 
+| **Term** 	| 1 	| 2 	| 3 	| 4 	|
+|---	|---	|---	|---	|---	|
+| **Primary 1** 	| Visual Art 	| Games and Sports 	| Performing Art (Music) 	| Outdoor Education 	|
+| **Primary 2** 	| Games and Sports 	| Visual Art 	| Outdoor Education 	| Performing Art (Music) 	|
