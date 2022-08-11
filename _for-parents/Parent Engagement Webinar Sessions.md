@@ -25,10 +25,10 @@ description: ""
 
 **Primary 4**  
 
-[Principal's Address](/files/P4%20Principals%20Address%20(1).pdf)    
-[Curriculum Matters](/files/P4%20Curriculum%20Matters%20(1).pdf)  
-[Assessment and Student Well-Being](/files/P4%20Assessment%20%20Student%20Well-Being.pdf)  
-[FAQs](/files/P4%20FAQs.pdf)  
+1. [Principal's Address](/files/P4%20Principals%20Address%20(1).pdf)    
+2. [Curriculum Matters](/files/P4%20Curriculum%20Matters%20(1).pdf)  
+3. [Assessment and Student Well-Being](/files/P4%20Assessment%20%20Student%20Well-Being.pdf)  
+4. [FAQs](/files/P4%20FAQs.pdf)  
 
 **Primary 5**  
 
