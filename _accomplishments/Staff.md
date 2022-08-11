@@ -5,7 +5,7 @@ description: ""
 ---
 # **Staff**
 
-MOE Service Excellence Award (MSEA) 2021. Silver Award Winners.
+**MOE Service Excellence Award (MSEA) 2021. Silver Award Winners.**
 
 1.            Mdm Arba’ah Binte Sa’ad  
 2.            Mdm Chee Lai Fun Angelia   
@@ -16,11 +16,11 @@ MOE Service Excellence Award (MSEA) 2021. Silver Award Winners.
 7.            Mdm Zubaidah Binte Abdul Wahab   
 8.            Mr Lau Ah Tee
 
-NIE Management and Leadership in Schools Programme Graduation certificate to:
+**NIE Management and Leadership in Schools Programme Graduation certificate to:**
 
 1.            Mr Foo Yong Chin, Ivan
 
-Long Service Awards to the following officers:
+**Long Service Awards to the following officers:**
 
 1.            Mr Tan Meng Khiang   
 2.            Mr Ng Chong Lin   
@@ -44,10 +44,10 @@ Long Service Awards to the following officers:
 20.          Mrs Chia Soon Neo Constance    
 21.          Mr Yeo Teow Hiang
 
-Diamond Award , Sony Creative Science Award  2020
+**Diamond Award , Sony Creative Science Award 2020**
 
 1.            Ms Karen Thiang Soo Cheng       
 
-MOE Special Appreciation Award to:
+**MOE Special Appreciation Award to:**
 
 1.            Mr Lau Ah Thee, 5 years
