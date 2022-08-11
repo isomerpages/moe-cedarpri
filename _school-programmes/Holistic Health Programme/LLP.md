@@ -53,18 +53,13 @@ Be it a simple cheer when the team is facing a challenge or a "hi-5" gesture whe
 
 ![](/images/3-Level%20Approach%20in%20Leadership%20Development.png)
 
-
 *   **Exposure: Leading Self and Peers (Level 1)**
 
 All students will be exposed to a Basic Leadership Development programme which comprises CCE lessons, character & leadership camps, VIA, PE and Sports Modules, Environmental Education, Creative and Inventive Thinking (CIT) Programme in problem-solving. The focus is on developing a greater sense of self-awareness, self-confidence and self-efficacy.
 
-  
-
 *   **Experience: Leading Others (Level 2)**
 
 The focus at this level is on developing greater social awareness and interpersonal skills Students who are identified with leadership potential at Primary 3 and above will be given more opportunities to practise and experience leadership roles at the school level. These students will be given platforms and programmes for them to improve and sharpen their leadership potential.
-
-  
 
 *   **Excellence: Leading the Leaders (Level 3)**
 
