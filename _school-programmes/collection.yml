@@ -2,4 +2,5 @@ collections:
   school-programmes:
     output: true
     order:
+      - Outdoor Education Programme/Character & Development Camp.md
       - Outdoor Education Programme/.keep
