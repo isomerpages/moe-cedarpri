@@ -25,10 +25,10 @@ For every student, we strive to develop a mathematical mindset translated into t
 
 **Our Pedagogy**
 
-Gradual Release of Responsibility
+**Gradual Release of Responsibility**
 
 Our teachers adopt the Gradual Release of Responsibility (GRR) Instructional Structure with the intent of teachers transiting from assuming all the responsibility for performing a task or solving a problem to students assuming all of the responsibility.
 
-Concrete-Pictorial-Abstract Approach
+**Concrete-Pictorial-Abstract Approach**
 
 Math lessons are characterised by students manipulating concrete materials to develop fundamental concepts before the transition to pictorial and then abstract representations.
