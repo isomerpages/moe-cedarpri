@@ -33,6 +33,6 @@ The ICT department serves to spearhead the school’s efforts in the integration
 All ICT baseline lessons are strategically integrated with specific subjects and are carried out during curriculum hours by the subject teachers with assistance from the ICT department. The baseline programmes help ensure that our students have achieved a certain level of competency in their ICT skills before they are exposed to more ICT-infused lessons as they progress up the levels.
 
 
-### Cyber Wellness
+**Cyber Wellness**
 
 Cedar Primary School's Cyber Wellness approach is guided by MOE's Cyber Wellness framework.
