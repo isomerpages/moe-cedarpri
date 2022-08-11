@@ -7,14 +7,14 @@ third_nav_title: PAM
 # **Programme for Active Learning**
 
  
-**Vision and Mission** 
+### Vision and Mission
 
 Programme for Active Learning (PAL) is introduced in Primary Schools to balance the acquisition of knowledge with the development of soft skills and the school values.
 
 PAL aims to facilitate the well-rounded development of students in the five learning domains (cognitive, moral, social, aesthetics and physical) and help them to develop social emotional competencies. It also hopes to nurture in Cedarians the 3 Cs, namely, Confidence, Curiosity and Cooperation skills.
 
 
-**Curriculum and Programmes**
+### Curriculum and Programmes
 
 In Cedar Primary School, PAL is conducted within curriculum time, PAL modules provide Cedarians with broad exposure in areas such as Outdoor Education (OE), Games and Sports - including gymnastics (GS), Visual Arts (VA) and Performing Arts (PA).
 
