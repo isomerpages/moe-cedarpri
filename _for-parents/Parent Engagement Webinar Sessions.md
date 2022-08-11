@@ -32,11 +32,10 @@ description: ""
 
 **Primary 5**  
 
-[Principal's Address](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P5%20Parent%20Engagement/1.%20Pincipals%20Address.pdf)  
-
-[Curriculum Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P5%20Parent%20Engagement/2.%20P5%20%20Curriculum%20Matters.pdf)  
-[Student Development Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P5%20Parent%20Engagement/3.%20P5%20AYH%20Student%20Development%20Matters.pdf)  
-[FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P5%20Parent%20Engagement/4.%20P5%202022%20Parents%20Engagement%20FAQs.pdf)  
+[Principal's Address](/files/P5%20Principals%20Address.pdf)  
+[Curriculum Matters](/files/P5%20%20Curriculum%20Matters.pdf)  
+[Student Development Matters](/files/P5%20AYH%20Student%20Development%20Matters.pdf) 
+[FAQs](/files/P5%202022%20Parents%20Engagement%20FAQs.pdf)  
   
   
 
