@@ -34,22 +34,13 @@ based on justice and equality
 so as to achieve happiness, prosperity    
 and progress for our nation.
 
-  
-
-  
-
 **Ikrar Kita**
 
-Kami, warganegara Singapura,
-
-sebagai rakyat yang bersatu padu,
-
-tidak kira apa bangsa, bahasa, atau ugama,
-
-berikrar untuk membina suatu masyarakat yang demokratik,
-
-berdasarkan kepada keadilan dan persamaan untuk mencapai kebahagiaan,
-
+Kami, warganegara Singapura,   
+sebagai rakyat yang bersatu padu,   
+tidak kira apa bangsa, bahasa, atau ugama,   
+berikrar untuk membina suatu masyarakat yang demokratik,   
+berdasarkan kepada keadilan dan persamaan untuk mencapai kebahagiaan,    
 kemakmuran dan kemajuan bagi negara Kami.
 
   
