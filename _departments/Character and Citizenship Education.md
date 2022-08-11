@@ -62,11 +62,7 @@ Click [here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict) fo
 
 **II. CITIZENSHIP EDUCATION**
 
-  
-
 As we focus on building up the character of our Cedarians, we also look at cultivating responsible citizens that will contribute back to society and make a difference, whether they are in school or out in the community.
-
-  
 
 Various key programmes like CCE lessons, Values in Action (VIA), National Education, Social Studies and Environmental Awareness have been put in place to engage the heads, hearts and hands of the students.
 
