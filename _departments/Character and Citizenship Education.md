@@ -3,7 +3,7 @@ title: Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education
 description: ""
 ---
-Character and Citizenship Education
+# **Character and Citizenship Education**
 
 ### Vision and Mission
 
