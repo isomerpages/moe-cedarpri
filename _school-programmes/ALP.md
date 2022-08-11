@@ -20,7 +20,7 @@ The purpose of **Creative and Inventive Thinking (CIT) Programme** is twofold.
 We incorporate our school values and CCE domains into the CIT Programme to ensure that our school values are lived rather than merely espoused values. Providing our students the relevant platforms will therefore be an important component for the students’ growth and learning. Through the VIA (Values In Action) programme, all Cedarians will be provided opportunities both in school and without (i.e. at home, charitable organisations and the Potong Pasir and Sennett Estate community) to implement CIT. Thus all Cedarians will be able to develop a deeper appreciation of their capacity to generate values-based solutions to meet community needs and thus learn to become contributing citizens, despite their tender age.
 
 
-### Our Approach
+#### Our Approach
 
 **Creative and Inventive Thinking (CIT) Programme** is a school-wide programme that aims to develop and enhance students’ learning attitude and thinking skills, particularly in the areas of creativity and critical thinking. As problem contexts are based on issues faced by the community, this programme complements the “Values in Action” (VIA) programme conducted as part of Character and Citizenship Education (CCE).
 
