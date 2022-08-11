@@ -8,7 +8,7 @@ description: ""
 
 **Verse 1**
 
-<img src="/images/School%20Song.png" style="width:300px;height:450px;margin-left:15px;" align = "right">
+<img src="/images/School%20Song.png" style="width:400px;height:650px;margin-left:15px;" align = "right">
 
 Cedarians with hopes and dreams
 We work and play respectfully in teams
