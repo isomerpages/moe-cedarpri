@@ -1,4 +1,5 @@
 collections:
   school-programmes:
     output: true
-    order: []
+    order:
+      - Outdoor Education Programme/.keep
