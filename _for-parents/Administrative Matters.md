@@ -64,8 +64,6 @@ Please click the respective class for the School Booklist and Pricing.
 *   [Cedar ComfortDelgro CCA bus form](/files/Cedar%20CCA%20Form%202019.pdf)
 *   [Price List](/files/Cedar%20Bus%20Fare.pdf)
 
-  
-
 9\. Canteen Matters
 
 a. [Canteen Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/Main%20Page/Cedar%20Primary%20School%20Canteen.docx)  - file not found 
