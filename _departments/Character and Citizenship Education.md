@@ -12,7 +12,7 @@ To instil values and build the character of Cedarians, engaging them in their he
 
 ### Curriculum and Programmes
 
-**I. CHARACTER EDUCATION**
+#### I. CHARACTER EDUCATION
 
 Values are taught to our students through various platforms:
 
@@ -60,7 +60,7 @@ Click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-l
 Click [here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict) for link to ICT department’s page on Cyber Wellness.
 
 
-**II. CITIZENSHIP EDUCATION**
+#### II. CITIZENSHIP EDUCATION
 
 As we focus on building up the character of our Cedarians, we also look at cultivating responsible citizens that will contribute back to society and make a difference, whether they are in school or out in the community.
 
