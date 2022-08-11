@@ -24,3 +24,10 @@ The Science Curriculum Framework encapsulates the thrust of science education to
 
 
 **Themes for Each Level**
+
+|  	| Level 	| Term 1 	| Term 2 	| Term 3 	| Term 4 	|
+|---	|---	|---	|---	|---	|---	|
+| Lower Block 	| Primary 3 	| Diversity 	| Diversity & Systems 	| Systems & Interactions 	| Interactions 	|
+|  	| Primary 4 	| Cycles  	| Cycles 	| Energy 	| Energy 	|
+| Upper Block 	| Primary 5 	| Systems 	| Systems 	| Cycles 	| Cycles 	|
+|  	| Primary 6 	| Energy 	| Interactions 	| Interactions 	| - 	|
