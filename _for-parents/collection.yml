@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for New Students/.keep
+      - Information for New Students/Information for New Students.md
       - Information for New Students/National Anthem.md
       - Information for New Students/National Pledge.md
-      - Information for New Students/Information for New Students.md
-      - Information for New Students/.keep
       - Virtual Tour @ Cedar Primary.md
       - School Related Services/Student Care Centre.md
       - School Related Services/School Bookshop.md
