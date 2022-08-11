@@ -32,3 +32,4 @@ Book Fair during MTL Fortnight – Promoting Reading
 
 <img src="/images/Thrukkural%20Message%20Via%20Stories.jpg" 
      style="width:70%">
+<center>Thrukkural Message Via Stories</center>
