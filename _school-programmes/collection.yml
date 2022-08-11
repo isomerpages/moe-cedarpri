@@ -2,16 +2,16 @@ collections:
   school-programmes:
     output: true
     order:
-      - LLP.md
       - ALP.md
+      - LLP.md
       - Holistic Health Programme/.keep
       - Holistic Health Programme/Holistic Health Programme.md
       - Holistic Health Programme/Healthy Meals in School Programme.md
       - Holistic Health Programme/Clean Plate Campaign.md
       - Co Curricular Activities (CCA).md
+      - Outdoor Education Programme/.keep
       - Outdoor Education Programme/Sports & Health Carnival.md
       - Outdoor Education Programme/Go for Hope, Health & Harmony.md
       - Outdoor Education Programme/SwimSafer Programme.md
       - Outdoor Education Programme/Sports Exposure Programme.md
       - Outdoor Education Programme/Character & Development Camp.md
-      - Outdoor Education Programme/.keep
