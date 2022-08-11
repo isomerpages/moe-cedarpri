@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Holistic Health Programme/LLP.md
       - Holistic Health Programme/.keep
       - Holistic Health Programme/Holistic Health Programme.md
       - Holistic Health Programme/Healthy Meals in School Programme.md
