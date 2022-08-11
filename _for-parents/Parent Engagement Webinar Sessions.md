@@ -12,9 +12,9 @@ description: ""
 
 [Curriculum Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20and%20P2%20Parent%20Engagement/2.%20Curriculum%20Matters.pdf)  - file exceeds 5MB
 
-[Student Development Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20and%20P2%20Parent%20Engagement/3.%20Student%20Development%20and%20Well-Being.pdf)
+[Student Development Matters](/files/Student%20Development%20and%20Well-Being.pdf)
 
-[FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20and%20P2%20Parent%20Engagement/P1P2%202022%20Parents%20Engagement%20FAQs.pdf)  
+[FAQs](/files/P1P2%202022%20Parents%20Engagement%20FAQs.pdf) 
 
   
 
