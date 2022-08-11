@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAM/Aesthetics.md
       - PAM/Music.md
       - PAM/Programme for Active Learning.md
       - PAM/PAM.md
