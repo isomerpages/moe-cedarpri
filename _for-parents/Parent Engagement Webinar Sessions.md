@@ -8,7 +8,7 @@ description: ""
 
 **Primary 1 and 2**  
 
-[](/files/Principals%20Address.pdf)  
+[Principal's Address](/files/Principals%20Address.pdf)  
 
 [Curriculum Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20and%20P2%20Parent%20Engagement/2.%20Curriculum%20Matters.pdf)  - file exceeds 5MB
 
