@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admission Matters.md
       - Administrative Matters/.keep
       - Administrative Matters/Administrative Matters Forms.md
       - Administrative Matters/GIRO Form Application.md
