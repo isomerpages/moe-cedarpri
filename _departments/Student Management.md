@@ -19,8 +19,6 @@ Developing students to be positive role-models through active contribution to th
 
 ### Curriculum and Programmes
 
-  
-
 **I.    STUDENT DISCIPLINE**
 
 **Philosophy**
@@ -41,15 +39,13 @@ As the saying goes, “It takes a village to raise a child”. Hence, we adopts 
 | **E**ngage: 	| Connect with the students’ parents / guardians and better understand their family background. 	|
 | **E**nforce: 	| Students learn to take responsibility for their own actions. 	|
 | **R**estore: 	| Guide and re-orientate students by rebuilding character and restoring relationships. 	|
-
-  
-
-  
+ 
 
 **II.    STUDENT LEADERSHIP DEVELOPMENT PROGRAMME**
 
 
 The Student Leadership Programme aims to develop students with leadership capabilities and the desire to contribute to the community.
 
-
 The school conceptualised a three-level approach to cater to the developmental needs of all students with differing leadership abilities and potential. This 3-level approach aims to provide more intentional leadership opportunities to all students based on the rationale of grooming leaders to first have competent self-management skills, then create an impact in their classrooms, the school and finally the community.
+
+![](/images/3-Level%20Approach%20in%20Leadership%20Development.png)
