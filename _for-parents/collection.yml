@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - HBL Weekly Plan Archives.md
       - Quick Links.md
