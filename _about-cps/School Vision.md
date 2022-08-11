@@ -34,3 +34,5 @@ We are role models in leading innovation. We are reflective.  We always explore
 **A Connected Community: We work collaboratively, and build a caring and inclusive community.** 
 
 We work collaboratively towards our common vision. We embrace diversity and tap on everyone's strengths, abilities and skills. We have a positive influence on the community we are in and through our collective efforts, contribute to the development of a caring and inclusive community.
+
+![](/images/School%20VMVM%202020_for_web.png)
