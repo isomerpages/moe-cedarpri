@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Administrative Matters/MOE Financial Assistance Schemes.md
       - Administrative Matters/.keep
       - Administrative Matters/Administrative Matters Forms.md
+      - Administrative Matters/MOE Financial Assistance Schemes.md
       - Administrative Matters/Notification of Absence from School.md
       - Administrative Matters/Insurance for Students Online Application Group
         Personal Accident Insurance.md
