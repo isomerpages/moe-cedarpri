@@ -31,3 +31,15 @@ Our PAL programme ensures that all its PAL modules entails the 5 characteristics
 ### Social-Emotional Learning
 
 Social and Emotional Learning (SEL) is the process through which young Cedarians learn to recognise and manage emotions, care about themselves and others, make good decisions, behave ethically and responsibly, develop positive relationships, and avoid negative behaviours. It is the process through which Cedarians enhance their ability to integrate thinking, feeling, and behaving in order to achieve important life tasks. In Cedar Primary School, SEL can best be accomplished through a layered approach of skills lessons, infusion into the curricula and classroom practices, and an environment of safety, respect, and caring which models SEL values.
+
+
+
+### **PAL Planning Team**
+
+
+1.    Mr Jabbar Jaafar                           PAL Advisor   
+2.    Ms Nurjannah                                 PAL VA Specialist / ST Art    
+3.    Mr Daryl Sung Tze Hao              SG PAL Specialist / PAL Co-ordinator   
+4.    Mr Rizal Aziz                                    OE PAL Specialist   
+5.    Mr Firdaus                                         PAL PA Specialist
+6.    Ms Cindy Chan                                PAL PA Specialist   
