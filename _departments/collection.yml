@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - PAM/.keep
+      - PAM/PAM.md
       - PAM/Physical and Health Education.md
       - PAM/Aesthetics.md
       - PAM/Music.md
       - PAM/Programme for Active Learning.md
-      - PAM/PAM.md
-      - PAM/.keep
       - ICT.md
