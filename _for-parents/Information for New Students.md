@@ -17,9 +17,7 @@ description: ""
 [2021 P1 Orientation FAQ](/files/2021%20P1%20Orientation%20FAQ.pdf)
 
   
-  
 2. [Cedar Primary School Layout](/files/Cedar%20Primary%20School%20Layout%20(2019).pdf)  
-  
   
 3\. Taking care of your belongings  
 [Responsiblity - Taking care of your belongings](/files/Responsiblity%20-%20Taking%20care%20of%20your%20belongings.pdf)
