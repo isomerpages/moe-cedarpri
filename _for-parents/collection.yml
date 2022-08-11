@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Related Services/.keep
-      - KidsZone@Cedar.md
       - Direct School Admission (DSA).md
       - Sexuality Education Programme.md
       - Parent Support Group.md
