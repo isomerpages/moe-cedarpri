@@ -19,3 +19,17 @@ The following are the skills and values that the specific CCAs aim to impart:
 | Uniformed Group CCAs 	| Discipline, leadership resilience and endurance; useful life skills, such as tent-pitching, outdoor cooking and first aid 	|
 | Literary, Drama and Debate Club 	| Language acquisition and exploration through hands-on activities, which encourages collaboration with peers 	|
 | Kindness Club 	| Problem solving and solution implementation to promote kindness within the school and the community 	|
+
+Inventiveness, Language and Other CCAs
+
+(video to be uploaded on YT)
+
+Sports and Outdoor Education CCAs
+
+(video to be uploaded on YT)
+
+The Arts and Uniformed Groups CCAs
+
+(video to be uploaded on YT)
+
+(video to be uploaded on YT)
