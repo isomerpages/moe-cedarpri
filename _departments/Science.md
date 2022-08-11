@@ -19,5 +19,7 @@ The Science department seeks to provide every Cedarian with a Science education 
 
 The Science Curriculum Framework encapsulates the thrust of science education to prepare our students to be sufficiently adept as effective citizens, be able to function in and contribute to an increasingly technologically-driven society.
 
-
 ![](/images/Science%20Framework.png)
+
+
+**Themes for Each Level**
