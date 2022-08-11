@@ -29,3 +29,6 @@ Book Fair during MTL Fortnight – Promoting Reading
 <img src="/images/Singing%20Competition.jpg" 
      style="width:40%">
 <center>Singing Competition</center>
+
+<img src="/images/Thrukkural%20Message%20Via%20Stories.jpg" 
+     style="width:40%">
