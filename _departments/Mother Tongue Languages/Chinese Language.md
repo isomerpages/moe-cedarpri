@@ -27,3 +27,13 @@ The primary objective of MTL Fortnight and Language Camp is to create an immersi
 During the Fortnight, we provide platforms for students to actively learn MTL and the associated culture so that the students can experience MTL as “living languages”. Students learn to use MTL and appreciate culture through hands-on tasks such as drama, performances, story-telling, language game stations, competitions, talent corners, exhibitions and talks.
 
 ![](/images/Chinese%20Programme%20Activity%20(2).jpg)
+
+*   School-based Chinese Language Competitions (Term 3)
+
+*   National Chinese Language Competitions (throughout the year)
+
+  
+
+Useful links:
+
+*   知识网（[http://www.ezhishi.net](http://www.ezhishi.net/)）
