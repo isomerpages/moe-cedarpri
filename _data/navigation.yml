@@ -6,5 +6,7 @@ links:
     collection: departments
   - title: School Programmes
     collection: school-programmes
+  - title: Accomplishments
+    collection: about-cps
   - title: Contact Us
     url: /contact-us/
