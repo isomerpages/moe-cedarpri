@@ -32,10 +32,10 @@ description: ""
 
 **Primary 5**  
 
-[Principal's Address](/files/P5%20Principals%20Address.pdf)  
-[Curriculum Matters](/files/P5%20%20Curriculum%20Matters.pdf)  
-[Student Development Matters](/files/P5%20AYH%20Student%20Development%20Matters.pdf) 
-[FAQs](/files/P5%202022%20Parents%20Engagement%20FAQs.pdf)  
+1. [Principal's Address](/files/P5%20Principals%20Address.pdf)  
+2. [Curriculum Matters](/files/P5%20%20Curriculum%20Matters.pdf)  
+3. [Student Development Matters](/files/P5%20AYH%20Student%20Development%20Matters.pdf)    
+4. [FAQs](/files/P5%202022%20Parents%20Engagement%20FAQs.pdf)  
   
   
 
