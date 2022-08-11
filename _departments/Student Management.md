@@ -33,13 +33,8 @@ Discipline is an educational process of developing students' thinking and moral 
   
 As the saying goes, “It takes a village to raise a child”. Hence, we adopts a whole-school, multi-pronged approach by collaborating and communicating with staff, families, partners and external agencies to ensure that a consistent approach is used in developing our students holistically.
 
-  
 
-### STEER Approach
-
-  
-
-|  	|  	|
+| STEER Approach 	|  	|
 |---	|---	|
 | **S**ense: 	| Understand the student and find out the reasons for his/her actions 	|
 | **T**each: 	| Teach SEL competencies and skills, school values, and 3Rs (Do the Right thing at the Right time Right place) through existing platforms such as Form Teachers Guidance Period, Character and Citizenship Education, Co-Curricular Activities etc. 	|
@@ -53,10 +48,8 @@ As the saying goes, “It takes a village to raise a child”. Hence, we adopts 
 
 **II.    STUDENT LEADERSHIP DEVELOPMENT PROGRAMME**
 
-  
 
 The Student Leadership Programme aims to develop students with leadership capabilities and the desire to contribute to the community.
 
-  
 
 The school conceptualised a three-level approach to cater to the developmental needs of all students with differing leadership abilities and potential. This 3-level approach aims to provide more intentional leadership opportunities to all students based on the rationale of grooming leaders to first have competent self-management skills, then create an impact in their classrooms, the school and finally the community.
