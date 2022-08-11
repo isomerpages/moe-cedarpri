@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
+      - Administrative Matters/.keep
+      - Administrative Matters/Administrative Matters Forms.md
+      - Administrative Matters/Notification of Absence from School.md
       - Administrative Matters/Insurance for Students Online Application Group
         Personal Accident Insurance.md
       - Administrative Matters/Updating of Student's Official Address.md
-      - Administrative Matters/Administrative Matters Forms.md
-      - Administrative Matters/Notification of Absence from School.md
-      - Administrative Matters/.keep
       - Information for New Students/.keep
       - Information for New Students/Information for New Students.md
       - Information for New Students/National Anthem.md
