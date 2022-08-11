@@ -4,9 +4,7 @@ permalink: /for-parents/quick-links
 description: ""
 ---
 # **Quick Links**
-
-  
-**Ministry of Education Websites**  
+### Ministry of Education Websites 
 
 *   [MOE Website](https://www.moe.gov.sg/)
 *   [School Information Services](https://sis.moe.gov.sg/)
