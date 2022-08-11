@@ -48,3 +48,13 @@ Form Teacher Guidance Period (FTGP) provides quality interaction time between fo
 The FTGP concept is illustrated as below:
 
 ![](/images/CCE3.png)
+
+**b) Education & Career Guidance**
+
+Education & Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations 
+
+Click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance) for link to MOE’s ECG page.
+
+**c)  Cyber Wellness**  
+
+Click [here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict) for link to ICT department’s page on Cyber Wellness.
