@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Video Conferencing Guide.md
       - HBL Weekly Plan Archives.md
       - Quick Links.md
