@@ -29,3 +29,11 @@ Our CIT Programme is based on the broad principles of Creative Problem Solving c
 ![](/images/Creative%20Problem%20Saving.jpg)
 
 A simplified Creative Problem Solving approach, the CREATE methodology (see below), was implemented by the school for the CIT Programme to guide students when they design appropriate solutions to address everyday problems faced by their immediate community.
+
+![](/images/CREATE%20Methodology.png)
+
+To optimise the learning opportunities for our students, we also tap on the partnerships with our parents and the community. For example, parents could be roped in to help assess students’ involvement and commitment to VIA at home. This will help to reinforce the values that students have acquired. Partnerships with the community provide our students the platforms to practise 21st century competencies in communication and collaborations as our students contribute ideas and solutions to address community based issues.
+
+
+**Reference**    
+Isaksen, S. G., Dorval, K. B., & Treffinger, D. J. (2000). Creative approaches to problem solving. (2nd Ed.).Dubuque, IA: Kendall/Hunt.
