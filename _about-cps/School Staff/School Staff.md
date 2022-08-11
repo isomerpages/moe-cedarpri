@@ -4,6 +4,21 @@ permalink: /about-cps/School-Staff
 description: ""
 third_nav_title: School Staff
 ---
+# **School Staff**
+
+[P1 and P2 Form Teachers](/about-cps/school-staff/p1-and-p2-form-teachers)   
+[P3 and P4 Form Teachers](/about-cps/school-staff/p3-and-p4-form-teachers)   
+[P5 and P6 Form Teachers](/about-cps/school-staff/p5-and-p6-form-teachers)
+
+### Allied Educators
+
+| Name 	| Designation 	|
+|---	|---	|
+| Mdm Meyyammai Arun 	| Allied Educator (LBS) 	|
+| Mdm Ng Soh Hoon Betty 	| School Counsellor  	|
+
+
+
 ### Executive Administrative Staff
 
 | Name 	| Designation 	|
