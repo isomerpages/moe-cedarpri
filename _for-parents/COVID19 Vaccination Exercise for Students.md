@@ -36,3 +36,5 @@ Thank you.
 [Vaccination for students Infographic](/files/Attachment%203-Vaccination%20for%20students%20Infographic.pdf)
 
 ![](/images/Vaccination%20Guide.jpeg)
+
+-------------------------------------------------------------------------
