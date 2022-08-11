@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Administrative Matters/Insurance for Students Online Application Group
+        Personal Accident Insurance.md
       - Administrative Matters/Updating of Student's Official Address.md
       - Administrative Matters/Administrative Matters Forms.md
       - Administrative Matters/Notification of Absence from School.md
