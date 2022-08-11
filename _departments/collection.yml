@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - PAM/.keep
-      - PAM.md
       - ICT.md
