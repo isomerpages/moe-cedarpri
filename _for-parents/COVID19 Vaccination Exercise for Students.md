@@ -26,19 +26,10 @@ Thank you.
 
 **Zoom Webinar (Password: MOEVac)**  
 [https://go.gov.sg/moevacwebinar](https://go.gov.sg/moevacwebinar)  
-  
-
 **Survey on Student Vaccination**  
 [https://go.gov.sg/moevacqn](https://go.gov.sg/moevacqn)
 
-  
 
-**Additional information**
-
-  
-
-[Why vaccinate your child](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2021/Why%20vaccinate%20your%20child.pdf)  
-
-  
-
-[Vaccination for students Infographic](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2021/Attachment%203-Vaccination%20for%20students%20Infographic.pdf)
+**Additional information**   
+[Why vaccinate your child](/files/Why%20vaccinate%20your%20child.pdf)  
+[Vaccination for students Infographic](/files/Attachment%203-Vaccination%20for%20students%20Infographic.pdf)
