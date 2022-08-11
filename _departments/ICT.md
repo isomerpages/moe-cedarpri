@@ -19,10 +19,9 @@ In the Cyber World
 
 The ICT department serves to spearhead the school’s efforts in the integration of ICT into the curriculum to develop 21CC and nurturing of responsible citizens of the cyber world
   
-**Curriculum and Programmes**
+### Curriculum and Programmes
  
-
-### ICT Baseline Programmes
+**ICT Baseline Programmes**
 
 *   Primary 1 – Basic Computer Operations and Touch-typing skills
 *   Primary 2 – MS Word
