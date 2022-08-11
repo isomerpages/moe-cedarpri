@@ -25,3 +25,7 @@ Book Fair during MTL Fortnight – Promoting Reading
 *   School-based Tamil Language Competitions
 *   National Tamil Language Competitions (throughout the year)
 	*   Students participate in relevant competitions organised by Vasantham MediaCorp and Community Clubs to showcase their talents. Such opportunities also help to build up our students' confidence in public speaking and increase their motivation in learning the language.
+
+<img src="/images/Singing%20Competition.jpg" 
+     style="width:40%">
+<center>Singing Competition</center>
