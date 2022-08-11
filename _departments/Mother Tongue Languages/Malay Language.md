@@ -19,3 +19,5 @@ The highlight of our ML programmes is the MTL Fortnight. This programme is packe
 *   National Malay Language Competitions (throughout the year)
 	*   Storytelling competition, Pentas Cilik, organised by Story Scribblers and supported by National Arts Council, National Library Board and Singapore Book Council. The competition was in conjunction with #BuySingLit 2019 movement, or ‘Buy Singapore Literature’.
 	*   Rentas Pantas 2019 organised by Persatuan Bahasa dan Budaya Melayu NTU/NIE (PERBAYU). Rentas Pantas is a language and cultural trail and is designed to instil the love and appreciation for the Malay language and culture as well as creating awareness of the Malay Literature and crafts among the students through various interactive activities
+
+![](/images/MTL%20-%20Malay.jpg)
