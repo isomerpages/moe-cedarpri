@@ -4,6 +4,12 @@ permalink: /school-programmes/outdoor-education-programme/swimsafer-programme
 description: ""
 third_nav_title: Outdoor Education Programme
 ---
+# **SwimSafer Programme**
+
+The P3 SwimSafer Programme is a highlight of our school’s Primary 3 Physical Education curriculum experience. Through SwimSafer, students will develop water confidence, understand the principles of water safety, and learn techniques to prevent drowning. In addition, SwimSafer builds our students’ physical and mental robustness and cultivates determination and resilience.
+
+We have specially arranged for the P3 SwimSafer Programme to be conducted throughout the whole of Term 3 during curriculum time. This will enable **_all_** P3 students to benefit from the swimming programme. The programme is broken down to six different stages and due to this, the school has ensured that the programme will also cater to the various entry levels of individual students. Below is some information of the different stages that our students may go through.
+
 |  	|  	|  	|
 |---	|---	|---	|
 | SWIMSAFER STAGE 1 	| Introduction to Water Skills 	| • The objective is develop confidence and independence in the water, learn general and deep-end water safety.<br>• Techniques taught include the forward and backward movements, safe entry and exit, and personal water safety. 	|
