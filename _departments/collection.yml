@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management.md
       - PAM/.keep
       - PAM/PAM.md
       - PAM/Physical and Health Education.md
