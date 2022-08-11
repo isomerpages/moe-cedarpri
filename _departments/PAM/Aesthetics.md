@@ -22,3 +22,12 @@ Aligned with MOE’s aim of Art Education, we also ensure that we enable every c
 ### Curriculum and Programmes
 
 In Cedar Primary School, we have a variety of art programmes and art module catered to the different levels as shown in the table:
+
+|  	|  	|
+|---	|---	|
+| Primary 1 	| Drawing Colouring Frottage Collage 	|
+| Primary 2 	| Drawing and Painting Clay Sculpture Printmaking 	|
+| Primary 3 	| Drawing and Painting 3D Pen Sculpture Clay Sculpture 	|
+| Primary 4 	| Stop Motion Animation Museum Based Learning Clay Sculpture 	|
+| Primary 5 	| Still Life Drawing Photojournalism Land Art 	|
+| Primary 6 	| Drawing and Designing Fashion Design Light and Paper Sculpture Post-Exam Activities 	|
