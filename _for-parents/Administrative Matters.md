@@ -80,8 +80,7 @@ In line with Healthy Meals in School Programme (HMSP), we would like to refresh 
 
 a. Group personal accident insurance for students
 
-\-    Website: [Group personal accident insurance for students](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)
-
+\-    Website: [Group personal accident insurance for students](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)   
 \-    NTUC Income Insurance Co-operative Limited - Student Accident Protection Scheme - Group Personal Accident (GPA) Insurance. [FAQs for Parents](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Administrative%20Matters/NTUC%20FAQs%20for%20Parents_V2.pdf)
 
 b. For Group Travel Insurance Claim Portal for School Trips, [click here](https://onlinetravelclaim.income.com.sg/travel-claim-web/travel).
