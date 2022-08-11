@@ -31,4 +31,4 @@ Book Fair during MTL Fortnight – Promoting Reading
 <center>Singing Competition</center>
 
 <img src="/images/Thrukkural%20Message%20Via%20Stories.jpg" 
-     style="width:40%">
+     style="width:70%">
