@@ -23,3 +23,53 @@ Curriculum hours:
 | Class 	| P1 & P4 	| P2 & P5 	|  P3 & P6 	|
 |---	|---	|---	|---	|
 | Time slot 	| 9:00am - 9.30am 	| 9:30am - 10:00am  	|  10:00am - 10:30am 	|
+
+
+**Snack break:**  
+
+*   Students are expected to be in school by 7:10am for pre-assembly programmes.
+*   Students must be in assembly areas and seated with their class.
+*   All students are expected to be in school for the flag raising ceremony latest by 7:30am. Students who come in after 7:30am will be considered as late. 
+
+**General Office opening hours:** 
+
+Mon - Fri: 7:00am to 5:00pm
+
+5\. Cedar School Library 
+
+**Opening hours: 7:00am - 4:00pm**  
+During school term and school holidays.  
+
+  
+6.  Approved Textbook List  
+  
+Please click the respective class for the School Booklist and Pricing.  
+  
+
+*   [Primary 1](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P1%20BOOKLIST%202020.pdf)
+*   [Primary 2](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P2%20BOOKLIST%202020.pdf)
+*   [Primary 3](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P3%20BOOKLIST%202020.pdf)
+*   [Primary 4](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P4%20BOOKLIST%202020.pdf)
+*   [Primary 5](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20BOOKLIST%202020.pdf/qql/slot/u536/Parents/School%20Book%20List/CPS%20P5%20BOOKLIST.PDF)
+*   [Primary 5 (Foundation)](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20FDN%20BOOKLIST%202020.pdf)
+*   [Primary 6](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P6%20BOOKLIST%202020.pdf)
+*   [Primary 6 (Foundation)](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P6%20FDN%20BOOKLIST%202020.pdf)
+
+  
+7\. School Uniform List: Please click [here](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/KAH%20HUAT%20UNIFORM%20SALES%202019.pdf) for school uniform list and pricing.  
+  
+8.  Request for School ferry bus form.   
+
+*   [Cedar ComfortDelgro Ferry bus form](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/SCH%20FERRY%20BUS%202020/Sch%20Registration%20Form-CEDAR%202020%20New%20comer.pdf)
+*   [Cedar ComfortDelgro CCA bus form](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Administrative%20Matters/Cedar%20CCA%20Form%202019.pdf)
+*   [Price List](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/SCH%20FERRY%20BUS%202020/Cedar%20Bus%20Fare.pdf)
+
+  
+
+9\. Canteen Matters
+
+a. [Canteen Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/Main%20Page/Cedar%20Primary%20School%20Canteen.docx)  
+b. Refer to: [Eating Healthily at The School Canteen](https://www.healthhub.sg/live-healthy/511/Healthy%20meals%20in%20school)  
+c. Easy Snacks for Break Time!
+
+In line with Healthy Meals in School Programme (HMSP), we would like to refresh parents with an infographic on some simple and easy-to-prepare snacks. These snacks  can be prepared for consumption during break-time in the classrooms
