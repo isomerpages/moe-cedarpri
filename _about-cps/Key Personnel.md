@@ -43,4 +43,10 @@ description: ""
 
 ### Lead Teachers and Senior Teachers
 
-
+| Designation 	| Name 	| Email 	|
+|---	|---	|---	|
+| Lead Teacher (Tamil Language) 	| Mdm Narayanan Thanaletchmi 	| [narayanan_thanaletchimi@moe.edu.sg](mailto:narayanan_thanaletchimi@moe.edu.sg) 	|
+| Lead Teacher (Chinese Language) 	| Mdm Lim Chun Ling 	| [lim_chun_ling@moe.edu.sg](mailto:lim_chun_ling@moe.edu.sg) 	|
+| Senior Teacher (English Language) 	| Mdm Maimon Bte Abdul Samad 	| [maimon_abdul_samad@moe.edu.sg](mailto:maimon_abdul_samad@moe.edu.sg) 	|
+| Senior Teacher (Mathematics) 	| Mdm Anita June Purasamy 	| [anita_june_purasamy@moe.edu.sg](mailto:anita_june_purasamy@moe.edu.sg) 	|
+| Senior Teacher (Art) 	| Ms Nurjannah Bte Ayub 	| [nurjannah_ayub@moe.edu.sg](mailto:nurjannah_ayub@moe.edu.sg) 	|
