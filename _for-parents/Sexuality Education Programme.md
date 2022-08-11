@@ -51,3 +51,5 @@ c.       Character and Citizenship Education (CCE)
 
 
 **At Cedar Primary School, the following Sexuality Education lessons will be taught in 2022:**
+
+#### Primary 5
