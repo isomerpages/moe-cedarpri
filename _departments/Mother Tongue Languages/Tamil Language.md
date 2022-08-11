@@ -19,4 +19,4 @@ To attain this objective, the Tamil department creates opportunities for our s
 ![](/images/MTL-Tamil.jpg)
 Students in Action - MTL Fortnight and P4 Cultural & Language Camp
 
-
+![](/images/MTL-Tamil%20(1).jpg)
