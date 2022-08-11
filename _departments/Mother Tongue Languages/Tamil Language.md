@@ -14,6 +14,9 @@ TL Enrichment Programmes/Activities:
 
 It is important for Cedar Primary's Tamil Language students to attain a certain level of proficiency in the language so that they are able to express themselves competently as well as to appreciate the historical, ethnic, cultural and moral values found in Tamil literature. The values imbibed will enhance their wholesome development and nurture good citizenship. 
 
-  
-
 To attain this objective, the Tamil department creates opportunities for our students to boost their creative thinking abilities and communication skills. We also provide the means for them to understand their cultural roots through participation in a variety of cultural activities and programmes, such as the MTL Fortnight.
+
+![](/images/MTL-Tamil.jpg)
+Students in Action - MTL Fortnight and P4 Cultural & Language Camp
+
+
