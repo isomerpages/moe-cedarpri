@@ -39,3 +39,5 @@ description: ""
 *   I am eager to learn new things and try out new ideas with others.
 *   I think of different ways to solve a challenge or make things better.
 *   I turn new ideas into reality that benefits the class, school and the community.
+
+![](/images/School%20Values.jpg)
