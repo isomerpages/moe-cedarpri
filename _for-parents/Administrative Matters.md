@@ -19,3 +19,7 @@ Curriculum hours:
 7:30am - 1:00pm (Friday)  
   
 **Recess:**
+
+| Class 	| P1 & P4 	| P2 & P5 	|  P3 & P6 	|
+|---	|---	|---	|---	|
+| Time slot 	| 9:00am - 9.30am 	| 9:30am - 10:00am  	|  10:00am - 10:30am 	|
