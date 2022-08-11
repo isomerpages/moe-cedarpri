@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - Administrative Matters.md
       - Parent Engagement Webinar Sessions.md
       - Termly Communique.md
       - Student Learning Space.md
       - Parent Gateway.md
       - COVID19 Vaccination Exercise for Students.md
       - Admission Matters.md
+      - Administrative Matters.md
       - Administrative Matters Forms/.keep
       - Administrative Matters Forms/Administrative Matters Forms.md
       - Administrative Matters Forms/GIRO Form Application.md
@@ -23,13 +23,13 @@ collections:
       - Information for New Students/National Anthem.md
       - Information for New Students/National Pledge.md
       - Virtual Tour @ Cedar Primary.md
+      - School Related Services/.keep
       - School Related Services/Student Care Centre.md
       - School Related Services/School Bookshop.md
       - School Related Services/School Uniform Supplier.md
       - School Related Services/School Bus Ferry Service.md
       - School Related Services/School Dental Services.md
       - School Related Services/KidsZone@Cedar.md
-      - School Related Services/.keep
       - Direct School Admission (DSA).md
       - Sexuality Education Programme.md
       - Parent Support Group.md
