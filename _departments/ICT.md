@@ -36,3 +36,6 @@ All ICT baseline lessons are strategically integrated with specific subjects and
 **Cyber Wellness**
 
 Cedar Primary School's Cyber Wellness approach is guided by MOE's Cyber Wellness framework.
+
+<img src="/images/Cyberwellness%20Principles.gif" 
+     style="width:50%">
