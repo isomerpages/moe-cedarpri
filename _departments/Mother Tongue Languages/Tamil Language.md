@@ -20,3 +20,4 @@ To attain this objective, the Tamil department creates opportunities for our s
 Students in Action - MTL Fortnight and P4 Cultural & Language Camp
 
 ![](/images/MTL-Tamil%20(1).jpg)
+Book Fair during MTL Fortnight – Promoting Reading
