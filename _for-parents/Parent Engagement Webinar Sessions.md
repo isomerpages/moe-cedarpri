@@ -36,23 +36,16 @@ description: ""
 2. [Curriculum Matters](/files/P5%20%20Curriculum%20Matters.pdf)  
 3. [Student Development Matters](/files/P5%20AYH%20Student%20Development%20Matters.pdf)    
 4. [FAQs](/files/P5%202022%20Parents%20Engagement%20FAQs.pdf)  
-  
-  
 
 **Primary 6**   
 
-[Principal's Address](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P6%20Parent%20Engagement/1.%20P6%20Parent%20Engagement_Principals%20Address.pdf)  
+1. [Principal's Address](/files/P6%20Parent%20Engagement_Principals%20Address.pdf)  
+2. [Curriculum and Student Development](/files/P6%20Parent%20Engagement_Curriculum%20and%20Student%20Development.pdf)  
+3. [FAQs](/files/P6%20Parent%20Engagement_FAQs.pdf)  
 
-[Curriculum and Student Development](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P6%20Parent%20Engagement/2.%20P6%20Parent%20Engagement_Curriculum%20and%20Student%20Development.pdf)  
-
-[FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P6%20Parent%20Engagement/3.%20P6%20Parent%20Engagement_FAQs.pdf)  
-
-  
 
 **Primary 1 Orientation**  
 
-[Principal's Address](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20Orientation/P1%202022_Orientation_Principals%20Address.pdf)  
-
-[Admin Brief](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20Orientation/P1%202022_%20Orientation%20Admin%20Brief.pdf)  
-
-[FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20Orientation/P1%202022%20Orientation%20FAQs.pdf)
+1. [Principal's Address](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20Orientation/P1%202022_Orientation_Principals%20Address.pdf)  - file exceeds 5MB    
+2. [Admin Brief](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P1%20Orientation/P1%202022_%20Orientation%20Admin%20Brief.pdf)  - file exceeds 5MB    
+3. [FAQs](/files/P1%202022%20Orientation%20FAQs.pdf)
