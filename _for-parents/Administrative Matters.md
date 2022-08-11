@@ -72,4 +72,18 @@ a. [Canteen Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Par
 b. Refer to: [Eating Healthily at The School Canteen](https://www.healthhub.sg/live-healthy/511/Healthy%20meals%20in%20school)  
 c. Easy Snacks for Break Time!
 
-In line with Healthy Meals in School Programme (HMSP), we would like to refresh parents with an infographic on some simple and easy-to-prepare snacks. These snacks  can be prepared for consumption during break-time in the classrooms
+In line with Healthy Meals in School Programme (HMSP), we would like to refresh parents with an infographic on some simple and easy-to-prepare snacks. These snacks  can be prepared for consumption during break-time in the classrooms.
+
+![](/images/Snacks%20for%20Breaktime.jpg)
+
+10\. Insurance for Students
+
+a. Group personal accident insurance for students
+
+\-    Website: [Group personal accident insurance for students](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)
+
+\-    NTUC Income Insurance Co-operative Limited - Student Accident Protection Scheme - Group Personal Accident (GPA) Insurance. [FAQs for Parents](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Cedar%20Pri%202019/For%20Parents/Administrative%20Matters/NTUC%20FAQs%20for%20Parents_V2.pdf)
+
+b. For Group Travel Insurance Claim Portal for School Trips, [click here](https://onlinetravelclaim.income.com.sg/travel-claim-web/travel).
+
+Hotline: 63321133
