@@ -34,3 +34,14 @@ Our teachers adopt the Gradual Release of Responsibility (GRR) Instructional Str
 Math lessons are characterised by students manipulating concrete materials to develop fundamental concepts before the transition to pictorial and then abstract representations.
 
 ![](/images/Concrete%20Pictorial%20Abstract%20Maths%20Learning.jpg)
+
+### Math Trails and Learning Journeys  
+
+Math trails and learning journeys provide opportunities for students to apply Math concepts beyond the four walls of a classroom in real-life situations. On Math trails and learning journeys, students are actively and meaningfully engaged. Such trails and journeys motivate and enthuse students to solve problems. In the process, students have more opportunities to work collaboratively with their peers.  
+
+Where applicable and relevant, the use of ICT is infused into the curriculum for topics such as graphs, pie-charts and average. Students are also enthused to develop factual fluency in the four operations by engaging in online math games.
+  
+
+### Our Enrichment Programme - Math Olympiad Training
+
+To stretch the potential of our P4 and P5 students who demonstrate an aptitude and a flair for mathematical problem-solving, they will undergo Math Olympiad training conducted by an external vendor. These students will then participate in the Math Olympiad organised by NUS High School of Mathematics and Science.
