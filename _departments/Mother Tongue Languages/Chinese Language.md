@@ -29,10 +29,7 @@ During the Fortnight, we provide platforms for students to actively learn MTL an
 ![](/images/Chinese%20Programme%20Activity%20(2).jpg)
 
 *   School-based Chinese Language Competitions (Term 3)
-
 *   National Chinese Language Competitions (throughout the year)
-
-  
 
 Useful links:
 
