@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Administrative Matters/Student Edusave SO Form.md
       - Administrative Matters/.keep
       - Administrative Matters/Administrative Matters Forms.md
+      - Administrative Matters/Student Edusave SO Form.md
       - Administrative Matters/MOE Financial Assistance Schemes.md
       - Administrative Matters/Notification of Absence from School.md
       - Administrative Matters/Insurance for Students Online Application Group
