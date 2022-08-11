@@ -3,7 +3,6 @@ title: ALP
 permalink: /school-programmes/alp
 description: ""
 ---
-
 # **ALP**
 
 ### Applied Learning Programme (ALP): Creative and Inventive Thinking Programme
@@ -11,7 +10,7 @@ description: ""
 Cedar Primary School was one of the Pilot schools for PAL (Programme for Active Learning) and the school decided to explore LEGO Education as one of its PAL electives. LEGO Education was chosen as a means of developing the students’ aesthetics awareness and also to promote creative thinking as the students were tasked to create artefacts to represent their impressions and solutions to community issues. This diversified further into the introduction of the creation of Science Toys for the Primary 3-5 students who are tasked to create toys based on specified scientific principles.
 
 
-### Aims
+#### Aims
 
 The purpose of **Creative and Inventive Thinking (CIT) Programme** is twofold. It aims to
 
