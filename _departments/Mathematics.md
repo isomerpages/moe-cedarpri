@@ -32,3 +32,5 @@ Our teachers adopt the Gradual Release of Responsibility (GRR) Instructional Str
 **Concrete-Pictorial-Abstract Approach**
 
 Math lessons are characterised by students manipulating concrete materials to develop fundamental concepts before the transition to pictorial and then abstract representations.
+
+<img src="/images/Concrete%20Pictorial%20Abstract%20Maths%20Learning%20(1).jpg" style="width:183px;height:300px;margin-left:15px;" align = "right">
