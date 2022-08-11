@@ -5,8 +5,6 @@ description: ""
 ---
 # **School Rules and Regulations**
 
-  
-
 ### GENERAL EXPECTATION
 
 Students are expected to conduct themselves in a manner which upholds the good name of the school.
