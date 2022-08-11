@@ -22,17 +22,13 @@ description: ""
 3. [Student Development Matters](/files/P3%20Student%20Development%20Matters.pdf)   
 4. [FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P3%20Parent%20Engagement/4.%20P3%20FAQs.pdf)  
 
-  
 
 **Primary 4**  
 
-[Principal's Address](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P4%20Parent%20Engagement/1.%20Principals%20Address.pdf)  
-
-[Curriculum Matters](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P4%20Parent%20Engagement/2.%20Curriculum%20Matters.pdf)  
-
-[Assessment and Student Well-Being](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P4%20Parent%20Engagement/3.%20Assessment%20%20Student%20Well-Being.pdf)  
-
-[FAQs](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/2022/P4%20Parent%20Engagement/4.%20FAQs.pdf)  
+[Principal's Address](/files/P4%20Principals%20Address%20(1).pdf)    
+[Curriculum Matters](/files/P4%20Curriculum%20Matters%20(1).pdf)  
+[Assessment and Student Well-Being](/files/P4%20Assessment%20%20Student%20Well-Being.pdf)  
+[FAQs](/files/P4%20FAQs.pdf)  
 
 **Primary 5**  
 
