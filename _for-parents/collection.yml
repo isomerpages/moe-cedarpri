@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Sexuality Education Programme.md
       - Parent Support Group.md
       - School Vendors.md
