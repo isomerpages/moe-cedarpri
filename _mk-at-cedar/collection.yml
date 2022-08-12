@@ -2,4 +2,5 @@ collections:
   mk-at-cedar:
     output: true
     order:
+      - MK @Cedar Virtual Tour.md
       - Kindergarten Care.md
