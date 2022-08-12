@@ -8,6 +8,10 @@ description: ""
 ### Home-based Learning
 
 **Home-based Learning Plans (13 July 2022)**
+
+
+
+
 |  	|  	|
 |---	|---	|
 | [Primary 1](/files/P1_CPS__HBL%20Plan_13%20Jul.pdf) 	| [Primary 2](/files/P2_CPS__HBL%20Plan_13%20Jul.pdf) 	|
