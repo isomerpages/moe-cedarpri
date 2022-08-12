@@ -6,3 +6,7 @@ description: ""
 # **Overview of MOE Kindergarten**
 
 The teaching and learning philosophy of our MK Educators are guided by the Vision, Mission and Values of the MOE Kindergarten.
+
+![](/images/MK(2).jpg)
+
+![](/images/MK(3).jpg)
