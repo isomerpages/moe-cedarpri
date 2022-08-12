@@ -37,3 +37,13 @@ Children will be able to recognise and understand values to build a healthy self
 ![](/images/MK.jpg)
 
 ![](/images/MK(1).jpg)
+
+**More Information**
+
+[MKCD Information](/files/MKCD%20Information%20for%20Website%202022.pdf)
+
+**Information on Registration**
+
+Please note that the Registration Exercise is fully online. Do click on the link below for more information on the procedures, eligibility and documents required.
+
+[https://www.moe.gov.sg/preschool/moe-kindergarten/register](https://www.moe.gov.sg/preschool/moe-kindergarten/register)
