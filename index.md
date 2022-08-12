@@ -21,10 +21,11 @@ sections:
         - title: P6 Parent Engagement Webinar 2022
           description: Info and FAQs here
           url: https://staging.d3n03330uml670.amplifyapp.com/for-parents/parent-engagement-webinar-sessions
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Virtual Tour @ MK Cedar
+      description: "For more information, "
+      button: Click here
+      url: /mk-at-cedar/mk-at-cedar-virtual-tour
+      image: /images/5fd498764_432.jpg
+      alt: Image alt text
 ---
