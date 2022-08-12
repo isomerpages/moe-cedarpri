@@ -12,12 +12,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Virtual Tour @ Cedar Primary
+          description: Find out more here!
+          url: /for-parents/virtual-tour-at-cedar-primary
+        - title: COVID-19 Vaccination Exercise for Students
+          description: Click here to find out more
+          url: /for-parents/covid-19-vaccination-exercise-for-students
         - title: Page A
           description: Page A is important too
           url: /privacy/
