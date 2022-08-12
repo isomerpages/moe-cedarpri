@@ -1,4 +1,5 @@
 collections:
   mk-at-cedar:
     output: true
-    order: []
+    order:
+      - Kindergarten Care.md
