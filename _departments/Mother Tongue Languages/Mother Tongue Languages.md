@@ -9,7 +9,7 @@ third_nav_title: Mother Tongue Languages
 ### Vision and Mission
 
 
-_Teaching M__other Tongue Language as a Living Language (for Teachers)_ 
+_Teaching Mother Tongue Language as a Living Language (for Teachers)_ 
 
 _Learners with lasting appreciation of Mother Tongue Language and Culture (for Students)_
 
