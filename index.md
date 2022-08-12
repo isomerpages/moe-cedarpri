@@ -18,9 +18,9 @@ sections:
         - title: COVID-19 Vaccination Exercise for Students
           description: Click here to find out more
           url: /for-parents/covid-19-vaccination-exercise-for-students
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: P6 Parent Engagement Webinar 2022
+          description: Info and FAQs here
+          url: https://staging.d3n03330uml670.amplifyapp.com/for-parents/parent-engagement-webinar-sessions
   - infobar:
       title: Infobar title
       subtitle: Subtitle
