@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Cedar Primary School
-      background: /images/cps.gif
+      background: /images/190522_312.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
