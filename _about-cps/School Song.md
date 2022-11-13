@@ -31,4 +31,3 @@ Creative and kind, we strive to be
 For our bright future, our responsibility.
 
 **Chorus**
-
