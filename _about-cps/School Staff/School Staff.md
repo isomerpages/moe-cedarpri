@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /about-cps/School-Staff
+permalink: /about-cps/School-Staff/
 description: ""
 third_nav_title: School Staff
 ---
@@ -26,6 +26,7 @@ third_nav_title: School Staff
 | Ms Amy Jen 	| Administration Manager 	|
 | Mr Lau Ah Tee 	| Operations Manager 	|
 | Mr Tng Ah Guan 	| Operations Manager 	|
+| Mdm Sharon Oh 	| ICT Manager 	|
 | Mdm Keetha d/o Suppiah Mrs S Keetha 	| Corporate Support Officer 	|
 | Mdm Rubiah Binte Ahmad 	| Administrative Executive 	|
 | Mdm Jennifer Lee Cheng Noi 	| Administrative Executive 	|
