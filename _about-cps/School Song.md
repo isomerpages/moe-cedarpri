@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /about-cps/school-song
+permalink: /about-cps/school-song/
 description: ""
 ---
 <h1><b>School Song</b></h1>
@@ -32,4 +32,3 @@ For our bright future, our responsibility.
 
 **Chorus**
 
-(audio to be uploaded onto yt)
