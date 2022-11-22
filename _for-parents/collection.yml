@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - HBL Plans.md
       - Parent Engagement Webinar Sessions.md
+      - HBL Plans.md
       - Termly Communique.md
       - Student Learning Space.md
       - Parent Gateway.md
