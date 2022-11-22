@@ -1,6 +1,6 @@
 ---
 title: School Bookshop
-permalink: /for-parents/school-related-services/school-bookshop
+permalink: /for-parents/school-related-services/school-bookshop/
 description: ""
 third_nav_title: School Related Services
 ---
@@ -13,4 +13,4 @@ Closed for lunch: 12:30pm - 1:00pm
   
 Email: [cdps@pacificbookstores.com](mailto:%20cdps@pacificbookstores.com)  
   
-Online orders are available, for more information, please log on to [www.pacificbookstores.com](http://www.pacificbookstores.com/) / [www.pacificeshop.com](http://www.pacificeshop.com/)
+Online orders are available, for more information, please log on to [www.pacificbookstores.com](http://www.pacificbookstores.com/) 
