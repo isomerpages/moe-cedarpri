@@ -9,9 +9,7 @@ description: ""
 
 **School-based SLS Helpdesk**
 
-Please click [here](/files/How%20to%20reset%20SLS%20password.pdf) for a full list of instructions and what to do if you have forgotten your username and/or password.   
-
-For common login issues, you may refer to the login troubleshooting tips located [here](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html).
+Please click [here](/files/Technical%20Matters/How%20to%20reset%20SLS%20password.pdf) for a full list of instructions and what to do if you have forgotten your username and/or password.   
 
 You may also wish to contact us through our [SLS Help Form](https://docs.google.com/forms/d/e/1FAIpQLScRLUPDccsYpVaYT6mTwRlGysGkvvEnPW36ajslbFE5gb2XQw/viewform) (Recommended) or reach us at [6288 5633](tel:6288 5633).
 
