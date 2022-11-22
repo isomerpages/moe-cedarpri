@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Programme
-permalink: /for-parents/sexuality-education-programme
+permalink: /for-parents/sexuality-education-programme/
 description: ""
 ---
 # **Sexuality Education Programme**
@@ -27,7 +27,7 @@ description: ""
 
 (iv)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
 **Overview of Cedar Primary** **School’s** **Sexuality Education Programme for 2022**
 
@@ -83,7 +83,7 @@ c.       Character and Citizenship Education (CCE)
 
 8.         Parents may opt their children out of Sexuality Education lessons.
 
-9.         Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable for [P5](/files/P5%20GY%20Letter.pdf) and [P6](/files/P6%20GY%20Letter.pdf). The completed opt-out form is to be submitted by 18/02/2022.
+9.         Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable for [P5](/files/GY/P5%20GY%20Letter.pdf) and [P6](/files/GY/P6%20GY%20Letter.pdf). The completed opt-out form is to be submitted by 18/02/2022.
 
 10.       Parents can contact the school at 62885633 or [cedar_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
