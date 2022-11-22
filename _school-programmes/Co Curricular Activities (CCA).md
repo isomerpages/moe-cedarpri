@@ -20,6 +20,8 @@ The following are the skills and values that the specific CCAs aim to impart:
 | Literary, Drama and Debate Club 	| Language acquisition and exploration through hands-on activities, which encourages collaboration with peers 	|
 | Kindness Club 	| Problem solving and solution implementation to promote kindness within the school and the community 	|
 
+For more information about our CCA Policy and CCAs offered by the school, click to view the CCA Handbook.
+
 Inventiveness, Language and Other CCAs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmZIfpcqC0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
