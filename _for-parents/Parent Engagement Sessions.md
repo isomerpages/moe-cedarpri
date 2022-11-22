@@ -10,7 +10,5 @@ description: ""
 
 **Primary 1 Orientation**  
 
-1.  [Principal's Address](/files/P1%202023_Orientation_Principal's%20Address.pdf)
-2.  [Admin Briefing](/files/P1%202023_Orientation_YH's%20Admin%20Briefing-compressed.pdf)
-
-
+1.  [Principal's Address](/files/Parent%20Engagement/P1%202023_Orientation_Principal's%20Address.pdf)
+2.  [Admin Briefing](/files/Parent%20Engagement/P1%202023_Orientation_YH's%20Admin%20Briefing-compressed.pdf)
