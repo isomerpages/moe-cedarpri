@@ -13,4 +13,4 @@ Closed for lunch: 12:30pm - 1:00pm
   
 Email: [cdps@pacificbookstores.com](mailto:%20cdps@pacificbookstores.com)  
   
-Online orders are available, for more information, please log on to [www.pacificbookstores.com](http://www.pacificbookstores.com/) 
+Online orders are available, for more information, please log on to [www.pacificbookstores.com](http://www.pacificbookstores.com/)
