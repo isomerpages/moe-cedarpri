@@ -1,6 +1,6 @@
 ---
 title: Termly Communique
-permalink: /for-parents/termly-communique
+permalink: /for-parents/termly-communique/
 description: ""
 ---
 # **Termly Communique**
@@ -18,3 +18,7 @@ description: ""
 **Term 3**
 
 [Term 3 Communique](/files/2022%20Term%203%20Communique%20%2025%20May.pdf)
+
+**Term 4**
+
+[Term 4 Communique](/files/Communiques/End-of-Year%20COMMUNIQUE,%202022%2016%20Nov.pdf)
