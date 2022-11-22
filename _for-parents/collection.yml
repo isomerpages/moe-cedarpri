@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - Administrative Links and Forms.md
       - Parent Engagement Sessions.md
       - Termly Communique.md
       - Student Learning Space.md
       - Parent Gateway.md
       - Admission Matters.md
       - Administrative Matters.md
+      - Administrative Links and Forms.md
       - Administrative Links and Forms/.keep
       - Administrative Links and Forms/Administrative Matters Forms.md
       - Administrative Links and Forms/GIRO Form Application.md
