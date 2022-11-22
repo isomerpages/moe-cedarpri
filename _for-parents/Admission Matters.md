@@ -1,6 +1,6 @@
 ---
 title: Admission Matters
-permalink: /for-parents/admission-matters
+permalink: /for-parents/admission-matters/
 description: ""
 ---
 # **Admission Matters**
@@ -14,4 +14,3 @@ Please click on the respective links for more information.
 5. [Students Transfer Exercise for Primary School](https://www.moe.gov.sg/primary/transfers) (STEPS)  
 6\. HPB Dental Registration Exercise - [Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal)   
   
-[Test](http://google.com/)
