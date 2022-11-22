@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities (CCA)
-permalink: /school-programmes/co-curricular-activities
+permalink: /school-programmes/co-curricular-activities/
 description: ""
 ---
 # **Co-Curricular Activities**
@@ -22,14 +22,12 @@ The following are the skills and values that the specific CCAs aim to impart:
 
 Inventiveness, Language and Other CCAs
 
-(video to be uploaded on YT)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmZIfpcqC0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sports and Outdoor Education CCAs
 
-(video to be uploaded on YT)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-quELcsZo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Arts and Uniformed Groups CCAs
 
-(video to be uploaded on YT)
-
-(video to be uploaded on YT)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_-yqbBDN14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
