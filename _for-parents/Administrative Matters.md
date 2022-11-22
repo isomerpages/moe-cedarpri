@@ -1,6 +1,6 @@
 ---
 title: Administrative Matters
-permalink: /for-parents/administrative-matters
+permalink: /for-parents/administrative-matters/
 description: ""
 ---
 # **Administrative Matters**
@@ -8,7 +8,7 @@ description: ""
 Please click on the respective links for more information.  
   
 1. [MOE School Terms and Important Dates](https://www.moe.gov.sg/education/school-terms-and-important-dates)   
-2. [National Examinations Timetable](https://www.moe.gov.sg/education/national-examinations/national-exams-timetable)  
+2. [National Examinations Timetable](https://www.seab.gov.sg/docs/default-source/examination-timetable/2022psleexamtimetable.pdf)  
 3. School Examinations Timetable    
 4.  Official School Hours  
   
