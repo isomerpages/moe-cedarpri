@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-cps/key-personnel
+permalink: /about-cps/key-personnel/
 description: ""
 ---
 # **Key Personnel**
@@ -60,3 +60,4 @@ description: ""
 | Admin Manager 	| Ms Amy Jen 	| [jen_amy@moe.edu.sg](mailto:jen_amy@moe.edu.sg) 	|
 | Operations Manager 	| Mr Lau Ah Thee 	| [lau_ah_thee@moe..sg](mailto:lau_ah_thee@moe..sg) 	|
 |  Operations Manager      	|  Mr Tng Ah Guan 	|  [tng_ah_guan@moe.edu.sg](mailto:tng_ah_guan@moe.edu.sg) 	|
+|  ICT Manager      	|  Mdm Sharon Oh 	|  [oh_lay_bee@moe.edu.sg](mailto:oh_lay_bee@moe.edu.sg) 	|
