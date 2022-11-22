@@ -6,12 +6,12 @@ description: ""
 # **Administrative Matters**
 
 Please click on the respective links for more information.  
-  
+
+**Important Dates:**  
+
 1. [MOE School Terms and Important Dates](https://www.moe.gov.sg/education/school-terms-and-important-dates)   
 2. [National Examinations Timetable](https://www.seab.gov.sg/docs/default-source/examination-timetable/2022psleexamtimetable.pdf)  
-3. School Examinations Timetable    
-4.  Official School Hours  
-  
+
 **School hours & Recess timings:**  
 
 Curriculum hours:  
@@ -25,36 +25,20 @@ Curriculum hours:
 | Time slot 	| 9:00am - 9.30am 	| 9:30am - 10:00am  	|  10:00am - 10:30am 	|
 
 
-**Snack break:**  
-
-*   Students are expected to be in school by 7:10am for pre-assembly programmes.
-*   Students must be in assembly areas and seated with their class.
-*   All students are expected to be in school for the flag raising ceremony latest by 7:30am. Students who come in after 7:30am will be considered as late. 
-
 **General Office opening hours:** 
 
 Mon - Fri: 7:00am to 5:00pm
 
-5\. Cedar School Library 
 
-**Opening hours: 7:00am - 4:00pm**  
+**School Library opening hours:** 
+
+Mon - Fri: 7:00am to 4:00pm
 During school term and school holidays.  
 
   
 6.  Approved Textbook List  
   
 Please click the respective class for the School Booklist and Pricing.  
-  
-
-*   [Primary 1](/files/P1%20BOOKLIST%202020.pdf)
-*   [Primary 2](/files/P2%20BOOKLIST%202020.pdf)
-*   [Primary 3](/files/P3%20BOOKLIST%202020.pdf)
-*   [Primary 4](/files/P4%20BOOKLIST%202020.pdf)
-*   [Primary 5](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/ADMIN%202020/BOOKLISTS%202020/P5%20BOOKLIST%202020.pdf/qql/slot/u536/Parents/School%20Book%20List/CPS%20P5%20BOOKLIST.PDF) - file not found
-*   [Primary 5 (Foundation)](/files/P5%20FDN%20BOOKLIST%202020.pdf)
-*   [Primary 6](/files/P6%20BOOKLIST%202020.pdf)
-*   [Primary 6 (Foundation)](/files/P6%20FDN%20BOOKLIST%202020.pdf)
-
   
 7\. School Uniform List: Please click [here](https://cedarpri-moe-edu-sg-admin.cwp.sg/qql/slot/u536/Parents/KAH%20HUAT%20UNIFORM%20SALES%202019.pdf) for school uniform list and pricing.  - file not found
   
