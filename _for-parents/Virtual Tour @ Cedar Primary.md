@@ -31,7 +31,7 @@ With Best Regards,
 Mr Chris Chua   
 Principal
 
-### Information on P1 Registration Exercise 2021
+### Information on P1 Registration Exercise 2022
 
 Dear Parents,
 
