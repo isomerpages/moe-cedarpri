@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /for-parents/student-learning-space
+permalink: /for-parents/student-learning-space/
 description: ""
 ---
 # **Student Learning Space**
@@ -28,6 +28,6 @@ Saturdays:
 \*Closed on Sundays & Public Holidays  
 
 Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
-Tel: [(65) 6702 6513](tel:(65) 6702 6513)
+Tel: 6702 6513
 
 When emailing the SLS Helpdesk, please include your child's full name, name of school and form class.
