@@ -1,6 +1,6 @@
 ---
 title: Virtual Tour @ Cedar Primary
-permalink: /for-parents/virtual-tour-at-cedar-primary
+permalink: /for-parents/virtual-tour-at-cedar-primary/
 description: ""
 ---
 # **Virtual Tour @ Cedar Primary**
@@ -17,13 +17,13 @@ Hence, in Cedar Primary, beginning with the lower primary, opportunities are pro
 
 We welcome you to follow our Primary 1 students as they show you what a day in Cedar Primary School looks like. Enjoy!
 
-(video to be uploaded on YT)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9KMQo_YFP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Surrounded by lush greenery, Cedar Primary has a learning environment conducive to nurturing and developing our students, or Cedarians as they are affectionately known.
 
 With the completion of a major upgrading project in 2019, the school is now furnished with an Indoor Sports Hall, spacious classrooms and specially designed rooms for teaching and learning.  The improved facilities allow the school to embark on programmes that are tailored to meet the diverse needs of our students. Outdoor spaces are also filled with flora and fauna, augmented with displays, murals, and manipulative objects for students to participate in experiential learning and learning trails beyond the classrooms.
 
-(video to be uploaded on YT)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7av2UtscVfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We hope you have enjoyed the videos of our school. If you would like more information, please contact us at 6288 5633 or email us at [cedar\_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg).
 
