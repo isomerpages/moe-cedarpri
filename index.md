@@ -15,12 +15,9 @@ sections:
         - title: Virtual Tour @ Cedar Primary
           description: Find out more here!
           url: /for-parents/virtual-tour-at-cedar-primary
-        - title: COVID-19 Vaccination Exercise for Students
-          description: Click here to find out more
-          url: /for-parents/covid-19-vaccination-exercise-for-students
-        - title: P6 Parent Engagement Webinar 2022
+        - title: P1 Orientation 2023
           description: Info and FAQs here
-          url: https://staging.d3n03330uml670.amplifyapp.com/for-parents/parent-engagement-webinar-sessions
+          url: https://staging.d3n03330uml670.amplifyapp.com/for-parents/parent-engagement-sessions/
   - infopic:
       title: Virtual Tour @ MK Cedar
       description: "For more information, "
