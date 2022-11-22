@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Administrative Links and Forms.md
       - Parent Engagement Sessions.md
       - Termly Communique.md
       - Student Learning Space.md
