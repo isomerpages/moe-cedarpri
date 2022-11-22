@@ -3,7 +3,7 @@ title: Parent Engagement Webinar Sessions
 permalink: /for-parents/parent-engagement-webinar-sessions/
 description: ""
 ---
-# **Parent Engagement Webinar Sessions**
+# **Parent Engagement Sessions**
 
 #### **For Year 2023**
 
@@ -51,6 +51,4 @@ description: ""
 
 1. [Principal's Address](/files/P6%20Parent%20Engagement_Principals%20Address.pdf)  
 2. [Curriculum and Student Development](/files/P6%20Parent%20Engagement_Curriculum%20and%20Student%20Development.pdf)  
-3. [FAQs](/files/P6%20Parent%20Engagement_FAQs.pdf)  
-
-
+3. [FAQs](/files/P6%20Parent%20Engagement_FAQs.pdf)
