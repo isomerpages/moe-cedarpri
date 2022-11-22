@@ -3,11 +3,9 @@ collections:
     output: true
     order:
       - Parent Engagement Sessions.md
-      - HBL Plans.md
       - Termly Communique.md
       - Student Learning Space.md
       - Parent Gateway.md
-      - COVID19 Vaccination Exercise for Students.md
       - Admission Matters.md
       - Administrative Matters.md
       - Administrative Matters Forms/.keep
@@ -37,5 +35,7 @@ collections:
       - School Vendors.md
       - Safety Measures.md
       - Video Conferencing Guide.md
+      - HBL Plans.md
       - HBL Plan Archives.md
+      - COVID19 Vaccination Exercise for Students.md
       - Quick Links.md
