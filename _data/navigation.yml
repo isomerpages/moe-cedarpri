@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo_sub.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Cps
+    collection: about-cps
+  - title: Departments
+    collection: departments
+  - title: Programmes
+    collection: school-programmes
+  - title: Accomplishments
+    collection: accomplishments
+  - title: For Parents
+    collection: for-parents
+  - title: MK@Cedar
+    collection: mk-at-cedar
