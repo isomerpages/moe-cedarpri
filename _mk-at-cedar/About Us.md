@@ -38,6 +38,8 @@ Children will be able to recognise and understand values to build a healthy self
 
 ![](/images/MK(1).jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9DGKAyyqiXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **More Information**
 
 [More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website.pdf)
