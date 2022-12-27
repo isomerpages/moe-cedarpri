@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /mk-at-cedar/about-us
+permalink: /mk-at-cedar/about-us/
 description: ""
 ---
 # **About Us**
@@ -40,7 +40,7 @@ Children will be able to recognise and understand values to build a healthy self
 
 **More Information**
 
-[MKCD Information](/files/MKCD%20Information%20for%20Website%202022.pdf)
+[More information about MK@Cedar](/files/MK@Cedar/MK@CD%20Information%20for%20Website%20(2023).pdf)
 
 **Information on Registration**
 
