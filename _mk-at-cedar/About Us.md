@@ -42,7 +42,7 @@ Children will be able to recognise and understand values to build a healthy self
 
 [More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website.pdf)
 
-[Family Handbook]()
+[Family Handbook](/files/MKCedar/MOE%20Kindergarten_Family%20Handbook.pdf)
 
 **Information on Registration**
 
