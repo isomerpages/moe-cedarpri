@@ -42,6 +42,8 @@ Children will be able to recognise and understand values to build a healthy self
 
 [More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website.pdf)
 
+[Family Handbook]()
+
 **Information on Registration**
 
 Please note that the Registration Exercise is fully online. Do click on the link below for more information on the procedures, eligibility and documents required.
