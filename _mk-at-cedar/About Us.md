@@ -40,7 +40,7 @@ Children will be able to recognise and understand values to build a healthy self
 
 **More Information**
 
-[More information about MK@Cedar](/files/MK@Cedar/MK@CD%20Information%20for%20Website%20(2023).pdf)
+[More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website%202023.pdf)
 
 **Information on Registration**
 
