@@ -23,4 +23,4 @@ The activities during the day are meaningfully planned such that children are en
 
 If you would like more information, please contact us at 6288 5633 or email us at [mk_cedar@moe.edu.sg](mailto:mk_cedar@moe.edu.sg).
 
-Due to the current COVID-19 situation, no visitors are allowed into the premises. Thank you for your understanding and cooperation.
+To prevent disruption to the children’s learning, no visitors are allowed into the premises. Thank you for your understanding and cooperation.
