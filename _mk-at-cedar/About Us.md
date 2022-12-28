@@ -16,7 +16,6 @@ MK @ Cedar is located within Cedar Primary School.
 *   Building a good foundation in literacy and numeracy.
 *   Nurturing bilingualism through learning activities in both English and Mother Tongue Languages (i.e. Chinese, Malay and Tamil languages).
 
-### Centre Based Programme
 
 **MK Reads! Programme**
 
@@ -30,7 +29,7 @@ There are three key components of MK Reads!
 
 3.    **Videos and infographics** – MOE also prepares videos and infographics with tips and strategies to support shared reading at home.
 
-**Centre Based Programme**
+### Centre Based Programme
 
 **Fun Values!**
 
