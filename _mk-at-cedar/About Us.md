@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /mk-at-cedar/about-us
+permalink: /mk-at-cedar/about-us/
 description: ""
 ---
 # **About Us**
@@ -38,9 +38,13 @@ Children will be able to recognise and understand values to build a healthy self
 
 ![](/images/MK(1).jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9DGKAyyqiXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **More Information**
 
-[MKCD Information](/files/MKCD%20Information%20for%20Website%202022.pdf)
+[More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website.pdf)
+
+[Family Handbook](/files/MKCedar/MOE%20Kindergarten_Family%20Handbook.pdf)
 
 **Information on Registration**
 
