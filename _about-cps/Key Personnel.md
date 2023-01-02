@@ -29,6 +29,7 @@ description: ""
 | HOD Mother Tongue Languages 	| Ms Serene Tee 	| [tee_su_ling_serene@moe.edu.sg](mailto:tee_su_ling_serene@moe.edu.sg) 	|
 | HOD CCE 	| Ms Rachel Koh Xiuli 	| [koh_xiuli_rachel@moe.edu.sg](mailto:koh_xiuli_rachel@moe.edu.sg) 	|
 | HOD ICT 	| Mr Ivan Foo 	| [foo_yong_chin_ivan@moe.edu.sg](mailto:foo_yong_chin_ivan@moe.edu.sg) 	|
+| HOD PAM 	| Mdm Yeo Dai Yun	| [yeo_dai_yun@moe.edu.sg](mailto:yeo_dai_yun@moe.edu.sg) 	|
 | Year Head (P1 and P2) 	| Mrs Constance Chia 	| [chia_soon_neo_constance@moe.edu.sg](mailto:chia_soon_neo_constance@moe.edu.sg) 	|
 | Year Head (P3 and P4) 	| Mdm Faridah Bte Abdul Hamid 	| [faridah_abdul_hamid_a@moe.edu.sg](mailto:faridah_abdul_hamid_a@moe.edu.sg) 	|
 | Asst Year Head (P5) 	| Ms Noor Kamariah Bte Mohamed Ramlee 	| [noor_kamariah_mohamed_raml@moe.edu.sg](mailto:noor_kamariah_mohamed_raml@moe.edu.sg) 	|
@@ -38,6 +39,7 @@ description: ""
 | LH English 	| Mdm Nani Rhiani Bte Mohamed Taib 	| [nani_rhiani_mohd_taib@moe.edu.sg](mailto:nani_rhiani_mohd_taib@moe.edu.sg) 	|
 |  LH Mathematics 	| Ms Hong Yi Ni Vionna 	| [hong_yi_ni_vionna@moe.edu.sg](mailto:hong_yi_ni_vionna@moe.edu.sg) 	|
 |  LH CCE 	| Ms Choo Shiao Hui 	|  [choo_shiao_hui@moe.edu.sg](mailto:choo_shiao_hui@moe.edu.sg) 	|
+|  LH PE/CCA 	| Mr Ilyas Hakim 	|  [ilyas_hakim_jamaludin@moe.edu.sg](mailto:ilyas_hakim_jamaludin@moe.edu.sg) 	|
 
 
 
