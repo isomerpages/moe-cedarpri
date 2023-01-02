@@ -29,7 +29,7 @@ third_nav_title: School Staff
 
 | Class 	| Name 	| Email 	|
 |---	|---	|---	|
-| P4-Integrity 	| Ms 	| [ng_chooi_yew@moe.edu.sg](mailto:ng_chooi_yew@moe.edu.sg) 	|
+| P4-Integrity 	| Ms Cindy Chan 	| [ng_chooi_yew@moe.edu.sg](mailto:ng_chooi_yew@moe.edu.sg) 	|
 | P4-Creativity 	| Mdm Norhasimah Binte Abdul Rahim 	| [norhasimah_abdul_rahim@moe.edu.sg](mailto:norhasimah_abdul_rahim@moe.edu.sg) 	|
 | P4-Kindness 	| Mdm Nur Idayu Bte Mohd Jamaludin 	| [nur_idayu_mohd_jamaludin@moe.edu.sg](mailto:nur_idayu_mohd_jamaludin@moe.edu.sg) 	|
 | P4-Kindness 	| Mdm Lim Chun Ling 	| [lim_chun_ling@moe.edu.sg](mailto:lim_chun_ling@moe.edu.sg) 	|
