@@ -1,6 +1,6 @@
 ---
 title: P1 and P2 Form Teachers
-permalink: /about-cps/school-staff/p1-and-p2-form-teachers
+permalink: /about-cps/school-staff/p1-and-p2-form-teachers/
 description: ""
 third_nav_title: School Staff
 ---
@@ -11,10 +11,10 @@ third_nav_title: School Staff
 
 | Class 	| Name 	| Email 	|
 |---	|---	|---	|
-| P1-Care 	| Mr Chiang Hock Siong 	| [chiang_hock_siong@moe.edu.sg](mailto:chiang_hock_siong@moe.edu.sg) 	|
-| P1-Care 	| Ms Hannah Yang Shuo 	| [yang_shuo@moe.edu.sg](mailto:yang_shuo@moe.edu.sg) 	|
-| P1-Creativity 	| Mdm Anita June Purasamy 	| [anita_june_purasamy@moe.edu.sg](mailto:anita_june_purasamy@moe.edu.sg) 	|
-| P1-Creativity 	| Mdm Siti Nordianah Binte Hassan 	| [siti_nordianah_hassan@moe.edu.sg](mailto:siti_nordianah_hassan@moe.edu.sg) 	|
+| P1-Care 	| Ms Jomanda Lau 	| [lau_zhen_hui_jomanda@moe.edu.sg](mailto:lau_zhen_hui_jomanda@moe.edu.sg) 	|
+| P1-Care 	| Ms Tina Ee	| [ee_poh_khim_tina@moe.edu.sg](mailto:ee_poh_khim_tina@moe.edu.sg) 	|
+| P1-Creativity 	| Mdm Tan Poh Choo	| [tan_poh_choo_a@moe.edu.sg](mailto:tan_poh_choo_a@moe.edu.sg) 	|
+| P1-Creativity 	| Mdm Chua Chuu Suh 	| [chua_chuu_suh@moe.edu.sg](mailto:chua_chuu_suh@moe.edu.sg) 	|
 | P1-Harmony 	| Ms Lim Li Jun Ashley 	| [lim_li_jun_ashley@moe.edu.sg](mailto:lim_li_jun_ashley@moe.edu.sg) 	|
 | P1-Harmony 	| Mdm Jeow Mui Hwa 	| [jeow_mui_hwa@moe.edu.sg](mailto:jeow_mui_hwa@moe.edu.sg) 	|
 | P1-Integrity 	| Ms Nur Diyana Binte Hamdan 	| [nur_diyana_hamdan@moe.edu.sg](mailto:nur_diyana_hamdan@moe.edu.sg) 	|
