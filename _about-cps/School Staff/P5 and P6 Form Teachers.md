@@ -36,3 +36,4 @@ description: ""
 | P6-Kindness 	| Mdm Anita Abdul Gani 	| [anita_abdul_gani@moe.edu.sg](mailto:anita_abdul_gani@moe.edu.sg) 	|
 | P6-Resilience 	| Mdm Nazira Bte Abdullah @ Geetha D/O V 	| [nazira_abdullah@moe.edu.sg](mailto:nazira_abdullah@moe.edu.sg) 	|
 | P6-Resilience 	| Ms Samsiah Khamis 	| [samsiah_khamis@moe.edu.sg](mailto:samsiah_khamis@moe.edu.sg) 	|
+| P6-Resilience 	| Ms Rachel Koh 	| [koh_xiuli_rachel@moe.edu.sg](mailto:koh_xiuli_rachel@moe.edu.sg) 	|
