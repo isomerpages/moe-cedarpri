@@ -18,8 +18,10 @@ description: ""
 | P5-Kindness 	| Mr Sim Eak Bian 	| [sim_eak_bian@moe.edu.sg](mailto:sim_eak_bian@moe.edu.sg) 	|
 | P5-Kindness 	| Ms Ong Shu Wen 	| [ong_shu_wen_a@moe.edu.sg](mailto:ong_shu_wen_a@moe.edu.sg) 	|
 | P5-Kindness 	| Mr Zaki Jalil 	| [muhamad_zaki_b_jalil@moe.edu.sg](mailto:muhamad_zaki_b_jalil@moe.edu.sg) 	|
-| P5-Resilience 	| Mdm Tan Woon Hui 	| [tan_woon_hui@moe.edu.sg](mailto:tan_woon_hui@moe.edu.sg) 	|
-| P5-Resilience 	| Mdm Nazira Bte Abdullah @ Geetha D/O V 	| [nazira_abdullah@moe.edu.sg](mailto:nazira_abdullah@moe.edu.sg) 	|
+| P5-Responsibility 	| Mdm Vanitha D/O Gunasekaran 	| [vanitha_gunasekaran@moe.edu.sg](mailto:vanitha_gunasekaran@moe.edu.sg) 	|
+| P5-Responsibility 	| Mdm Tan Woon Hui 	| [tan_woon_hui@moe.edu.sg](mailto:tan_woon_hui@moe.edu.sg) 	|
+| P5-Resilience 	| Mrs Yeo-Tan Bee Chai 	| [tan_bee_chai@moe.edu.sg](mailto:tan_bee_chai@moe.edu.sg) 	|
+| P5-Resilience 	| Mr Ilyas Hakim  	| [ilyas_hakim_jamaludin@moe.edu.sg](mailto:ilyas_hakim_jamaludin@moe.edu.sg) 	|
 
 
 ### Primary 6 Form Teachers
