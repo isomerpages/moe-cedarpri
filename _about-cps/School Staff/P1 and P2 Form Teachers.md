@@ -21,6 +21,7 @@ third_nav_title: School Staff
 | P1-Integrity 	| Ms Alice Goh 	| [goh_alice@moe.edu.sg](mailto:goh_alice@moe.edu.sg) 	|
 | P1-Kindness 	| Mdm Eileen Soh Yee Hong 	| [eileen_soh_yee_hong@moe.edu.sg](mailto:eileen_soh_yee_hong@moe.edu.sg) 	|
 | P1-Kindness 	| Ms Joni Lim 	| [lim_xin_yi_joni@moe.edu.sg](mailto:lim_xin_yi_joni@moe.edu.sg) 	|
+| P1-Kindness 	| Mdm Yeo Dai Yun	| [yeo_dai_yun@moe.edu.sg](mailto:yeo_dai_yun@moe.edu.sg) 	|
 | P1-Responsibility 	| Mdm Loo Mui Hui 	| [loo_mui_hui@moe.edu.sg](mailto:loo_mui_hui@moe.edu.sg) 	|
 | P1-Responsibility 	| Mr Yeo Teow Hiang 	| [yeo_teow_hiang@moe.edu.sg](mailto:yeo_teow_hiang@moe.edu.sg) 	|
 | P1-Responsibility 	| Ms Wee Gek Choo Audrey 	| [wee_gek_choo_audrey@moe.edu.sg](mailto:wee_gek_choo_audrey@moe.edu.sg) 	|
