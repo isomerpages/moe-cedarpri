@@ -29,12 +29,12 @@ third_nav_title: School Staff
 
 | Class 	| Name 	| Email 	|
 |---	|---	|---	|
-| P4-Integrity 	| Ms Cindy Chan 	| [ng_chooi_yew@moe.edu.sg](mailto:ng_chooi_yew@moe.edu.sg) 	|
-| P4-Creativity 	| Mdm Norhasimah Binte Abdul Rahim 	| [norhasimah_abdul_rahim@moe.edu.sg](mailto:norhasimah_abdul_rahim@moe.edu.sg) 	|
-| P4-Kindness 	| Mdm Nur Idayu Bte Mohd Jamaludin 	| [nur_idayu_mohd_jamaludin@moe.edu.sg](mailto:nur_idayu_mohd_jamaludin@moe.edu.sg) 	|
-| P4-Kindness 	| Mdm Lim Chun Ling 	| [lim_chun_ling@moe.edu.sg](mailto:lim_chun_ling@moe.edu.sg) 	|
-| P4-Kindness 	| Mr Muhammad Naufal B Haji Ariffin 	| [muhammad_naufal_haji_ariffin@moe.edu.sg](mailto:muhammad_naufal_haji_ariffin@moe.edu.sg) 	|
+| P4-Integrity 	| Ms Cindy Chan 	| [chan_xinyi_cindy@moe.edu.sg ](mailto:chan_xinyi_cindy@moe.edu.sg ) 	|
+| P4-Integrity 	| Ms Sivarathinam D/O Chinnavan 	| [sivarathinam_chinnavan@moe.edu.sg](mailto:sivarathinam_chinnavan@moe.edu.sg) 	|
+| P4-Kindness 	| Mr Daryl Tan 	| [tan_jin_kern_daryl@moe.edu.sg](mailto:tan_jin_kern_daryl@moe.edu.sg) 	|
+| P4-Kindness 	| Ms Hannah Yang	| [yang_shuo@moe.edu.sg](mailto:yang_shuo@moe.edu.sg) 	|
 | P4-Responsibility 	| Mdm Choo Poh Hong Millie 	| [choo_poh_hong_millie@moe.edu.sg](mailto:choo_poh_hong_millie@moe.edu.sg) 	|
-| P4-Responsibility 	| Ms Nurjannah Bte Ayub 	| [nurjannah_ayub@moe.edu.sg](mailto:nurjannah_ayub@moe.edu.sg) 	|
-| P4-Resilience 	| Mdm Vanitha D/O Gunasekaran 	| [vanitha_gunasekaran@moe.edu.sg](mailto:vanitha_gunasekaran@moe.edu.sg) 	|
-| P4-Resilience 	| Mdm Nor Azlin Bte Mohamed Som 	| [nor_azlin_mohamed_som@moe.edu.sg](mailto:nor_azlin_mohamed_som@moe.edu.sg) 	|
+| P4-Responsibility 	| Mr Foong Swee Fong 	| [foong_swee_fong@moe.edu.sg](mailto:foong_swee_fong@moe.edu.sg) 	|
+| P4-Resilience 	| Mr Chan Whye Shiung 	| [chan_whye_shiung@moe.edu.sg](mailto:chan_whye_shiung@moe.edu.sg) 	|
+| P4-Resilience 	| Mdm Nani Rhiani 	| [nani_rhiani_mohd_taib@moe.edu.sg](mailto:nani_rhiani_mohd_taib@moe.edu.sg) 	|
+| P4-Resilience 	| Ms Serene Tee	| [tee_su_ling_serene@moe.edu.sg](mailto:tee_su_ling_serene@moe.edu.sg) 	|
