@@ -39,7 +39,7 @@ third_nav_title: School Staff
 | P2-Care 	| Mr Gwee Tee Ghee 	| [gwee_tee_ghee@moe.edu.sg](mailto:gwee_tee_ghee@moe.edu.sg) 	|
 | P2-Creativity 	| Mdm Anita June	| [anita_june_purasamy@moe.edu.sg](mailto:anita_june_purasamy@moe.edu.sg) 	|
 | P2-Creativity 	| Mdm Siti Nordianah  	| [siti_nordianah_hassan@moe.edu.sg](mailto:siti_nordianah_hassan@moe.edu.sg) 	|
-| P2-Harmony 	| Ms Lim Li Jun Ashley 	| [lim_li_jun_ashley@moe.edu.sg](mailto:lim_li_jun_ashley@moe.edu.sg) 	|
+| P2-Harmony 	| Ms Ashley Lim 	| [lim_li_jun_ashley@moe.edu.sg](mailto:lim_li_jun_ashley@moe.edu.sg) 	|
 | P2-Harmony 	| Mdm Jeow Mui Hwa 	| [jeow_mui_hwa@moe.edu.sg](mailto:jeow_mui_hwa@moe.edu.sg) 	|
 | P2-Integrity 	| Ms Nur Diyana Binte Hamdan 	| [nur_diyana_hamdan@moe.edu.sg](mailto:nur_diyana_hamdan@moe.edu.sg) 	|
 | P2-Integrity 	| Ms Angela Chow	| [angela_chow@moe.edu.sg](mailto:angela_chow@moe.edu.sg) 	|
