@@ -34,5 +34,5 @@ description: ""
 | P6-Kindness 	| Ms Naziha Binte Mahmod 	| [naziha_mahmod@moe.edu.sg](mailto:naziha_mahmod@moe.edu.sg) 	|
 | P6-Kindness 	| Ms Seow Angelia	| [seow_angelia@moe.edu.sg](mailto:seow_angelia@moe.edu.sg) 	|
 | P6-Kindness 	| Mdm Anita Abdul Gani 	| [anita_abdul_gani@moe.edu.sg](mailto:anita_abdul_gani@moe.edu.sg) 	|
-| P6-Resilience 	| Mr Tan Teing Sin 	| [tan_teing_sin@moe.edu.sg](mailto:tan_teing_sin@moe.edu.sg) 	|
-| P6-Resilience 	| Ms Ong Shu Wen 	| [ong_shu_wen_a@moe.edu.sg](mailto:ong_shu_wen_a@moe.edu.sg) 	|
+| P6-Resilience 	| Mdm Nazira Bte Abdullah @ Geetha D/O V 	| [nazira_abdullah@moe.edu.sg](mailto:nazira_abdullah@moe.edu.sg) 	|
+| P6-Resilience 	| Ms Samsiah Khamis 	| [samsiah_khamis@moe.edu.sg](mailto:samsiah_khamis@moe.edu.sg) 	|
