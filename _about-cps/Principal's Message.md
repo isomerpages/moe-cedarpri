@@ -45,7 +45,7 @@ For each and every Cedarian, you recite the national pledge with your hand over 
 
 **Conclusion**
 
-In the words of Aristotle, “We are what we repeatedly do. Excellence therefore is not an act but a habit.” We will humbly remember that our successes are a result of the efforts we repeatedly put into what we do. Let us continue to strive for successes in 2022, in the big and little things we do every single day, for the students and community we have been called to serve. Have a meaningful and enriching 2023!
+In the words of Aristotle, “We are what we repeatedly do. Excellence therefore is not an act but a habit.” We will humbly remember that our successes are a result of the efforts we repeatedly put into what we do. Let us continue to strive for successes in 2023, in the big and little things we do every single day, for the students and community we have been called to serve. Have a meaningful and enriching 2023!
 
 Thank you!
 
