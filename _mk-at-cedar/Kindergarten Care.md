@@ -16,3 +16,7 @@ You can also refer to the following document.
 [Important Notes for Kindergarten Care](/files/KCCedar/KCCD%20Important%20Notes.pdf)
 
 Please indicate your preference for KCare when registering your child for MK.
+
+**KCare@Cedar Virtual Tour**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fwp7brOcj8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
