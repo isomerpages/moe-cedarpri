@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-cps/principals-message
+permalink: /about-cps/principals-message/
 description: ""
 ---
 # **Principal's Message**
@@ -9,9 +9,9 @@ description: ""
      style="width:40%">
 		 
 		 
-**Principal’s Message 2022**
+**Principal’s Message 2023**
 
-It is with much enthusiasm, warmth and hope that we welcome you to the year 2022. We are confident that with a good character, a positive attitude towards learning, sustained effort and a resilient mindset, our students will continue to scale greater heights with us. I know that my work here will continue to be a deeply meaningful one because of the support from students, teachers, staff, parents and partners. Let us continue to work together to enable our shared belief, identity and aspirations for Cedar Primary to take deeper roots in the hearts of Cedarians and help us transit smoothly towards Covid resilience as a nation.
+It is with much enthusiasm, warmth and hope that we welcome you to the year 2023. We are confident that with a good character, a positive attitude towards learning, sustained effort and a resilient mindset, our students will continue to scale greater heights with us. I know that my work here will continue to be a deeply meaningful one because of the support from students, teachers, staff, parents and partners. Let us continue to work together to enable our shared belief, identity and aspirations for Cedar Primary to take deeper roots in the hearts of Cedarians and help us transit smoothly towards Covid resilience as a nation.
 
 
 **Our School Motto - Our Belief**
@@ -45,7 +45,7 @@ For each and every Cedarian, you recite the national pledge with your hand over 
 
 **Conclusion**
 
-In the words of Aristotle, “We are what we repeatedly do. Excellence therefore is not an act but a habit.” We will humbly remember that our successes are a result of the efforts we repeatedly put into what we do. Let us continue to strive for successes in 2022, in the big and little things we do every single day, for the students and community we have been called to serve. Have a meaningful and enriching 2022!
+In the words of Aristotle, “We are what we repeatedly do. Excellence therefore is not an act but a habit.” We will humbly remember that our successes are a result of the efforts we repeatedly put into what we do. Let us continue to strive for successes in 2022, in the big and little things we do every single day, for the students and community we have been called to serve. Have a meaningful and enriching 2023!
 
 Thank you!
 

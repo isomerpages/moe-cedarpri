@@ -16,9 +16,8 @@ MK @ Cedar is located within Cedar Primary School.
 *   Building a good foundation in literacy and numeracy.
 *   Nurturing bilingualism through learning activities in both English and Mother Tongue Languages (i.e. Chinese, Malay and Tamil languages).
 
-### Centre Based Programme
 
-**MK Reads! Pilot Programme**
+**MK Reads! Programme**
 
 MK Reads! aims to promote shared reading between parents and children at home. According to findings, a better home literacy environment helps your child to acquire a strong foundation in language and literacy skills. Shared reading, i.e. reading with your child, is an important component of home literacy environments.
 
@@ -29,6 +28,8 @@ There are three key components of MK Reads!
 2.    **Reading record, tips and strategies** – After reading the book together, parents will fill in a reading record with their child. Periodically, some tips and strategies are shared with parents to support engagement in the shared reading sessions with their child.
 
 3.    **Videos and infographics** – MOE also prepares videos and infographics with tips and strategies to support shared reading at home.
+
+### Centre Based Programme
 
 **Fun Values!**
 
