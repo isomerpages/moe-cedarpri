@@ -47,6 +47,12 @@ Children will be able to recognise and understand values to build a healthy self
 
 [Family Handbook](/files/MKCedar/MOE%20Kindergarten_Family%20Handbook.pdf)
 
+![](/images/OpenHouse.gif)
+
+**MK Open House Registration Site** 
+
+https://go.gov.sg/mkopenhouse2023pmk
+
 **Information on Registration**
 
 Please note that the Registration Exercise is fully online. Do click on the link below for more information on the procedures, eligibility and documents required.
