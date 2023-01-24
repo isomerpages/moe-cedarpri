@@ -56,17 +56,12 @@ Open House at **MK@Cedar will be held on 18 Feb 2023**, 9.00am to 1.00pm
 [MK Open House Letter](/files/MKCedar/2023%20MK%20Open%20House.pdf)
 
 **For more information, visit the web links below:**
-**MK Open House Registration Site**
 
-https://go.gov.sg/mkopenhouse2023pmk
+[MK Open House Registration Site](https://go.gov.sg/mkopenhouse2023pmk)
 
-**MK Website**
-
-https://go.gov.sg/mkpmk
+[MK Website](https://go.gov.sg/mkpmk)
 
 
 **Information on Registration**
 
-Please note that the Registration Exercise is fully online. Do click on the link below for more information on the procedures, eligibility and documents required.
-
-[https://www.moe.gov.sg/preschool/moe-kindergarten/register](https://www.moe.gov.sg/preschool/moe-kindergarten/register)
+Please note that the Registration Exercise is fully online. Do click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/register) for more information on the procedures, eligibility and documents required.
