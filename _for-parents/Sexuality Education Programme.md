@@ -55,8 +55,11 @@ c.       Character and Citizenship Education (CCE)
 
 #### Primary 5
 
+![](/images/P5.png)
+
 #### Primary 6
 
+![](/images/P6.png)
 
 ### Information for Parents
 
