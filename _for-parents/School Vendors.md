@@ -1,8 +1,8 @@
 ---
 title: School Vendors
-permalink: /for-parents/school-vendors
+permalink: /for-parents/school-vendors/
 description: ""
 ---
 # **School Vendors**
 
-![](/images/Cedar%20Pri%20Clinic_Notice%202021.jpg)
+![](/images/Dentist.jpg)
