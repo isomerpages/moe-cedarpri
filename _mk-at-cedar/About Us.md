@@ -49,10 +49,10 @@ Children will be able to recognise and understand values to build a healthy self
 
 ### Open House 2023
 
-Open House at **MK@Cedar will be held on 18 Feb 2023**, 9.00am to 1.00pm
+Open House at **MK@Cedar will be held on 18 Feb 2023**, 9.00am to ^1.00pm
 <br>Venue: Cedar Primary School Hall, Level 2 above the school canteen.
 
-
+![](/images/MK%20Open%20House.png)
 
 *Activities are planned specially for children who will be K1 in 2024 only.
 <br>^ Last admission latest at 12.45pm.
