@@ -5,4 +5,4 @@ description: ""
 ---
 # **School Vendors**
 
-![](/images/Dentist.jpg)
+![](/images/Cedar%20Pri%20Clinic_Notice%202022%20vetted.jpg)
