@@ -10,3 +10,7 @@ description: ""
 **Term 1**
 
 [Term 1 Communique](/files/Communiques/Term%201%20Communique%20_13%20Jan%202023.pdf)
+
+
+**Term 2**
+
