@@ -13,7 +13,7 @@ _A warm welcome to MOE Kindergarten @ Cedar (MK @ Cedar) Virtual Tour!_
 
 In our learning environment, the spaces are specially designed by our educators who are trained in early childhood education and are passionate about their craft.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_hLXgRsPSPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLEu6jJnOIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Daily Experiences**
 
