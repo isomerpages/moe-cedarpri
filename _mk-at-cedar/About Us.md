@@ -47,24 +47,10 @@ Children will be able to recognise and understand values to build a healthy self
 
 [Family Handbook](/files/MKCedar/MOE%20Kindergarten_Family%20Handbook.pdf)
 
-### Open House 2023
-
-Open House at **MK@Cedar will be held on 18 Feb 2023**, 9.00am to ^1.00pm
-<br>Venue: Cedar Primary School Hall, Level 2 above the school canteen.
-
-![](/images/MK%20Open%20House.png)
-
-*Activities are planned specially for children who will be K1 in 2024 only.
-<br>^ Last admission latest at 12.45pm.
-
-
-![](/images/OpenHouse.gif)
-
-[MK Open House Letter](/files/MKCedar/2023%20MK%20Open%20House.pdf)
 
 **For more information, visit the web links below:**
 
-[MK Open House Registration Site](https://go.gov.sg/mkopenhouse2023pmk)
+
 
 [MK Website](https://go.gov.sg/mkpmk)
 
