@@ -14,3 +14,4 @@ description: ""
 
 **Term 2**
 
+[Term 2 Communique](/files/Communiques/Term%202%20Communique.pdf)
