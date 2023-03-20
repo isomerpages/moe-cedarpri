@@ -26,7 +26,7 @@ description: ""
 4. [P3 & P4 FAQs](/files/Parent%20Engagement/P3%20Engagement%202023/P3%20&%20P4%20FAQs.pdf)
 
 **Primary 4**
-1. [Principal's Address](/files/Parent%20Engagement/P4%20Engagement%202023/Principal's%20Address.pdf)
+1. [Principal's Address](/files/Parent%20Engagement/P3%20Engagement%202023/Principal's%20Address.pdf)
 2. [Curriculum Updates](/files/Parent%20Engagement/P4%20Engagement%202023/Curriculum%20Updates.pdf)
 3. [YH's Address_Student Holistic Development](/files/Parent%20Engagement/P4%20Engagement%202023/YH's%20Address_Student%20Holistic%20Development.pdf)
 4.  [P3 & P4 FAQs](/files/Parent%20Engagement/P4%20Engagement%202023/P3%20&%20P4%20FAQs.pdf)
