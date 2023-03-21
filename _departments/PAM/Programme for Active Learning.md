@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning
-permalink: /departments/pam/programme-for-active-learning
+permalink: /departments/pam/programme-for-active-learning/
 description: ""
 third_nav_title: PAM
 ---
@@ -37,12 +37,12 @@ Social and Emotional Learning (SEL) is the process through which young Cedarians
 ### PAL Planning Team
 
 
-1.    Mr Jabbar Jaafar                           PAL Advisor   
-2.    Ms Nurjannah                                 PAL VA Specialist / ST Art    
-3.    Mr Daryl Sung Tze Hao              SG PAL Specialist / PAL Co-ordinator   
-4.    Mr Rizal Aziz                                    OE PAL Specialist   
-5.    Mr Firdaus                                         PAL PA Specialist    
-6.    Ms Cindy Chan                                PAL PA Specialist
+1.    Mdm Yeo Dai Yun                         PAL Advisor   
+2.    Ms Nurjannah                                  PAL Co-ordinator/ VA Specialist / ST Art    
+3.    Mr Ilyas Hakim Jamaludin       SG PAL Specialist   
+4.    Mr Rizal Aziz                                    OE PAL Specialist   
+5.    Mr Firdaus                                           PAL PA Specialist    
+
 
 
 
