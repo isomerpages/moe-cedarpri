@@ -1,6 +1,6 @@
 ---
 title: Sports Exposure Programme
-permalink: /school-programmes/outdoor-education-programme/sports-exposure-programme
+permalink: /school-programmes/outdoor-education-programme/sports-exposure-programme/
 description: ""
 third_nav_title: Outdoor Education Programme
 ---
@@ -10,9 +10,3 @@ Many studies have shown that early specialisation in sports may bring more harm 
 
 As such, in Cedar Primary School, we expose our students to as many sports as we can under the Sports Exposure Programme (SEP). Participation in the SEP elective module will help our students sustain their physical and mental robustness and enjoy new healthy lifestyle experiences together. The shared experiences will also foster a greater sense of community and affiliation.
 
-Below are some of the sports that our students choose to participate in at different levels:
-
-
-| Level 	| Primary 1 and 2 	| Primary 3 and 4 	| Primary 5 	| Primary 6 	|
-|---	|---	|---	|---	|---	|
-| Sports 	| Gymnastics<br>Rope Skipping 	| Tchoukball<br>Handball 	| Ultimate Frisbee 	| Kinball 	|
