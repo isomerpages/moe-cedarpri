@@ -50,4 +50,4 @@ of stretching and enhancing our students’ problem-solving capacity. Students w
 
 In FIP, students learn advanced thinking skills and are mentored for various creative competitions such as the Sony Creative Science Award (SCSA), Future Problem Solving Programme (FPSP) and Innovation Programme.
 
-![](/images/creative7.png)
+![](/images/creative8.png)
