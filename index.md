@@ -15,7 +15,7 @@ sections:
         - title: Virtual Tour @ Cedar Primary
           description: Find out more here!
           url: /for-parents/virtual-tour-at-cedar-primary
-        - title: P1 Orientation 2023
+        - title: Parent Engagement Sessions 2023
           description: Info and FAQs here
           url: https://staging.d3n03330uml670.amplifyapp.com/for-parents/parent-engagement-sessions/
   - infopic:
