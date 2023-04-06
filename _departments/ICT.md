@@ -14,13 +14,18 @@ through the purposeful use of technology
 ------------------------------------------------------------------------- 
 
 The ICT department serves to spearhead the school’s efforts in the integration of ICT into the curriculum to develop 21CC and nurturing of responsible citizens of the cyber world
-  
+
+All ICT baseline lessons are strategically integrated to develop our students on New Media Literacies and these and are carried out during curriculum hours by the subject teachers.
+
+New Media Literacies are defined as the competencies to create, connect and curate information in the digitally networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. 
+
+At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
 ![](https://1.bp.blogspot.com/-guwQTkpCrGk/XDa9CAklaDI/AAAAAAABDik/ajYQo3UfFwcy3O6OColKLG9AXHKQaWYkACLcBGAs/s640/unnamed.png)
  
 
-All ICT baseline lessons are strategically integrated with specific subjects and are carried out during curriculum hours by the subject teachers with assistance from the ICT department. The baseline programmes help ensure that our students have achieved a certain level of competency in their ICT skills before they are exposed to more ICT-infused lessons as they progress up the levels.
 
 
+![](/images/baseline.png)
 
 
 
