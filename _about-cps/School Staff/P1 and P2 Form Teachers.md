@@ -24,7 +24,6 @@ third_nav_title: School Staff
 | P1-Kindness 	| Mdm Yeo Dai Yun	| [yeo_dai_yun@moe.edu.sg](mailto:yeo_dai_yun@moe.edu.sg) 	|
 | P1-Responsibility 	| Mdm Loo Mui Hui 	| [loo_mui_hui@moe.edu.sg](mailto:loo_mui_hui@moe.edu.sg) 	|
 | P1-Responsibility 	| Mr Yeo Teow Hiang 	| [yeo_teow_hiang@moe.edu.sg](mailto:yeo_teow_hiang@moe.edu.sg) 	|
-| P1-Responsibility 	| Ms Wee Gek Choo Audrey 	| [wee_gek_choo_audrey@moe.edu.sg](mailto:wee_gek_choo_audrey@moe.edu.sg) 	|
 | P1-Resilience 	| Ms Nurjannah Bte Ayub 	| [nurjannah_ayub@moe.edu.sg](mailto:nurjannah_ayub@moe.edu.sg) 	|
 | P1-Resilience 	| Ms June Khoo 	| [khoo_sai_guek_june@moe.edu.sg](mailto:khoo_sai_guek_june@moe.edu.sg) 	|
 | P1-Respect 	| Mdm Nor Azlin Bte Mohamed Som 	| [nor_azlin_mohamed_som@moe.edu.sg](mailto:nor_azlin_mohamed_som@moe.edu.sg) 	|
