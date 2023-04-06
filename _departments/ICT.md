@@ -1,44 +1,39 @@
 ---
 title: ICT
-permalink: /departments/ict
+permalink: /departments/ict/
 description: ""
 ---
 # **ICT**
 
-![](/images/Cedar%20Pri%20-%20ICT.png)
 
 **Vision and Mission**
 
-Communicating Effectively, Thinking Creatively,
-
-Contributing Actively as Upstanding Cedarians
-
-In the Cyber World
+Engaged learners in a community
+through the purposeful use of technology
 
 ------------------------------------------------------------------------- 
 
 The ICT department serves to spearhead the school’s efforts in the integration of ICT into the curriculum to develop 21CC and nurturing of responsible citizens of the cyber world
-  
-### Curriculum and Programmes
+
+All ICT baseline lessons are strategically integrated to develop our students on New Media Literacies and these and are carried out during curriculum hours by the subject teachers.
+
+New Media Literacies are defined as the competencies to create, connect and curate information in the digitally networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively. 
+
+At the heart of these interactions are the six core values of the 21st Century Competencies (21CC) framework, that anchor the learning experiences and promote discerning and responsible use of technology.
+![](https://1.bp.blogspot.com/-guwQTkpCrGk/XDa9CAklaDI/AAAAAAABDik/ajYQo3UfFwcy3O6OColKLG9AXHKQaWYkACLcBGAs/s640/unnamed.png)
  
-**ICT Baseline Programmes**
 
-*   Primary 1 – Basic Computer Operations and Touch-typing skills
-*   Primary 2 – MS Word
-*   Primary 3 – MS PowerPoint / Nearpod
-*   Primary 4 – MS Excel
-*   Primary 5 – MS Excel
-*   Primary 6 – Coding
 
-All ICT baseline lessons are strategically integrated with specific subjects and are carried out during curriculum hours by the subject teachers with assistance from the ICT department. The baseline programmes help ensure that our students have achieved a certain level of competency in their ICT skills before they are exposed to more ICT-infused lessons as they progress up the levels.
+
+![](/images/baseline.png)
+
 
 
 **Cyber Wellness**
 
 Cedar Primary School's Cyber Wellness approach is guided by MOE's Cyber Wellness framework.
 
-<img src="/images/Cyberwellness%20Principles.gif" 
-     style="width:50%">
+<img src="/images/Cyberwellness%20Principles.gif" style="width:50%">
 		 
 ### Sense
 
@@ -53,25 +48,6 @@ To develop students’ ability to respond to new encounters in cyberspace, it is
 ### Act
 
 Students should eventually translate their understanding into actions that will keep them safe while online.
-
-
-You may refer to the one-stop online portal for teachers, students and parents: [http://ict.moe.edu.sg/cyberwellness/index.html](http://ict.moe.edu.sg/cyberwellness/index.html)
-
-
-### Cyber Wellness Ambassadors
-
-The department has been grooming selected students from primary 3 onwards to be ambassadors of Cyber Wellness (CW). Some of these selected students regularly attend CW conferences and summits to gain more insight on some of the programmes and initiatives from other schools. Under the guidance of our Cyber Wellness Coordinator, they also help to plan CW activities throughout the year and are role model themselves as responsible citizens of the cyber world.
-
-
-### Cyber Wellness Week
-
-The school has a Cyber Wellness week planned for each term. During the week, student-led activities are carried out during recesses and students are encouraged to participate in a wide range of activities to learn more about cyber wellness and earn points for their houses. During these weeks, the CW committee also plan assembly events such as skit performances or presentations to raise students’ awareness about current cyber issues.
-
-
-### Cyber Wellness Parent Talks
-
-The school believes that parents also play an important role in guiding their children to act responsibly on the Internet. Parent talks are conducted in conjunction with curriculum talks with topics such as Internet addiction and cyber bullying shared and discussed with the parents and students. Tips and resources provided by MOE are also made available to them during these engagement sessions.
-
  
 
 ### Cybersmart Cedarians
@@ -89,18 +65,18 @@ and become Cybersmart Cedarians.
 
   
 
-Traits of a Cybersmart Cedarian –
+**Traits of a Cybersmart Cedarian **
 
-1.    I will not give out personal information such as my address, telephone number or the name and location of my school without my parents' permission.
+1.&nbsp;&nbsp; &nbsp;I will not give out personal information such as my address, telephone number or the name and location of my school without my parents' permission.
 
-2.    I will tell my parents right away if I come across any information or content that makes me feel uncomfortable.
+2.&nbsp;&nbsp; &nbsp;I will tell my parents right away if I come across any information or content that makes me feel uncomfortable.
 
-3.    I will never agree to get together with someone that I meet online without first checking with my parents.
+3.&nbsp;&nbsp; &nbsp;I will never agree to get together with someone that I meet online without first checking with my parents.
 
-4.    I will not respond to any messages that are mean or that in any way make me feel uncomfortable. If I receive a message like that, I will tell my parents or teachers right away.
+4.&nbsp;&nbsp; &nbsp;I will not respond to any messages that are mean or that in any way make me feel uncomfortable. If I receive a message like that, I will tell my parents or teachers right away.
 
-5.    I will be courteous and kind to others while communicating online.
+5.&nbsp;&nbsp; &nbsp;I will be courteous and kind to others while communicating online.
 
-6.    I will stand against cyberbullying and help others by reporting the incident to my teachers or parents.
+6.&nbsp;&nbsp; &nbsp;I will stand against cyberbullying and help others by reporting the incident to my teachers or parents.
 
-7.    I will maintain a healthy and balanced lifestyle between the physical and cyber world. For my own well-being, if I **sense** any risks of harmful behaviours online, I will **think** carefully, make well-considered decisions and **act** responsibly in the cyber space.
+7.&nbsp;&nbsp; &nbsp;I will maintain a healthy and balanced lifestyle between the physical and cyber world. For my own well-being, if I&nbsp;**sense**&nbsp;any risks of harmful behaviours online, I will&nbsp;**think**&nbsp;carefully, make well-considered decisions and&nbsp;**act**&nbsp;responsibly in the cyber space.

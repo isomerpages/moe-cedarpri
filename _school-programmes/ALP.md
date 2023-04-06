@@ -1,39 +1,53 @@
 ---
 title: ALP
-permalink: /school-programmes/alp
+permalink: /school-programmes/alp/
 description: ""
 ---
 # **ALP**
 
-### Applied Learning Programme (ALP): Creative and Inventive Thinking Programme
+ 
 
-Cedar Primary School was one of the Pilot schools for PAL (Programme for Active Learning) and the school decided to explore LEGO Education as one of its PAL electives. LEGO Education was chosen as a means of developing the students’ aesthetics awareness and also to promote creative thinking as the students were tasked to create artefacts to represent their impressions and solutions to community issues. This diversified further into the introduction of the creation of Science Toys for the Primary 3-5 students who are tasked to create toys based on specified scientific principles.
+**Applied Learning Programme: Creative and Inventive Thinking (CIT)**
 
+With the aim of developing the spirit of ‘entrepreneurial dare’ in our students to better prepare them to face challenges in a VUCA environment while actively contributing to society, the school decided to adopt Creative and Inventive Thinking (CIT) as our Applied Learning Programme.
 
-#### Aims
+**Vision**
 
-The purpose of **Creative and Inventive Thinking (CIT) Programme** is twofold. It aims to
+To develop creative leaders who impact the community positively
 
-*   optimise the potential offered in PAL and Science curricula, and build on the knowledge and skills our students have acquired in LEGO Education and Science Toy to hone the students’ capacity for higher order thinking;
-*   groom our students to be active contributors to the community. This is achieved by providing the students age-appropriate community issues to deliberate on and arrive at suggestions or solutions to address the respective issues. Our students will thus be equipped with a problem solving mindset and realise that they can make a difference to the community around them, through the solutions and artefacts that they are able to offer and create.
+**CIT Curriculum**
 
-We incorporate our school values and CCE domains into the CIT Programme to ensure that our school values are lived rather than merely espoused values. Providing our students the relevant platforms will therefore be an important component for the students’ growth and learning. Through the VIA (Values In Action) programme, all Cedarians will be provided opportunities both in school and without (i.e. at home, charitable organisations and the Potong Pasir and Sennett Estate community) to implement CIT. Thus all Cedarians will be able to develop a deeper appreciation of their capacity to generate values-based solutions to meet community needs and thus learn to become contributing citizens, despite their tender age.
+All students go through the Creative Problem Solving process during their 6 years in Cedar.
 
+![](/images/creative1.png)
 
-#### Our Approach
+In Semester 1, the curriculum focuses on the use of thinking tools which students use to identify and analyse problems/challenges in a given scenario (P1-P2) or school/community (P3-P6), generate solutions and evaluate solutions. Students are taught a variety of thinking tools such as the CEDAR Idea Generator (adapted from SCAMPER) and ALoU, which they then apply in their community problem solving / tinkering projects.
 
-**Creative and Inventive Thinking (CIT) Programme** is a school-wide programme that aims to develop and enhance students’ learning attitude and thinking skills, particularly in the areas of creativity and critical thinking. As problem contexts are based on issues faced by the community, this programme complements the “Values in Action” (VIA) programme conducted as part of Character and Citizenship Education (CCE).
+In Semester 2, the curriculum focuses on tinkering/prototyping where students get to experiment with materials and ideas to discover and understand their potential of uses and, to reinforce their learning to find better solutions to current problems. Students are exposed to construction tools such as LEGO blocks, Strawbees, Makedo and recycled materials. In the long run, they become more inquiry-oriented and more confident about their ideas.
 
-Our CIT Programme is based on the broad principles of Creative Problem Solving created by Isaksen, Dorval and Treffinger (2000). The CIT Programme helps students to understand challenges and opportunities, generate ideas, and develop effective plans for solving problems and managing change. As shown in figure 1, Creative Problem Solving includes four main components and eight specific stages.
+![](/images/creative2.png)
 
-![](/images/Creative%20Problem%20Saving.jpg)
+![](/images/creative3.png)
 
-A simplified Creative Problem Solving approach, the CREATE methodology (see below), was implemented by the school for the CIT Programme to guide students when they design appropriate solutions to address everyday problems faced by their immediate community.
+**Inventopia: Tinker Space**
 
-![](/images/CREATE%20Methodology.png)
+To better support students’ tinkering/prototyping projects, a makerspace (Inventopia: Tinker Space) was developed, providing students with a space for exploring and bringing their ideas to life.  
 
-To optimise the learning opportunities for our students, we also tap on the partnerships with our parents and the community. For example, parents could be roped in to help assess students’ involvement and commitment to VIA at home. This will help to reinforce the values that students have acquired. Partnerships with the community provide our students the platforms to practise 21st century competencies in communication and collaborations as our students contribute ideas and solutions to address community based issues.
+![](/images/creative4.png)
 
+**Creativity Fest**
 
-**Reference**    
-Isaksen, S. G., Dorval, K. B., & Treffinger, D. J. (2000). Creative approaches to problem solving. (2nd Ed.).Dubuque, IA: Kendall/Hunt.
+Creativity Fest was introduced to allow students to share their toy creations (P1-P2) / community problem solving projects (P3-P6) with their peers. It also serves as a platform to develop our students as effective communicators and to further inspire students to become young changemakers. 
+
+![](/images/creative5.png)
+
+![](/images/creative6.png)
+
+**Future Innovators’ Programme**
+
+Future Innovators’ Programme (FIP) is a co-curricular activity (CCA) established with the aim
+of stretching and enhancing our students’ problem-solving capacity. Students who have demonstrated interest and aptitude in this area are invited to join the programme. 
+
+In FIP, students learn advanced thinking skills and are mentored for various creative competitions such as the Sony Creative Science Award (SCSA), Future Problem Solving Programme (FPSP) and Innovation Programme.
+
+![](/images/creative8.png)
