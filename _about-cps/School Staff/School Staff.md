@@ -48,6 +48,5 @@ third_nav_title: School Staff
 |---	|---	|
 | Mr Kamarludin Bin Bujang 	| Science Lab Technician 	|
 | Mr Goh Took Wei 	| Desktop Engineer 	|
-| Mr Lai Ming Feng 	| Desktop Engineer 	|
 | Mdm Shanthi 	| Librarian 	|
 | Mdm Khin Ei Thein 	| Dental Therapist 	|
