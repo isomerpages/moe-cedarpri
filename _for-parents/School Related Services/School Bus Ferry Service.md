@@ -5,4 +5,6 @@ description: ""
 third_nav_title: School Related Services
 ---
 # **School Bus Ferry Service**
-[Cedar Primary Bus Operator]
+
+![School Bus Operators and Bus fares](/images/busoperator.jpg)
+
