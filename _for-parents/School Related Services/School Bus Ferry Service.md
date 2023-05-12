@@ -7,3 +7,4 @@ third_nav_title: School Related Services
 # **School Bus Ferry Service**
 
 ![School Bus Operators and Bus fares](/images/busoperator.jpg)
+![School Bus Fares](/images/busfares.jpg)
