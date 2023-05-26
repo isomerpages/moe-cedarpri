@@ -10,7 +10,7 @@ Please click on the respective links for more information.
 **Important Dates:**  
 
 [MOE School Terms and Important Dates](https://www.moe.gov.sg/education/school-terms-and-important-dates)   
-[National Examinations Timetable](https://www.seab.gov.sg/docs/default-source/examination-timetable/2022psleexamtimetable.pdf)  
+[National Examinations Timetable](https://www.seab.gov.sg/docs/default-source/examination-timetable/2023psleexamtimetable.pdf)
 
 **School hours & Recess timings:**  
 
