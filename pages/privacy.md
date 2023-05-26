@@ -2,6 +2,4 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-# **Privacy Policy**
-
-Under construction
+![Cedar Privacy Statements](/images/cedar_privacystatement.jpg)
