@@ -1,10 +1,9 @@
 ---
 title: Character and Citizenship Education
-permalink: /departments/character-and-citizenship-education
+permalink: /departments/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-
 # **Character and Citizenship Education**
 
 ### Vision and Mission
@@ -55,7 +54,7 @@ The FTGP concept is illustrated as below:
 
 Education & Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations 
 
-Click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance) for link to MOE’s ECG page.
+Click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) for link to MOE’s ECG page.
 
 **c)  Cyber Wellness**  
 
