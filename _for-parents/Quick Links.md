@@ -10,7 +10,7 @@ description: ""
 
 
 *   Schoobag - Online blog for parents   
-\-    [https://www.schoolbag.sg/](https://www.schoolbag.sg/)  
+\-    [https://www.schoolbag.edu.sg/](https://www.schoolbag.edu.sg/)  
 \-    [https://www.openschoolbag.com.sg/blog/parents-complete-guide-to-online-help/](https://www.openschoolbag.com.sg/blog/parents-complete-guide-to-online-help/)  
 
 *   [MOE Facebook page](https://www.facebook.com/moesingapore)
