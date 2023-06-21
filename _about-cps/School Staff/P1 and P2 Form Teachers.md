@@ -19,6 +19,7 @@ third_nav_title: School Staff
 | P1-Harmony 	| Ms Ng Xin Ru 	| [ng_xin_ru@moe.edu.sg](mailto:ng_xin_ru@moe.edu.sg) 	|
 | P1-Integrity 	| Mdm Maimon Bte Abdul Samad 	| [maimon_abdul_samad@moe.edu.sg](mailto:maimon_abdul_samad@moe.edu.sg) 	|
 | P1-Integrity 	| Ms Alice Goh 	| [goh_alice@moe.edu.sg](mailto:goh_alice@moe.edu.sg) 	|
+| P1-Integrity 	| Mdm Norlinda Yatim 	| [norlinda_mohamed_yatim@moe.edu.sg](mailto:norlinda_mohamed_yatim@moe.edu.sg) 	|
 | P1-Kindness 	| Mdm Eileen Soh Yee Hong 	| [eileen_soh_yee_hong@moe.edu.sg](mailto:eileen_soh_yee_hong@moe.edu.sg) 	|
 | P1-Kindness 	| Ms Joni Lim 	| [lim_xin_yi_joni@moe.edu.sg](mailto:lim_xin_yi_joni@moe.edu.sg) 	|
 | P1-Kindness 	| Mdm Yeo Dai Yun	| [yeo_dai_yun@moe.edu.sg](mailto:yeo_dai_yun@moe.edu.sg) 	|
