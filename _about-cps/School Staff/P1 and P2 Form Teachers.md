@@ -13,12 +13,14 @@ third_nav_title: School Staff
 |---	|---	|---	|
 | P1-Care 	| Ms Jomanda Lau 	| [lau_zhen_hui_jomanda@moe.edu.sg](mailto:lau_zhen_hui_jomanda@moe.edu.sg) 	|
 | P1-Care 	| Ms Tina Ee	| [ee_poh_khim_tina@moe.edu.sg](mailto:ee_poh_khim_tina@moe.edu.sg) 	|
+| P1-Creativity 	| Mdm Sharon Teo 	| [teo_teng_teng_sharon@moe.edu.sg](mailto:teo_teng_teng_sharon@moe.edu.sg) 	|
 | P1-Creativity 	| Mdm Tan Poh Choo	| [tan_poh_choo_a@moe.edu.sg](mailto:tan_poh_choo_a@moe.edu.sg) 	|
 | P1-Creativity 	| Mdm Chua Chuu Suh 	| [chua_chuu_suh@moe.edu.sg](mailto:chua_chuu_suh@moe.edu.sg) 	|
 | P1-Harmony 	| Mr Mahadi Bin Ramli 	| [mahadi_ramli@moe.edu.sg](mailto:mahadi_ramli@moe.edu.sg) 	|
 | P1-Harmony 	| Ms Ng Xin Ru 	| [ng_xin_ru@moe.edu.sg](mailto:ng_xin_ru@moe.edu.sg) 	|
 | P1-Integrity 	| Mdm Maimon Bte Abdul Samad 	| [maimon_abdul_samad@moe.edu.sg](mailto:maimon_abdul_samad@moe.edu.sg) 	|
 | P1-Integrity 	| Ms Alice Goh 	| [goh_alice@moe.edu.sg](mailto:goh_alice@moe.edu.sg) 	|
+| P1-Integrity 	| Mdm Norlinda Yatim 	| [norlinda_mohamed_yatim@moe.edu.sg](mailto:norlinda_mohamed_yatim@moe.edu.sg) 	|
 | P1-Kindness 	| Mdm Eileen Soh Yee Hong 	| [eileen_soh_yee_hong@moe.edu.sg](mailto:eileen_soh_yee_hong@moe.edu.sg) 	|
 | P1-Kindness 	| Ms Joni Lim 	| [lim_xin_yi_joni@moe.edu.sg](mailto:lim_xin_yi_joni@moe.edu.sg) 	|
 | P1-Kindness 	| Mdm Yeo Dai Yun	| [yeo_dai_yun@moe.edu.sg](mailto:yeo_dai_yun@moe.edu.sg) 	|
@@ -42,7 +44,7 @@ third_nav_title: School Staff
 | P2-Harmony 	| Mdm Jeow Mui Hwa 	| [jeow_mui_hwa@moe.edu.sg](mailto:jeow_mui_hwa@moe.edu.sg) 	|
 | P2-Integrity 	| Ms Nur Diyana Binte Hamdan 	| [nur_diyana_hamdan@moe.edu.sg](mailto:nur_diyana_hamdan@moe.edu.sg) 	|
 | P2-Integrity 	| Ms Angela Chow	| [angela_chow@moe.edu.sg](mailto:angela_chow@moe.edu.sg) 	|
-| P2-Kindness 	| Mdm Sharon Teo 	| [teo_teng_teng_sharon@moe.edu.sg](mailto:teo_teng_teng_sharon@moe.edu.sg) 	|
+| P2-Kindness 	| Ms Joycelyn Koh 	| 
 | P2-Kindness 	| Ms Choo Shiao Hui 	| [choo_shiao_hui@moe.edu.sg](mailto:choo_shiao_hui@moe.edu.sg) 	|
 | P2-Responsibility 	| Mdm Wong Ooi Ling 	| [wong_ooi_ling@moe.edu.sg](mailto:wong_ooi_ling@moe.edu.sg) 	|
 | P2-Responsibility 	| Ms Lisa Lim 	| [lisa_a@moe.edu.sg](mailto:lisa_a@moe.edu.sg) 	|
