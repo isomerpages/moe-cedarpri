@@ -11,6 +11,5 @@ description: ""
 
 | Lower Primary | Middle Primary | Upper Primary |
 | -------- | -------- | -------- |
-| Primary 1     | Primary 3     | Primary 5 Standard     |
-| Primary 2     | Primary 4     | Primary 5 Foundation     |
-
+| [Primary 1](/files/HBL%20Plans/12%20Jul%202023/p1_cps__hbl%20day_plan_12%20july.pdf)  | [Primary 3](/files/HBL%20Plans/12%20Jul%202023/p3_cps__hbl%20day_plan_12%20july.pdf)     | [Primary 5 Standard](/files/HBL%20Plans/12%20Jul%202023/p5%20std_cps__hbl%20day_plan_12%20july.pdf)     |
+| [Primary 2](/files/HBL%20Plans/12%20Jul%202023/p2_cps__hbl%20day_plan_12%20july.pdf)     | [Primary 4](/files/HBL%20Plans/12%20Jul%202023/p4_cps__hbl%20day_plan_12%20july.pdf)     | [Primary 5 Foundation](/files/HBL%20Plans/12%20Jul%202023/p5%20fdn_cps__hbl%20day_plan_12%20july.pdf)     |
