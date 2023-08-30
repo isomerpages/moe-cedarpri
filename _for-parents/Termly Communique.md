@@ -18,3 +18,7 @@ description: ""
 **Term 3**
 
 [Term 3 Communique](/files/Communiques/term3communique_24may2023.pdf)
+
+**Term 4**
+
+[Term 4 Communique](/files/Communiques/term%204%20communique_29aug2023.pdf)
