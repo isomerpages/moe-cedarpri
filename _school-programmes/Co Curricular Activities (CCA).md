@@ -21,7 +21,7 @@ The Co-Curriculum complements the Curriculum. It consists of and provides studen
 #### Purpose of CCA
 
 1. The CCA Programme is an integral part of students’ holistic 
-education.Participation in CCA enables students to discover their interests and talents while providing a platform for friendships and inclusive social integration of students from diverse backgrounds.
+		education.Participation in CCA enables students to discover their interests and talents while providing a platform for friendships and inclusive social integration of students from diverse backgrounds.
 1. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.
 2. CCA is a key student development experience as it offers  opportunities for rich and authentic CCE learning beyond the classroom. It is an excellent platform for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies while progressively developing CCA-specific knowledge, skills, values and attitudes through sustained participation.
 3. Each CCA has its specific objectives. 
@@ -31,5 +31,3 @@ education.Participation in CCA enables students to discover their interests and 
 * Inventiveness, Language and other CCAs allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. 
 
 5. All CCAs emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.
-
-
