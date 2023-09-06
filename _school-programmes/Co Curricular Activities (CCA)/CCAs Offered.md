@@ -49,5 +49,5 @@ The main objective of Sports Club is to instill joy in learning new sports at a 
 
 <table><tbody><tr>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/floorball1.jpeg"> </td>
-<td> <img style="width: 450px;" alt="Drawing" src="/images/floorball.jpg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/floor1.jpeg"> </td>
 </tr></tbody></table>
