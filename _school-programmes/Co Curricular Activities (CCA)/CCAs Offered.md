@@ -111,3 +111,13 @@ In Music Ensemble, fellow music lovers come together to learn to play the Brass 
 <td> <img style="width: 450px;" alt="Drawing" src="/images/music2.jpeg"> </td>
 </tr></tbody></table>
 
+### Clubs and Societies
+
+#### Kindness Club
+
+Students in Kindness Club promote awareness of kindness and care toward people, the environment, animals and the society to make life better for everyone. They are actively involved in kindness initiatives to create a gracious society and lead school wide initiatives such as showing appreciation to the school's non-teaching staff and encouraging others to do their part in the school's recycling drive.  
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/kindness1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/kindness2.jpeg"> </td>
+</tr></tbody></table>
