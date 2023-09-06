@@ -2,10 +2,10 @@ collections:
   school-programmes:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
-      - Co Curricular Activities (CCA)/.keep
       - ALP.md
       - LLP.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Holistic Health Programme/.keep
       - Holistic Health Programme/Holistic Health Programme.md
       - Holistic Health Programme/Healthy Meals in School Programme.md
