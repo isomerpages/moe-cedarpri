@@ -81,3 +81,33 @@ Robotics Club aims to develop creative and inventive Cedarians with critical thi
 <td> <img style="width: 450px;" alt="Drawing" src="/images/robotics1.jpg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/robotics2.jpg"> </td>
 </tr></tbody></table>
+
+### The Arts
+
+#### Art Club
+
+In Art Club, students will be exposed to various art forms such as drawing, painting, new media, 3D pen and many more. Members will be able to foster the love and appreciation of visual art, develop creativity and self-expression and to provide opportunities to contribute to the school and community. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/artclub1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/artclub2.jpeg"> </td>
+</tr></tbody></table>
+
+#### International Dance
+
+International Dance provides students the opportunity to discover and explore modern and cultural contemporary dance forms where they develop to be versatile dancers. We have a family of multiracial dancers and that provides them an opportunity to develop cultural awareness. Through dance, students will learn to be more resilient and disciplined, alongside other school values that are regularly reiterated by our team of dedicated teachers.
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/dance1.PNG"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/dance2.PNG"> </td>
+</tr></tbody></table>
+
+#### Music Ensemble
+
+In Music Ensemble, fellow music lovers come together to learn to play the Brass and Percussion instruments. There will be opportunities to perform during school events and to represent the school in the Singapore Youth Festival Arts Presentation. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/music1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/music2.jpeg"> </td>
+</tr></tbody></table>
+
