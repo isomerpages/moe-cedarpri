@@ -6,14 +6,14 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 # **Co-Curricular Activities**
 
-#### <p style="text-align: center;">Vision</p>
+#### Vision
 
-<p style="text-align: center;">Developing Cedarians holistically through CCA Excellence.</p>
+Developing Cedarians holistically through CCA Excellence.
 
-#### <p style="text-align: center;">Mission</p>
+#### Mission
 
-<p style="text-align: center;">Providing platforms and opportunities for every child to discover their interests and talents.
-</p>
+Providing platforms and opportunities for every child to discover their interests and talents.
+
 
 #### Role of Co-Curriculum
 
