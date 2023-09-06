@@ -13,4 +13,4 @@ More details of the CCA Registration Exercise will be provided to Primary 2 pare
 
 
 #### CCA Registration for New Students
-New to the school? Just transfer in? Email Mr Ilyas at ilyas_hakim_jamaludin@moe.edu.sg to find out the available CCA choices for your child/ward.
+New to the school? Just transfer in? Email [Mr Ilyas](mailto:ilyas_hakim_jamaludin@moe.edu.sg) at  to find out the available CCA choices for your child/ward.
