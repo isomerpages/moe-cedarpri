@@ -63,3 +63,21 @@ We invite students to join FIP yearly to develop potential individuals who have 
 <td> <img style="width: 450px;" alt="Drawing" src="/images/future1.jpeg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/future2.jpeg"> </td>
 </tr></tbody></table>
+
+#### Infocomm Club
+
+Infocomm Club provides students the platform to learn how to take photos, create a video, design a web page and other computer softwares. There will also be lessons on coding using the software Scratch where students can design and create their own animations and games. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/infocomm1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/infocomm2.jpeg"> </td>
+</tr></tbody></table>
+
+#### Robotics Club
+
+Robotics Club aims to develop creative and inventive Cedarians with critical thinking minds. Robotics is more than just playing with Lego bricks. Working in teams, students will be learning how to construct, programme and troubleshoot their robots to do a particular task or solve real life challenges using EV3 Mindstorms Lego sets.
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/robotics1.jpg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/robotics2.jpg"> </td>
+</tr></tbody></table>
