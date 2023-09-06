@@ -140,3 +140,16 @@ The Boys’ Brigade and Girls’ Brigade are worldwide youth organisations aimed
 <td> <img style="width: 450px;" alt="Drawing" src="/images/girlsbrigade1.jpeg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/boysbrigade2.jpg"> </td>
 </tr></tbody></table>
+
+
+### CCA Days and Timing
+
+Allocated CCA Days: Mondays, Tuesdays and Thursday*
+
+CCA Timing: 3.30pm – 5.30pm*
+
+Note:
+*CCA days and timings are subjected to changes.
+For students taking school bus, school bus service is provided after CCA. Please approach the bus vendor directly for further arrangement.
+
+![](/images/cca%20days.PNG)
