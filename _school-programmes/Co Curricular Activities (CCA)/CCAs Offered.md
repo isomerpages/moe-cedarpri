@@ -39,5 +39,15 @@ Softball is a bat-and-ball sport played by 2 teams of 9 players each. A game of 
 
 <table><tbody><tr>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/softball1.jpeg"> </td>
-<td> <img style="width: 450px;" alt="Drawing" src="/images/.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/softball.jpg"> </td>
+</tr></tbody></table>
+
+
+#### Sports Club
+
+The main objective of Sports Club is to instill joy in learning new sports at a non-competitive level. It is about developing students' interest in team sports and learn the values of fair play, sportsmanship and resilience. Sports Club exposes students to various team sports such as touch rugby, ultimate frisbee and tchoukball. These sports are not offered in the other sports CCAs and not taught within the PE syllabus. Students will learn how to collaborate with their teammates and take ownership of their learning, at their own pace. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/floorball1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/floorball.jpg"> </td>
 </tr></tbody></table>
