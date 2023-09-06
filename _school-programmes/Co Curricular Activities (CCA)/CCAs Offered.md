@@ -140,4 +140,3 @@ The Boys’ Brigade and Girls’ Brigade are worldwide youth organisations aimed
 <td> <img style="width: 450px;" alt="Drawing" src="/images/girlsbrigade1.jpeg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/boysbrigade2.jpg"> </td>
 </tr></tbody></table>
-
