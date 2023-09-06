@@ -19,7 +19,7 @@ A letter of absence or a medical certificate must be submitted to the CCA teache
 
 #### Change of CCA
 Change of CCA is strongly discouraged. 
-Parents can make their request for change of CCA from 1 January - 31 January through this link: https://go.gov.sg/requestchangecca. No request will be entertained after this period.
+Parents can make their request for change of CCA from 1 January - 31 January through this [link](https://go.gov.sg/requestchangecca). No request will be entertained after this period.
 These are the prerequisites before requesting for a change of CCA:
 Student must stay committed to current CCA for at least a year.
 Student is not slated to represent school for any upcoming competitions and/or performances.
