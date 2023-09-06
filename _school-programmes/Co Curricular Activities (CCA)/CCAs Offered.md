@@ -121,3 +121,23 @@ Students in Kindness Club promote awareness of kindness and care toward people, 
 <td> <img style="width: 450px;" alt="Drawing" src="/images/kindness1.jpeg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/kindness2.jpeg"> </td>
 </tr></tbody></table>
+
+#### Literary, Drama and Debate Club (LDDC)
+
+In LDDC, students will be exposed to Speech and Drama. They will be engaged in discussions after reading a book or watching a movie; after which, there will be opportunities for students to showcase their talent via role-play. Whereas in the debate workshops, members will learn to be critical readers and confident speakers. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/drama1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/drama2.jpeg"> </td>
+</tr></tbody></table>
+
+### Uniformed Group
+
+#### Boys’ Brigade and Girls’ Brigade
+
+The Boys’ Brigade and Girls’ Brigade are worldwide youth organisations aimed at shaping generations of young boys and girls into well-rounded individuals with exemplary character and leadership. Our multi-disciplined approach includes outdoor games and adventure, drill, community service and leadership training. Each student will be nurtured in the critical values of obedience, reverence, discipline and self-respect to reach his/her full potential as an active contributor to society. 
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/girlsbrigade1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/boysbrigade2.jpg"> </td>
+</tr></tbody></table>
+
