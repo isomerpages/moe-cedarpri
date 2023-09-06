@@ -51,3 +51,15 @@ The main objective of Sports Club is to instill joy in learning new sports at a 
 <td> <img style="width: 450px;" alt="Drawing" src="/images/floorball1.jpeg"> </td>
 <td> <img style="width: 450px;" alt="Drawing" src="/images/floor1.jpeg"> </td>
 </tr></tbody></table>
+
+### Inventiveness
+
+#### Future Innovators' Programme (FIP)
+
+Future Innovators Programme (FIP) is the 2nd tier of Cedar Primary School’s Applied Learning Programme. It is a CCA where students who have the entrepreneurial spirit gather together to come up with new ideas, make positive improvements to the community and seek opportunities to appreciate aesthetics.
+We invite students to join FIP yearly to develop potential individuals who have the positive aptitude and attitude to take on challenges in school, community or even the world. Students will be taught how to question like How does this work? What can I do differently? before facilitated to generate tangible values-based solutions. 
+
+<table><tbody><tr>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/future1.jpeg"> </td>
+<td> <img style="width: 450px;" alt="Drawing" src="/images/future2.jpeg"> </td>
+</tr></tbody></table>
