@@ -15,6 +15,7 @@ More details of the CCA Tryouts will be provided to Primary 2 parents/guardians 
 
 
 #### Things to Note:
-Participation in the CCA Tryouts is optional.
-Participation in the CCA Tryouts is not a prerequisite when assigning students to their CCA of choice during the CCA Registration Exercise.
-Parents/Guardians must make their own transport arrangement for the child/ward. For those taking the school bus, do liase with the bus vendor directly.
+* Participation in the CCA Tryouts is optional.
+* Participation in the CCA Tryouts is not a prerequisite when assigning students to their CCA of choice during the CCA Registration Exercise.
+* Parents/Guardians must make their own transport arrangement for the child/ward.
+* For those taking the school bus, do liase with the bus vendor directly.
