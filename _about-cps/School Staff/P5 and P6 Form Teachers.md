@@ -10,7 +10,6 @@ description: ""
 
 | Class 	| Name 	| Email 	|
 |---	|---	|---	|
-| P5-Creativity 	| Mr Tan Teing Sin 	| [tan_teing_sin@moe.edu.sg](mailto:tan_teing_sin@moe.edu.sg) 	|
 | P5-Creativity 	| Ms Demetria Chang 	| [demetria_chang@moe.edu.sg](mailto:demetria_chang@moe.edu.sg) 	|
 | P5-Creativity 	| Mr Ivan Foo 	| [foo_yong_chin_ivan@moe.edu.sg](mailto:foo_yong_chin_ivan@moe.edu.sg) 	|
 | P5-Integrity 	| Ms Vionna Hong 	| [hong_yi_ni_vionna@moe.edu.sg](mailto:hong_yi_ni_vionna@moe.edu.sg) 	|
