@@ -36,6 +36,5 @@ third_nav_title: School Staff
 | P4-Responsibility 	| Mdm Choo Poh Hong Millie 	| [choo_poh_hong_millie@moe.edu.sg](mailto:choo_poh_hong_millie@moe.edu.sg) 	|
 | P4-Responsibility 	| Mr Foong Swee Fong 	| [foong_swee_fong@moe.edu.sg](mailto:foong_swee_fong@moe.edu.sg) 	|
 | P4-Responsibility 	| Mr Naufal Haji Ariffin 	| [muhammad_naufal_haji_ariffin@moe.edu.sg](mailto:muhammad_naufal_haji_ariffin@moe.edu.sg) 	|
-| P4-Resilience 	| Mr Chan Whye Shiung 	| [chan_whye_shiung@moe.edu.sg](mailto:chan_whye_shiung@moe.edu.sg) 	|
 | P4-Resilience 	| Mdm Nani Rhiani 	| [nani_rhiani_mohd_taib@moe.edu.sg](mailto:nani_rhiani_mohd_taib@moe.edu.sg) 	|
 | P4-Resilience 	| Ms Serene Tee	| [tee_su_ling_serene@moe.edu.sg](mailto:tee_su_ling_serene@moe.edu.sg) 	|
