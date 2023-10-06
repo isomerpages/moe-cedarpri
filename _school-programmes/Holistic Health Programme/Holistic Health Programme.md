@@ -1,6 +1,6 @@
 ---
 title: Holistic Health Programme
-permalink: /school-programmes/holistic-health-programme/holistic-health-programme
+permalink: /school-programmes/holistic-health-programme/holistic-health-programme/
 description: ""
 third_nav_title: Holistic Health Programme
 ---
@@ -17,24 +17,15 @@ We work closely with HPB to develop structures and bring in experts to impart va
 
   
 
-**2. Structured Physical Activities Session**
-
-**_Go for Hope, Health and Harmony (GH3)_** is a programme for the whole school where students will be rewarded when they exercise regularly over 2 terms. The students’ participation will be monitored to encourage them to achieve the goals set at the start of the programme.
-
-**3. Self-Initiated Physical Activities**
+**2. Self-Initiated Physical Activities**
 
 Students are highly encouraged to take part in the **_Unstructured Play Programme_** during recess. In this programme, they will be able to loan any equipment of their choice and engage in active play either individually or with their peers.  
 
-**4. Coaching by Teachers**
-
-Teachers trained in the programme coach obese and severely obese students to alter their habits through a **_series of coaching session_** to (a) improve their eating habit, (b) increase their daily activity level and most importantly (c) alter their mindsets to lead a healthier lifestyle.
-
   
-
-**5. Parental Involvement**
+**3. Parental Involvement**
 
 We look at conducting **_health talks_** for parents and sharing tips on how they can develop lasting partnership with their children in their weight management journey. Such sharing helps the parents to address some of the misconceptions they might have with regard to their children’s health as well as weight management.
 
-**6. Medical Screening**
+**4. Medical Screening**
 
 Every year, we work closely with School Health Services under the HPB for the **_Health Screening Programme_**. This programme allows us to gather invaluable information on students’ health status. The relevant information is shared with the teachers so that we are able to look into the safety of our students in school and beyond, especially during Learning Journeys and overseas trips. On top of this, students with weight management issues will go for further assessment at the HPB HQ. Their progress will be closely monitored to help them attain the physical fitness level and lead an active lifestyle.
