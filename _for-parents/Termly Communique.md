@@ -2,6 +2,7 @@
 title: Termly Communique
 permalink: /for-parents/termly-communique/
 description: ""
+variant: markdown
 ---
 # **Termly Communique**
 
@@ -22,3 +23,7 @@ description: ""
 **Term 4**
 
 [Term 4 Communique](/files/Communiques/term%204%20communique_29aug2023.pdf)
+
+**End Of Term**
+
+[2023 End Of Term](/files/Communiques/end_of_year_communique_2023.pdf)
