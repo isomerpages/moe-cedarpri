@@ -2,6 +2,7 @@
 title: About Us
 permalink: /mk-at-cedar/about-us/
 description: ""
+variant: markdown
 ---
 # **About Us**
 
@@ -39,11 +40,11 @@ Children will be able to recognise and understand values to build a healthy self
 
 ![](/images/MK(1).jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9DGKAyyqiXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6axfBJjsu3Y?si=BWnHBJgnkC6g97U-" height="315" width="560"></iframe>
 
 **More Information**
 
-[More information about MK@Cedar](/files/MKCedar/MKCD%20Information%20for%20Website.pdf)
+[More information about MK@Cedar](/files/MKCedar/MK_CD_Information_for_Website__2023_.pdf)
 
 [2024 Family Handbook](/files/MKCedar/moekindergarten_familyhandbook2023.pdf)
 
