@@ -21,9 +21,9 @@ Please indicate your preference for KCare when registering your child for MK.
 **KCare@Cedar Virtual Tour**
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XlPYPCepq04?si=rVpXVojr1WeXrIPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+-- >
 
-
-
+<!--
 <br>
  <video class="gdriveVideo" preload="auto" controls="">
        <source src="https://drive.google.com/uc?export=download&amp;id=1CKGAZ5uPZt1qzpWBsKZ9g6L95UoXgBWa" type="video/mp4">
