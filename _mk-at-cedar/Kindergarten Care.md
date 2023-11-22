@@ -19,10 +19,9 @@ You can also refer to the following document.
 Please indicate your preference for KCare when registering your child for MK.
 
 **KCare@Cedar Virtual Tour**
-
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XlPYPCepq04?si=rVpXVojr1WeXrIPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
- -- >
+ //-- >
 
 
 <br>
@@ -35,8 +34,10 @@ Please indicate your preference for KCare when registering your child for MK.
 <iframe src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" width="640" height="480" allow="autoplay"></iframe>
 -- >
 	 
-<video class="gdriveVideo" preload="auto" controls="">
-       <source src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" type="video/mp4"> 
+<video width="640" height="480" allow ="autoplay">
+  <source src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" type="video/mp4"> 
+</video>
+
 	
 	
     </video>-->
