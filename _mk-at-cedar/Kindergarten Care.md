@@ -24,15 +24,8 @@ Please indicate your preference for KCare when registering your child for MK.
 
 <br>
  
-<!--<video class="gdriveVideo" preload="auto" controls="">
-       <source src="https://drive.google.com/uc?export=download&amp;id=1CKGAZ5uPZt1qzpWBsKZ9g6L95UoXgBWa" type="video/mp4"> -->
-
-
-
-<!--<iframe src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" width="640" height="480" allow="autoplay"></iframe>-->
-
-<video controls="" preload="autoplay" class="gdriveVideo">
-       <source type="video/mp4" src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview"> 
+<video controls="" preload="auto" class="gdriveVideo">
+       <source type="video/mp4" src="https://drive.google.com/uc?export=download&amp;id=1CKGAZ5uPZt1qzpWBsKZ9g6L95UoXgBWa"> 
 	
 </video>
     
