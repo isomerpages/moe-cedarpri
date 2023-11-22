@@ -32,7 +32,7 @@ Please indicate your preference for KCare when registering your child for MK.
 <!--<iframe src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" width="640" height="480" allow="autoplay"></iframe>-->
 
 <video controls="" preload="auto" class="gdriveVideo">
-       <source type="video/mp4" src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview"> </video>
+       <source type="video/mp4" src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview"> 
 	
-	
+</video>
     
