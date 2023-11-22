@@ -36,7 +36,7 @@ Please indicate your preference for KCare when registering your child for MK.
 -- >
 	 
 <video class="gdriveVideo" preload="auto" controls="">
-       <source src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" type="video/mp4"> -- >
+       <source src="https://drive.google.com/file/d/1jSo-0AqXrLKD5PZN0uszBwDSEwhDOj9d/preview" type="video/mp4"> 
 	
 	
     </video>-->
