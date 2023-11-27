@@ -2,12 +2,18 @@
 title: Parent Engagement Sessions
 permalink: /for-parents/parent-engagement-sessions/
 description: ""
+variant: markdown
 ---
 # **Parent Engagement Sessions**
 
-#### **For Year 2023**
+#### **For Year 2024**
 
+**Primary 1**  
+1. [Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/P1_2024_Orientation_Principal_s_Address.pdf)
 
+2. [Admin Briefing](/files/Parent%20Engagement/P1%20Engagement%202024/2024_P1_Orientation_YH_s_and_PSG_s_Briefing.pdf)
+
+<!--FY2023 Not to display
 **Primary 1**  
 
 1.  [Principal's Address](/files/Parent%20Engagement/P1%202023_Orientation_Principal's%20Address.pdf)
@@ -36,3 +42,5 @@ description: ""
 2. [Curriculum Updates and Workshops](/files/Parent%20Engagement/P5%20Engagement%202023/Curriculum%20Updates%20and%20Workshops.pdf)
 3. [AYHs' Address_Student Holistic Development](/files/Parent%20Engagement/P5%20Engagement%202023/AYHs'%20Address_Student%20Holistic%20Development.pdf)
 4.  [P5 P6 FAQs](/files/Parent%20Engagement/P5%20Engagement%202023/P5%20P6%20FAQs.pdf)
+
+-->
