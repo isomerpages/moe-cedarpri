@@ -3,6 +3,7 @@ title: School Staff
 permalink: /about-cps/School-Staff/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 # **School Staff**
 
@@ -29,14 +30,11 @@ third_nav_title: School Staff
 | Mdm Sharon Oh 	| ICT Manager 	|
 | Mdm Keetha d/o Suppiah Mrs S Keetha 	| Corporate Support Officer 	|
 | Mdm Rubiah Binte Ahmad 	| Administrative Executive 	|
-| Mdm Jennifer Lee Cheng Noi 	| Administrative Executive 	|
-| Ms Ng Xin Li 	| Administrative Executive 	|
-| Mdm Seng Kah Huay 	| Corporate Support Officer 	|
+| Mdm Pam Cheong Kuan Yeen | Corporate Support Officer 	|
 | Mdm Arba’ah Binte Sa’ad 	| Operations Support Officer 	|
 | Mdm Chee Lai Fun Angelia 	| Operations Support Officer 	|
 | Ms Jaganathan Panumathi 	| Operations Support Officer 	|
 | Mdm Loh Mei Leen 	| Operations Support Officer 	|
-| Ms Maimoon Binte Awal 	| Operations Support Officer 	|
 | Mdm Wong Ah Boy 	| Operations Support Officer 	|
 | Mdm Zubaidah Binte Abdul Wahab 	| Operations Support Officer 	|
 
