@@ -1,43 +1,7 @@
 ---
 title: School Values
-permalink: /about-cps/school-values
+permalink: /about-cps/school-values/
 description: ""
+variant: tiptap
 ---
-# **School Values**
-
-**Kindness**
-
-*   I speak gently and kindly.
-*   I think of others’ feelings before I act.
-*   I show care and concern for people, animals and the environment.
-*   I am compassionate and help others in need without asking for anything in return.
-
-**Integrity**
-
-*   I always speak the truth.
-*   I own up when I make a mistake, and learn from it.
-*   I have the moral courage to make the right decisions.
-*   I choose to do what is morally right even when no one is watching.
-
-**Resilience**
-
-*   I persevere / keep trying in the face of challenges.
-*   I adapt to changes that come my way.
-*   I pick myself up and become stronger when the going gets tough.
-*   I know I will reach my goal when I try hard enough.
-
-**Responsibility**
-
-*   I set my targets and monitor my own progress.
-*   I do the right thing at the right time at the right place.
-*   I do everything to the best of my ability.
-*   I know that my action has an impact on others and will think before I act.
-
-**Creativity**
-
-*   I express myself and share my views openly and respectfully.
-*   I am eager to learn new things and try out new ideas with others.
-*   I think of different ways to solve a challenge or make things better.
-*   I turn new ideas into reality that benefits the class, school and the community.
-
-![](/images/School%20Values.jpg)
+<h1><strong>School Values</strong></h1><p><strong>Kindness</strong></p><ul data-tight="true" class="tight"><li><p>I speak gently and kindly.</p></li><li><p>I think of others’ feelings before I act.</p></li><li><p>I show care and concern for people, animals and the environment.</p></li><li><p>I am compassionate and help others in need without asking for anything in return.</p></li></ul><p><strong>Integrity</strong></p><ul data-tight="true" class="tight"><li><p>I always speak the truth.</p></li><li><p>I own up when I make a mistake, and learn from it.</p></li><li><p>I have the moral courage to make the right decisions.</p></li><li><p>I choose to do what is morally right even when no one is watching.</p></li></ul><p><strong>Resilience</strong></p><ul data-tight="true" class="tight"><li><p>I persevere / keep trying in the face of challenges.</p></li><li><p>I adapt to changes that come my way.</p></li><li><p>I pick myself up and become stronger when the going gets tough.</p></li><li><p>I know I will reach my goal when I try hard enough.</p></li></ul><p><strong>Responsibility</strong></p><ul data-tight="true" class="tight"><li><p>I set my targets and monitor my own progress.</p></li><li><p>I do the right thing at the right time at the right place.</p></li><li><p>I do everything to the best of my ability.</p></li><li><p>I know that my action has an impact on others and will think before I act.</p></li></ul><p><strong>Creativity</strong></p><ul data-tight="true" class="tight"><li><p>I express myself and share my views openly and respectfully.</p></li><li><p>I am eager to learn new things and try out new ideas with others.</p></li><li><p>I think of different ways to solve a challenge or make things better.</p></li><li><p>I turn new ideas into reality that benefits the class, school and the community.</p></li></ul><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_10_1_24_at_18_44.jpg"></div><p></p>
