@@ -1,0 +1,27 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - HBL Plans.md
+      - Parent Engagement Sessions.md
+      - Termly Communique.md
+      - Student Learning Space.md
+      - Student iCON.md
+      - Parent Gateway.md
+      - Admission Matters.md
+      - Administrative Matters.md
+      - Administrative Links and Forms.md
+      - Virtual Tour @ Cedar Primary.md
+      - School Related Services/.keep
+      - School Related Services/Student Care Centre.md
+      - School Related Services/School Bookshop.md
+      - School Related Services/School Uniform Supplier.md
+      - School Related Services/School Bus Ferry Service.md
+      - School Related Services/School Dental Services.md
+      - Direct School Admission (DSA).md
+      - Sexuality Education Programme.md
+      - Parent Support Group.md
+      - School Vendors.md
+      - Video Conferencing Guide.md
+      - COVID19 Vaccination Exercise for Students.md
+      - Quick Links.md
