@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>About Us</strong></h1>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
 <p></p>
-<p><strong>Open House 2024 </strong>
+<p><strong>Open House 2024</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
