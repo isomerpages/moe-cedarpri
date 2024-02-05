@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_MOE_Kindergarten_Open_House_Design_eDM__2A_01.jpg">
 </div>
-<p><a href="/files/MKCedar/_2024__MK_Cedar_Open_House_Information_for_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Information about the 2024 MK Cedar Open House</a>
+<p><a href="/files/MKCedar/2024_mk_cedar_open_house_information_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for 2024 MK Cedar Open House</a>
 </p>
 <p><a href="/files/MKCedar/2024_MK_Open_House_Programme_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House Programme Schedule</a>
 </p>
