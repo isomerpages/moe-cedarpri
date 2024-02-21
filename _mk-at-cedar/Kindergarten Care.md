@@ -2,29 +2,33 @@
 title: Kindergarten Care
 permalink: /mk-at-cedar/kindergarten-care/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Kindergarten Care**
-
-Kindergarten Care or KCare in short is an option for parents who are interested to enroll their child for a full-day care service. It is available for children being enrolled in our MK, which is before or after the MK session. KCare operates from Monday to Friday from 7.00am to 7.00pm.
-
-The programme provides time and space for children to engage in play, exploration and discovery through a variety of specially designed modular activities (tinkering, cookery, sand and water play, dramatic play, outdoor and gardening).
-
-For more information, please visit&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
-
-You can also refer to the following document.
-
-[Important Notes for Kindergarten Care](/files/KCCedar/KCCD%20Important%20Notes.pdf)
-
-Please indicate your preference for KCare when registering your child for MK.
-
-**KCare@Cedar Virtual Tour**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XlPYPCepq04?si=rVpXVojr1WeXrIPz" height="315" width="560"></iframe>
-
+<h1><strong>Kindergarten Care</strong></h1>
+<p>Kindergarten Care or KCare in short is an option for parents who are interested
+to enroll their child for a full-day care service. It is available for
+children being enrolled in our MK, which is before or after the MK session.
+KCare operates from Monday to Friday from 7.00am to 7.00pm.</p>
+<p>The programme provides time and space for children to engage in play,
+exploration and discovery through a variety of specially designed modular
+activities (tinkering, cookery, sand and water play, dramatic play, outdoor
+and gardening).</p>
+<p>For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
+</p>
+<p>You can also refer to the following document.</p>
+<p><a href="/files/KCCedar/KCCD%20Important%20Notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Important Notes for Kindergarten Care</a>
+</p>
+<p>You can also find out more information about our KCare Open House 2024
+from the following document.</p>
+<p><a href="/files/KCCedar/KCCD___Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on KCare Open House 2024</a>
+</p>
+<p>Please indicate your preference for KCare when registering your child
+for MK.</p>
+<p><strong>KCare@Cedar Virtual Tour</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XlPYPCepq04?si=rVpXVojr1WeXrIPz"></iframe>
+</div>
+<p>
 <br>
- 
-<!--video class="gdriveVideo" preload="auto" controls="">
-       <source src="https://drive.google.com/uc?export=download&amp;id=1CKGAZ5uPZt1qzpWBsKZ9g6L95UoXgBWa" type="video/mp4"> 
-	
-</video>-->
+</p>
