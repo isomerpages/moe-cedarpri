@@ -6,25 +6,6 @@ variant: tiptap
 ---
 <h1><strong>About Us</strong></h1>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
-<p></p>
-<p><strong>Open House 2024</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_MOE_Kindergarten_Open_House_Design_eDM__2A_01.jpg">
-</div>
-<p><a href="/files/MKCedar/2024_mk_cedar_open_house_information_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for 2024 MK Cedar Open House</a>
-</p>
-<p><a href="/files/MKCedar/2024_MK_Open_House_Programme_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House Programme Schedule</a>
-</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OgzB0A4PgxA?si=Rc2O4jhVxBSz-QK1"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h5ppBdxspMk?si=Zs-w0hSFUxb8Bgvm"></iframe>
-</div>
 <p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
 on:</p>
 <ul data-tight="true" class="tight">
