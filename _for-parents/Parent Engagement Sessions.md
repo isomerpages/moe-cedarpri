@@ -8,16 +8,19 @@ variant: markdown
 
 #### **For Year 2024**
 
-**Primary 1 Engagement**  
-**Dec 2023 Orientation **
-1. [Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/P1_2024_Orientation_Principal_s_Address.pdf)
+**Primary 1 & 2 Engagement**  
 
-2. [Admin Briefing](/files/Parent%20Engagement/P1%20Engagement%202024/2024_P1_Orientation_YH_s_and_PSG_s_Briefing.pdf)
+1. [P1 Orientation - Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/P1_2024_Orientation_Principal_s_Address.pdf)
 
-**P2 Engagement**
-1. Principal's Address
+2. [P1 Orientation - Admin Briefing](/files/Parent%20Engagement/P1%20Engagement%202024/2024_P1_Orientation_YH_s_and_PSG_s_Briefing.pdf)
+3. [March 2024 - Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/1__8_Mar_Principal_s_Address.pdf)
+4. [March 2024 - Student Holistic Development](/files/Parent%20Engagement/P1%20Engagement%202024/2__8_Mar_Student_Holistic_Development___Well_Being.pdf)
+5. [March 2024 - Curriculum Briefing 1](/files/Parent%20Engagement/P1%20Engagement%202024/3__8_Mar_P1_P2_Curriculum_Briefing_1.pdf)
+6. [March 2024 - Curriculum Briefing 2](/files/Parent%20Engagement/P1%20Engagement%202024/4__8_Mar_P1_P2_Curriculum_Briefing_2.pdf)
+7. [March 2024 - FAQs](/files/Parent%20Engagement/P1%20Engagement%202024/5__8_Mar_FAQs.pdf)
 
-**P3 Engagement**
+**P3 & P4 Engagement**
+
 
 **P4 Engagement**
 
