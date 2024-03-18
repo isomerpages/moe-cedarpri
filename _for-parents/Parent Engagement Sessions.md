@@ -8,39 +8,22 @@ variant: markdown
 
 #### **For Year 2024**
 
-**Primary 1**  
-1. [Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/P1_2024_Orientation_Principal_s_Address.pdf)
+**Primary 1 & 2 Engagement**  
 
-2. [Admin Briefing](/files/Parent%20Engagement/P1%20Engagement%202024/2024_P1_Orientation_YH_s_and_PSG_s_Briefing.pdf)
+1. [P1 Orientation - Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/P1_2024_Orientation_Principal_s_Address.pdf)
 
-<!--FY2023 Not to display
-**Primary 1**  
+2. [P1 Orientation - Admin Briefing](/files/Parent%20Engagement/P1%20Engagement%202024/2024_P1_Orientation_YH_s_and_PSG_s_Briefing.pdf)
+3. [March 2024 - Principal's Address](/files/Parent%20Engagement/P1%20Engagement%202024/1__8_Mar_Principal_s_Address.pdf)
+4. [March 2024 - Student Holistic Development](/files/Parent%20Engagement/P1%20Engagement%202024/2__8_Mar_Student_Holistic_Development___Well_Being.pdf)
+5. [March 2024 - Curriculum Briefing 1](/files/Parent%20Engagement/P1%20Engagement%202024/3__8_Mar_P1_P2_Curriculum_Briefing_1.pdf)
+6. [March 2024 - Curriculum Briefing 2](/files/Parent%20Engagement/P1%20Engagement%202024/4__8_Mar_P1_P2_Curriculum_Briefing_2.pdf)
+7. [March 2024 - FAQs](/files/Parent%20Engagement/P1%20Engagement%202024/5__8_Mar_FAQs.pdf)
 
-1.  [Principal's Address](/files/Parent%20Engagement/P1%202023_Orientation_Principal's%20Address.pdf)
-2.  [Admin Briefing](/files/Parent%20Engagement/P1%202023_Orientation_YH's%20Admin%20Briefing-compressed.pdf)
+**P3 & P4 Engagement**
 
-**Primary 2**  
-1. [Principal's Address](/files/Parent%20Engagement/P2%20Engagement%202023/Principal's%20Address.pdf)
-2. [Curriculum Workshops and Updates](/files/Parent%20Engagement/P2%20Engagement%202023/Curriculum%20Workshops%20and%20Updates.pdf)
-3. [YH's & LM's Address_Student Development and Well-Being](/files/Parent%20Engagement/P2%20Engagement%202023/YH's%20&%20LM's%20Address_Student%20Development%20and%20Well-Being.pdf)
-4. [P2 FAQs](/files/Parent%20Engagement/P2%20Engagement%202023/P2%20FAQs.pdf)
 
-**Primary 3**  
-1. [Principal's Address](/files/Parent%20Engagement/P3%20Engagement%202023/Principal's%20Address.pdf)
-2. [Curriculum Updates](/files/Parent%20Engagement/P3%20Engagement%202023/Curriculum%20Updates.pdf)
-3. [Level Manager's Address_Student Holistic Development](/files/Parent%20Engagement/P3%20Engagement%202023/Level%20Manager's%20Address_Student%20Holistic%20Development.pdf)
-4. [P3 & P4 FAQs](/files/Parent%20Engagement/P3%20Engagement%202023/P3%20&%20P4%20FAQs.pdf)
+**P4 Engagement**
 
-**Primary 4**
-1. [Principal's Address](/files/Parent%20Engagement/P3%20Engagement%202023/Principal's%20Address.pdf)
-2. [Curriculum Updates](/files/Parent%20Engagement/P4%20Engagement%202023/Curriculum%20Updates.pdf)
-3. [YH's Address_Student Holistic Development](/files/Parent%20Engagement/P4%20Engagement%202023/YH's%20Address_Student%20Holistic%20Development.pdf)
-4.  [P3 & P4 FAQs](/files/Parent%20Engagement/P4%20Engagement%202023/P3%20&%20P4%20FAQs.pdf)
+**P5 Engagement**
 
-**Primary 5 and 6**
-1. [Principal's Address](/files/Parent%20Engagement/P5%20Engagement%202023/Principal's%20Address.pdf)
-2. [Curriculum Updates and Workshops](/files/Parent%20Engagement/P5%20Engagement%202023/Curriculum%20Updates%20and%20Workshops.pdf)
-3. [AYHs' Address_Student Holistic Development](/files/Parent%20Engagement/P5%20Engagement%202023/AYHs'%20Address_Student%20Holistic%20Development.pdf)
-4.  [P5 P6 FAQs](/files/Parent%20Engagement/P5%20Engagement%202023/P5%20P6%20FAQs.pdf)
-
--->
+**P6 Engagement**
