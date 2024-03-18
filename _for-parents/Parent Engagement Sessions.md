@@ -46,3 +46,7 @@ variant: markdown
 4. [March 2024 - FAQs](/files/Parent%20Engagement/P5%20Engagement%202024/6_8_Mar_P5___P6_FAQs.pdf)
 
 **P6 Engagement**
+1. [March 2024 - Principal's Address](/files/Parent%20Engagement/P6%20Engagement%202024/1_8_Mar_Principal_s_Address.pdf)
+2. [March 2024 - Student Holistic Development](/files/Parent%20Engagement/P6%20Engagement%202024/4_8_Mar_P6_Student_Holistic_Development___Well_Being.pdf)
+3. [March 2024 - P6 Curriculum Briefing](/files/Parent%20Engagement/P6%20Engagement%202024/5_8_Mar_P6_Curriculum_Briefing.pdf)
+4. [March 2024 - FAQs](/files/Parent%20Engagement/P6%20Engagement%202024/6_8_Mar_P5___P6_FAQs.pdf)
