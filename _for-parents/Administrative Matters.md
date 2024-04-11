@@ -59,10 +59,10 @@ variant: tiptap
 <p><strong>Insurance for Students</strong>
 </p>
 <p>a. Group personal accident insurance for students</p>
-<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students" rel="noopener noreferrer nofollow" target="_blank">Group personal accident insurance for students</a>
+<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students" rel="noopener noreferrer nofollow" target="_blank">Group personal accident insurance for students</a> 
 <br>-&nbsp;&nbsp; &nbsp;NTUC Income Insurance Co-operative Limited - Student
 Accident Protection Scheme - Group Personal Accident (GPA) Insurance.&nbsp;
-<a href="/files/NTUC%20FAQs%20for%20Parents_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents</a>
+<a href="/files/General/NTUC FAQs for Parents_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents</a>
 </p>
 <p>b. For Group Travel Insurance Claim Portal for School Trips,&nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p>Hotline: 63321133</p>
