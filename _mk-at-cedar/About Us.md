@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>About Us</strong></h1>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
-<p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
+<p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
 on:</p>
 <ul data-tight="true" class="tight">
 <li>
