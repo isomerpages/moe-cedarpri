@@ -18,10 +18,6 @@ and gardening).</p>
 <p>You can also refer to the following document.</p>
 <p><a href="/files/KCCedar/KCCD%20Important%20Notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Important Notes for Kindergarten Care</a>
 </p>
-<p>You can also find out more information about our KCare Open House 2024
-from the following document.</p>
-<p><a href="/files/KCCedar/KCCD___Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on KCare Open House 2024</a>
-</p>
 <p>Please indicate your preference for KCare when registering your child
 for MK.</p>
 <p><strong>KCare@Cedar Virtual Tour</strong>
