@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: School Related Services
 ---
-<h2><strong>Vacancy for Chinese Noodles Stall in Cedar Primary School</strong></h2>
+<h2>School Canteen Services</h2>
+<h3><strong>Vacancy for Chinese Noodles Stall in Cedar Primary School</strong></h3>
 <p>Cedar Primary School has a vacancy for Chinese Noodles Stall selling fish
 ball noodles, wanton noodles, stir-fried noodles, laksa etc..</p>
 <p>The School is located at 15 Cedar Avenue Singapore 349700.&nbsp; (Near
