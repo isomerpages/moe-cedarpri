@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Related Services
 ---
-<p><strong>Vacancy for Chinese Noodles Stall in Cedar Primary School</strong>
-</p>
+<h2><strong>Vacancy for Chinese Noodles Stall in Cedar Primary School</strong></h2>
 <p>Cedar Primary School has a vacancy for Chinese Noodles Stall selling fish
 ball noodles, wanton noodles, stir-fried noodles, laksa etc..</p>
 <p>The School is located at 15 Cedar Avenue Singapore 349700.&nbsp; (Near
@@ -19,7 +18,7 @@ Permanent Resident aged 21 years and above.</p>
 Certificate.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be able to provide food according
 to the Healthy Meals in School Programme Guidelines given in this link:&nbsp;
-<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a><a rel="noopener noreferrer nofollow" target="_blank">hpb.gov.sg</a>
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a><a rel="noopener noreferrer nofollow" target="_blank">hpb.gov.sg</a> 
 <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant must be able
