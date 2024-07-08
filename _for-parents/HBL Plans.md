@@ -2,8 +2,19 @@
 title: HBL Plans
 permalink: /for-parents/hbl-plans/
 description: ""
+variant: markdown
 ---
 # **HBL Plans**
+
+**HBL Plans for 9 Jul 2024**
+| Lower Primary | Middle Primary | Upper Primary |
+| -------- | -------- | -------- |
+[Primary 1](/files/HBL%20Plans/16%2018%20Oct%202023/p1_cps__hbl%20plan_16-18%20oct.pdf)| [Primary 3](/files/HBL%20Plans/16%2018%20Oct%202023/p3_cps__hbl%20plan_16-18%20oct.pdf)|[Primary 5 Standard](/files/HBL%20Plans/16%2018%20Oct%202023/p5%20standard_cps__hbl%20plan_16-18%20oct.pdf)|
+| [Primary 2](/files/HBL%20Plans/16%2018%20Oct%202023/p2_cps__hbl%20plan_16-18%20oct.pdf)|[Primary 4](/files/HBL%20Plans/16%2018%20Oct%202023/p4_cps__hbl%20plan_16-18%20oct.pdf)| [Primary 5 Foundation](/files/HBL%20Plans/16%2018%20Oct%202023/p5%20foundation_cps__hbl%20plan_16-18%20oct.pdf)|
+
+
+
+
 
 **HBL Plans for 16 - 18 October 2023**
 
