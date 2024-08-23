@@ -21,7 +21,11 @@ variant: tiptap
 </li>
 </ul>
 <h3>Allied Educators</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +78,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Executive Administrative Staff</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -103,6 +111,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tng Ah Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -191,7 +207,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Support Staff</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
