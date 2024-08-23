@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 # **Character and Citizenship Education**
 
@@ -32,14 +33,14 @@ Skills, knowledge and dispositions that enable students to
 *   Make responsible decisions
 
 ![](/images/CCE2.png)
-Diagram:  MOE 21st Century Competencies
+Diagram:&nbsp; MOE 21st&nbsp;Century Competencies
 
 
 **Social Emotional Learning**
 
 In Cedar Primary School, we look into taking care of the holistic development of our students. Social and Emotional Learning (SEL) is one of the key strategies for holistic development as we seek to build competencies in our students to develop them into well-rounded individuals.
 
-This is carried out through specific curriculum for SEL: Form Teacher Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education & Career Guidance, and Cyber Wellness.
+This is carried out through specific curriculum for SEL: Form Teacher Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education &amp; Career Guidance, and Cyber Wellness.
 
 
 **a)** **Form Teacher Guidance Period (FTGP)**
@@ -50,15 +51,15 @@ The FTGP concept is illustrated as below:
 
 ![](/images/CCE3.png)
 
-**b) Education & Career Guidance**
+**b) Education &amp; Career Guidance**
 
-Education & Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations 
+Education &amp; Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations 
 
 Click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) for link to MOE’s ECG page.
 
-**c)  Cyber Wellness**  
+**c) &nbsp;Cyber Wellness**  
 
-Click [here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict) for link to ICT department’s page on Cyber Wellness.
+Click&nbsp;[here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict)&nbsp;for link to ICT department’s page on Cyber Wellness.
 
 
 #### II. CITIZENSHIP EDUCATION
@@ -74,21 +75,21 @@ With the NE Review 2017, National Education in Singapore is now anchored on the 
 * A Sense of Hope
 * The Will to Act
 
-Click [here](https://www.moe.gov.sg/docs/default-source/document/education/programmes/national-education/ne-review-2016-2017-booklet.pdf) for more information. - link not found
+
 
 
 **a) NE Core Events**
 
 The following are the outcomes of the NE core events:
 
-**Total Defence Day** 
+**Total Defence Day**&nbsp;
 
-Students know the aspects of Total Defence and how they can play a part in each aspect. Even at their age, their participation in Total Defence is important and everyone can (and should) play a part in defending the country.
+Students know the aspects of Total Defence and how they can play a part in each aspect. Even at their age, their participation&nbsp;in Total Defence is important and everyone can (and should) play a part in defending the country.
 
 
 **International Friendship Day**
 
-Students learn about and appreciate other cultures in cosmopolitan Singapore.  We nurture in our students the spirit of  friendship and collaboration among different peoples. Students are also guided on keeping an open mindset, and expressing an appreciation of the contributions of foreigners working and studying in Singapore. 
+Students learn about and appreciate other cultures in cosmopolitan Singapore.&nbsp; We nurture in our students the spirit of&nbsp;&nbsp;friendship and collaboration among different peoples. Students are also guided on keeping an open mindset, and expressing an&nbsp;appreciation of the contributions of foreigners working and studying in Singapore.&nbsp;
 
 **Racial Harmony Day**
 
@@ -103,9 +104,9 @@ Students build a greater sense of historical importance. National Day marks our 
 
 Service to the school, community and nation, leadership roles and responsibilities, CCAs and group work are important platforms that we provide for our students so that they can live out the school values in the process of serving others and working with one another.
 
-**c) Learning Journeys** 
+**c) Learning Journeys**&nbsp;
 
-As part of the Social Studies curriculum, teachers and students go on field-based learning journeys to extend and enrich their learning. 
+As part of the Social Studies curriculum, teachers and students go on field-based learning journeys to extend and enrich their learning.&nbsp;
 
 Field-based learning allows the students to contextualise their learning experience in an authentic real- world setting, thus enabling the relational learning of concepts and content. Students would also be able to conduct hands-on exploration in a focused area of study, thus being engaged in multi-sensory modes.
 
