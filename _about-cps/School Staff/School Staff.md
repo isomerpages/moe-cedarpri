@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tng Ah Guan</p>
+<p>Mr James Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr James Yeo</p>
+<p>Mr Tng Ah Guan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -130,14 +130,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Keetha d/o Suppiah Mrs S Keetha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -154,6 +146,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Keetha d/o Suppiah Mrs S Keetha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Lai Khee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
