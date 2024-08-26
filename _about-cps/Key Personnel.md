@@ -432,10 +432,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tng Ah Guan</p>
+<p>Mr James Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tng_ah_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:yeo_hock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -444,10 +444,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Yeo</p>
+<p>Mr Tng Ah Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_hock_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:tng_ah_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
