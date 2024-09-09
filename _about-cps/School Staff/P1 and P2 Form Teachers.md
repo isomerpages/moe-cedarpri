@@ -51,18 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1-Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lakshmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:venkatachalam_lakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P1-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,6 +154,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nahidah_begum_anayatullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lakshmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:venkatachalam_lakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
