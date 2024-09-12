@@ -26,24 +26,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P1_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P3_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P5_Standard_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 5 Standard</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P2_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P4_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/13 Sep 2024/P5_Foundation_CPS__HBL_Plan_13_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation</a>
+</p>
 </td>
 </tr>
 </tbody>
