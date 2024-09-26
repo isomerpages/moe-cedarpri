@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>HBL Plans</strong></h1>
 <p></p>
-<h4><strong>HBL Plans for 25 Sep 2024</strong></h4>
+<h4><strong>HBL Plans for 26 - 30 Sep 2024</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,19 +23,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HBL Plans/25 29 Sep/P3_CPS__HBL_Plan_26_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P3_CPS__HBL_Plan_26_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 5 Standard</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P4_CPS__HBL_Plan_27_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 5 Foundation</p>
 </td>
 </tr>
 </tbody>
