@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HBL Plans/25 29 Sep/P3_CPS__HBL_Plan_26_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P3_CPS__HBL_Plan_26_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HBL Plans/25 29 Sep/P4_CPS__HBL_Plan_27_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P4_CPS__HBL_Plan_27_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
