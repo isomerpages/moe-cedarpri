@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 Standard</p>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P5_Standard_CPS__HBL_Plan_30_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 5 Standard</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 Foundation</p>
+<p><a href="/files/HBL Plans/26 to 30 Sep 2024/P5_Foundation_CPS__HBL_Plan_30_Sep.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation</a>
+</p>
 </td>
 </tr>
 </tbody>
