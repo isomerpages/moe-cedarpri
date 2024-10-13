@@ -5,7 +5,49 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>HBL Plans</strong></h1>
+<h4><strong>HBL Plans for 14 - 16 Oct 2024</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Lower Primary</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Middle Primary</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Upper Primary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>HBL Plans for 26 - 30 Sep 2024</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
