@@ -3,8 +3,8 @@ title: School Bus Ferry Service
 permalink: /for-parents/school-related-services/school-bus-ferry-service/
 description: ""
 third_nav_title: School Related Services
+variant: markdown
 ---
 # **School Bus Ferry Service**
 
-![School Bus Operators and Bus fares](/images/busoperator.jpg)
-![School Bus Fares](/images/busfares.jpg)
+![2025 School Bus Operator Services and Bus Fares](/images/2025_BusOperator_School_Bus_Fares.png)
