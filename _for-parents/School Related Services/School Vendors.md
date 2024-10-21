@@ -2,6 +2,7 @@
 title: School Vendors
 permalink: /for-parents/school-vendors/
 description: ""
+third_nav_title: School Related Services
 ---
 # **School Vendors**
 
