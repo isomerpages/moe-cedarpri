@@ -73,6 +73,8 @@ self-esteem and interact positively with others.</p>
 </p>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
+<p></p>
+<p></p>
 <p><strong>Information on Registration</strong>
 </p>
 <p>Please note that the Registration Exercise is fully online. Do click
