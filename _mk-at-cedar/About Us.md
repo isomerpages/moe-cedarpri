@@ -63,6 +63,10 @@ self-esteem and interact positively with others.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6axfBJjsu3Y?si=BWnHBJgnkC6g97U-"></iframe>
 </div>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1zII_MipYftmc0KSaS1XMa8nrjkn-cdl-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1zII_MipYftmc0KSaS1XMa8nrjkn-cdl-/view?usp=sharing</a>
+</p>
+<p></p>
 <p><strong>More Information</strong>
 </p>
 <p><a href="/files/MKCedar/2025__MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">More Information about MK@Cedar</a>
