@@ -61,9 +61,6 @@ self-esteem and interact positively with others.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK(1).jpg">
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6axfBJjsu3Y?si=BWnHBJgnkC6g97U-"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
