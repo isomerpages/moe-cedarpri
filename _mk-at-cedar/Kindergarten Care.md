@@ -16,7 +16,7 @@ and gardening).</p>
 <p>For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
 </p>
 <p>You can also refer to the following document.</p>
-<p><a href="/files/KCCedar/KCCD%20Important%20Notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Important Notes for Kindergarten Care</a>
+<p><a href="/files/KCCedar/2025__KCare_Cedar_Important_Information.pdf" rel="noopener nofollow" target="_blank">Important Notes for Kindergarten Care</a>
 </p>
 <p>Please indicate your preference for KCare when registering your child
 for MK.</p>
