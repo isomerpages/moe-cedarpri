@@ -60,11 +60,14 @@ self-esteem and interact positively with others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK(1).jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6axfBJjsu3Y?si=BWnHBJgnkC6g97U-"></iframe>
 </div>
-<p>&lt;! -- Here for MK video --&gt;</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
+</div>
 <p><strong>More Information</strong>
 </p>
 <p><a href="/files/MKCedar/2025__MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">More Information about MK@Cedar</a>
@@ -72,12 +75,15 @@ self-esteem and interact positively with others.</p>
 <p><a href="/files/MKCedar/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 Family Handbook</a>
 </p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=HDZ3kolvKTSZOVtW"></iframe>
+</div>
+<p></p>
 <p><strong>For more information, visit the web links below:</strong>
 </p>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
 <p></p>
-<p>&lt;!-- Here for Parent Testimonial video --&gt;</p>
 <p></p>
 <p><strong>Information on Registration</strong>
 </p>
