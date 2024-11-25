@@ -18,12 +18,4 @@ sections:
         - title: Information For Parents Engagement 2024
           description: Info and FAQs here
           url: /for-parents/parent-engagement-sessions/
-  - infopic:
-      title: Open House 2024 @ MK Cedar
-      description: Please click the link below to find more about Open House 2024 for
-        MK Cedar
-      button: Click here
-      url: /mk-at-cedar/about-us/
-      image: /images/5fd498764_432.jpg
-      alt: Image alt text
 ---

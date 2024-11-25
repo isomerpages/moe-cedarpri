@@ -1,10 +1,10 @@
 ---
 title: MK Staff
-permalink: /about-cps/mk-staff/
+permalink: /mk-staff/
 description: ""
 variant: tiptap
 ---
-<h1><strong>MK Staff</strong></h1>
+<h2>MK Staff</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
