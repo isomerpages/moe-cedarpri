@@ -2,8 +2,8 @@ collections:
   mk-at-cedar:
     output: true
     order:
-      - MK Staff.md
       - Overview of MOE Kindergarten.md
       - About Us.md
+      - MK Staff.md
       - MK @ Cedar Virtual Tour.md
       - Kindergarten Care.md
