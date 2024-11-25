@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MK Staff.md
-      - Example Title.md
       - Overview of MOE Kindergarten.md
       - About Us.md
       - MK @ Cedar Virtual Tour.md
