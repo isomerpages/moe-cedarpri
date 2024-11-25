@@ -16,4 +16,7 @@ via SMS.</p>
 <p>To register your interest for school bus service for 2025, please scan
 the QR code below and register by <u>30 November 2024</u>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 School Bus Services" src="/images/School_Bus_Services___QR_Code.jpg">
+</div>
 <p></p>
