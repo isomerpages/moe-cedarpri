@@ -2,8 +2,8 @@
 title: Staff
 permalink: /accomplishments/staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Staff**
-### 
-### Updating is in progress...
+<h1><strong>Staff</strong></h1>
+<h3>Updating is in progress...</h3>
+<p></p>
