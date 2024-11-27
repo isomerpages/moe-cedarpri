@@ -15,7 +15,7 @@ sections:
         - title: Virtual Tour @ Cedar Primary
           description: Find out more here!
           url: /for-parents/virtual-tour-at-cedar-primary
-        - title: Information For Parents Engagement 2024
+        - title: Information For Parents Engagement
           description: Info and FAQs here
           url: /for-parents/parent-engagement-sessions/
 ---
