@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Student Learning Space</strong></h1>
 <p></p>
-<h4>Please refer to below resources for support :</h4>
+<h4>Please refer to below resources :</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Website and Login to <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
@@ -19,16 +19,17 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p>Contact us through <a href="https://go.gov.sg/cedarpri-slshelp" rel="noopener noreferrer nofollow" target="_blank">School-based SLS Form</a> (Recommended)</p>
+<p>Contact us through <a href="https://go.gov.sg/cedarpri-slshelp" rel="noopener noreferrer nofollow" target="_blank">School-based SLS Form</a> (Recommended)
+for password reset.</p>
 <p></p>
 </li>
 <li>
 <p>Phone call to office at 62885633, Monday to Friday from 8am to 4pm (excl
-PH)</p>
+PH) for support matters</p>
 <p></p>
 </li>
 <li>
-<p>SLS Official Helpdesk Support Operating Hours : Monday ― Friday:
+<p>Contact SLS Official Helpdesk Support Operating Hours : Monday ― Friday:
 <br>4:00 pm ― 9:00 pm (School Days)
 <br>9:00 am ― 9:00 pm (School Holidays)
 <br>Saturdays:
