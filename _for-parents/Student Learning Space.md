@@ -14,7 +14,7 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p>Self-help Guide to <a href="/files/Technical%20Matters/How%20to%20reset%20SLS%20password.pdf" rel="noopener noreferrer nofollow" target="_blank">Forgotten username and/or Password</a>
+<p>Self-help Guide for <a href="/files/Technical%20Matters/How%20to%20reset%20SLS%20password.pdf" rel="noopener noreferrer nofollow" target="_blank">Forgotten username and/or Password</a>
 </p>
 <p></p>
 </li>
