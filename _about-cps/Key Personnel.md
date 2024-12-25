@@ -187,6 +187,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (MiddlePrimary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noor Kamariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_kamariah_mohamed_raml@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,18 +206,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:faridah_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (Primary 6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Noor Kamariah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noor_kamariah_mohamed_raml@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -292,6 +292,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Master Teacher (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryati Bte Surana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Haryati_SURANA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,18 +316,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Chun Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,18 +323,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maimon_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Anita June Purasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anita_june_purasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
