@@ -56,7 +56,8 @@ variant: tiptap
 <p>Mr Yeo Jun Cong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Yeo_JUN_CONG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
