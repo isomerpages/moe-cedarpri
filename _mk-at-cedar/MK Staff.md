@@ -77,7 +77,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hu Lao Shi</p>
+<p>Ms Komaljit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English MK Educator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
@@ -85,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lin Lao Shi</p>
+<p>Ms Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
@@ -93,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Lao Shi</p>
+<p>Ms Wang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
@@ -101,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Lao Shi</p>
+<p>Ms Xu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
@@ -109,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zhang Lao Shi</p>
+<p>Ms Zhang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
