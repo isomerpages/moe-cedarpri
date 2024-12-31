@@ -389,7 +389,8 @@ variant: tiptap
 <p>Mdm Muzaiyanah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:MUZAIYANAH_MOHAMED_ALI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 </tbody>
