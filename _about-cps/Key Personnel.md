@@ -151,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PAM</p>
+<p>HOD PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeo Dai Yun</p>
@@ -187,6 +187,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (Middle Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noor Kamariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_kamariah_mohamed_raml@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,18 +206,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:faridah_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (Primary 6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Noor Kamariah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noor_kamariah_mohamed_raml@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH PE/CCA</p>
+<p>LH CCA &amp; Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ilyas Hakim</p>
@@ -292,25 +292,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Tamil Language)</p>
+<p>Master Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Narayanan Thanaletchmi</p>
+<p>Mdm Haryati Bte Surana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:narayanan_thanaletchimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Chun Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chun_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:Haryati_SURANA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -323,18 +311,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maimon_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Anita June Purasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anita_june_purasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -404,18 +380,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jen_amy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lau Ah Thee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_ah_thee@moe..sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
