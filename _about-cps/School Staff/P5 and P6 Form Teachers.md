@@ -129,7 +129,8 @@ variant: tiptap
 <p>Mdm Chua Chuu Luan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:CHUA_CHUU_LUAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +165,8 @@ variant: tiptap
 <p>Ms Elyssa Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ELYSSA_LEE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
