@@ -81,7 +81,8 @@ variant: tiptap
 <p>Mrs Rachel Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rachel_leng_yhih_huua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,8 +150,7 @@ variant: tiptap
 <p>P3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maimon</p>
-<p>Abdul Samad</p>
+<p>Mdm Maimon Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maimon_abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -246,7 +246,8 @@ variant: tiptap
 <p>Mdm Heng Hwee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:heng_hwee_koon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
