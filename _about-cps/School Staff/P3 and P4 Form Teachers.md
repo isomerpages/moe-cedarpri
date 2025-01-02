@@ -81,7 +81,8 @@ variant: tiptap
 <p>Mrs Rachel Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rachel_leng_yhih_huua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
