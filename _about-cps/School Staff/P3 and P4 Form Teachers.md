@@ -245,7 +245,8 @@ variant: tiptap
 <p>Mdm Heng Hwee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:heng_hwee_koon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
