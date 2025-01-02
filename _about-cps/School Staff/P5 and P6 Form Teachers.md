@@ -45,7 +45,7 @@ variant: tiptap
 <p>Ms Tan Shimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_shimin@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
+<p><a href="mailto:tan_shimin@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>Mr Leon Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ho_yoong_kian@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
+<p><a href="mailto:ho_yoong_kian@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
