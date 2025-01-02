@@ -189,7 +189,8 @@ variant: tiptap
 <p>Ms Tan Poh Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_poh_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
