@@ -165,7 +165,7 @@ variant: tiptap
 <p>Ms Elyssa Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ELYSSA_LEE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:Elyssa_Lee_Yi_Shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
