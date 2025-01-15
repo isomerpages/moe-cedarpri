@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>Principal's Message</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Chua_2025_Border.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mr__Chua_2025_Border.jpg">
 </div>
 <p><strong>Principal’s Message 2025</strong>
 </p>
