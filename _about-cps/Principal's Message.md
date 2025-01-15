@@ -5,11 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Principal's Message</strong></h1>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr__Chua_2025_Border.jpg">
+<img style="width:40%" height="auto" width="100%" src="/images/Mr%20Chua%20Choon%20Hock%20(Chris).jpg">
 </div>
 <p><strong>Principal’s Message 2025</strong>
 </p>
