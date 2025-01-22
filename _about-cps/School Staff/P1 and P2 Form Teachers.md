@@ -363,7 +363,7 @@ variant: tiptap
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thanaletchmi</p>
+<p>Mdm Narayanan Thanaletchimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:narayanan_thanaletchimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
