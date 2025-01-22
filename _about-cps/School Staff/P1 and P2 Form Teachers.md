@@ -351,7 +351,7 @@ variant: tiptap
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nahidah</p>
+<p>Mdm Nahidah Begum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nahidah_begum_anayatullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
