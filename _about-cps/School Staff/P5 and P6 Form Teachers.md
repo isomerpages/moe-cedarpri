@@ -255,7 +255,7 @@ variant: tiptap
 <p>P6-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Inderjit</p>
+<p>Mr Inderjit Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:inderjit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
