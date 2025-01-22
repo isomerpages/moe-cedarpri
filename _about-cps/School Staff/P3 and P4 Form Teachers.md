@@ -267,7 +267,7 @@ variant: tiptap
 <p>P4-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rizal</p>
+<p>Mr Mohamed Rizal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_rizal_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
