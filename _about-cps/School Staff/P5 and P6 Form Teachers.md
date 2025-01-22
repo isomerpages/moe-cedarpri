@@ -102,7 +102,7 @@ variant: tiptap
 <p>P5-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhasimah</p>
+<p>Mdm Norhasimah Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhasimah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
