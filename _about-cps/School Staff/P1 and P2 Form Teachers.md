@@ -150,7 +150,7 @@ variant: tiptap
 <p>P1-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mahadi</p>
+<p>Mr Mahadi Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahadi_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>P1-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurjannah</p>
+<p>Ms Nurjannah Ayub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurjannah_ayub@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -351,7 +351,7 @@ variant: tiptap
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nahidah</p>
+<p>Mdm Nahidah Begum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nahidah_begum_anayatullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -363,7 +363,7 @@ variant: tiptap
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thanaletchmi</p>
+<p>Mdm Narayanan Thanaletchimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:narayanan_thanaletchimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -387,7 +387,7 @@ variant: tiptap
 <p>P2-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Muzaiyanah</p>
+<p>Ms Muzaiyanah Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:MUZAIYANAH_MOHAMED_ALI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>

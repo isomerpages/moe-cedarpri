@@ -30,7 +30,7 @@ variant: tiptap
 <p>P3-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Retnam</p>
+<p>Mrs Anusuya Retnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramasamy_anusuya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>P4-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Firdaus</p>
+<p>Mr Muhammad Firdaus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_firdaus_nasirjaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -267,7 +267,7 @@ variant: tiptap
 <p>P4-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rizal</p>
+<p>Mr Mohamed Rizal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_rizal_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>

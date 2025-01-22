@@ -30,7 +30,7 @@ variant: tiptap
 <p>P5-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanitha</p>
+<p>Ms Vanitha Gunasekaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vanitha_gunasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -102,7 +102,7 @@ variant: tiptap
 <p>P5-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhasimah</p>
+<p>Mdm Norhasimah Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhasimah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>P6-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Inderjit</p>
+<p>Mr Inderjit Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:inderjit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -303,7 +303,7 @@ variant: tiptap
 <p>P6-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Durai</p>
+<p>Mrs Sivarathinam Durai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sivarathinam_chinnavan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -315,7 +315,7 @@ variant: tiptap
 <p>P6-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norlinda</p>
+<p>Mdm Norlinda Mohamed Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norlinda_mohamed_yatim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
