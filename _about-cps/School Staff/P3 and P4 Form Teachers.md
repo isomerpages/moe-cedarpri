@@ -219,7 +219,7 @@ variant: tiptap
 <p>P4-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Firdaus</p>
+<p>Mr Muhammad Firdaus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_firdaus_nasirjaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
