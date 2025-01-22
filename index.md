@@ -18,4 +18,7 @@ sections:
         - title: Information For Parents Engagement
           description: Info and FAQs here
           url: /for-parents/parent-engagement-sessions/
+        - title: MK@Cedar Open House
+          description: Find out more here!
+          url: https://www.cedarpri.moe.edu.sg/mk-at-cedar/about-us/
 ---
