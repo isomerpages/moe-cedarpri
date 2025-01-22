@@ -315,7 +315,7 @@ variant: tiptap
 <p>P6-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norlinda</p>
+<p>Mdm Norlinda Mohamed Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norlinda_mohamed_yatim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
