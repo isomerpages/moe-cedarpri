@@ -30,7 +30,7 @@ variant: tiptap
 <p>P5-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanitha</p>
+<p>Ms Vanitha Gunasekaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vanitha_gunasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
