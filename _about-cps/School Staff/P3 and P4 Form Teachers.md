@@ -30,7 +30,7 @@ variant: tiptap
 <p>P3-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Retnam</p>
+<p>Mrs Anusuya Retnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramasamy_anusuya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
