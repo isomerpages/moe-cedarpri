@@ -303,7 +303,7 @@ variant: tiptap
 <p>P6-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Durai</p>
+<p>Mrs Sivarathinam Durai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sivarathinam_chinnavan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
