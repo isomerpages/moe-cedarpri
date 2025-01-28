@@ -84,13 +84,12 @@ and responsible decisions on sexuality matters.</p>
 </p>
 <h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_P5.jpg">
 </div>
 <h4>Primary 6</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_P6.jpg">
 </div>
-<p></p>
 <h3>Information for Parents</h3>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
 children out of Sexuality Education lessons, and/or supplementary Sexuality
