@@ -150,7 +150,7 @@ variant: tiptap
 <p>P1-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mahadi Ramli</p>
+<p>Mr Mahadi Ramli (Mr Adi)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mahadi_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
@@ -186,7 +186,7 @@ variant: tiptap
 <p>P1-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Poh Yee</p>
+<p>Mdm Tan Poh Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_poh_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
