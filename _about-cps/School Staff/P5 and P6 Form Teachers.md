@@ -78,7 +78,7 @@ variant: tiptap
 <p>P5-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazira</p>
+<p>Mdm Nazira Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazira_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
