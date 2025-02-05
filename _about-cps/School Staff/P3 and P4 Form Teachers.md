@@ -228,6 +228,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P4-Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tarshini Krishna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tarshini_krishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
