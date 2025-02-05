@@ -207,7 +207,7 @@ variant: tiptap
 <p>P4-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Jia Wen</p>
+<p>Mrs Wan Jia Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
