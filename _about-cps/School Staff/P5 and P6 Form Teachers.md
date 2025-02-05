@@ -126,7 +126,7 @@ variant: tiptap
 <p>P5-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Chuu Luan</p>
+<p>Mrs Rose Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:CHUA_CHUU_LUAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
