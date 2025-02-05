@@ -102,7 +102,7 @@ variant: tiptap
 <p>P3-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jaleel</p>
+<p>Mr Jaleel Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jaleel_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
