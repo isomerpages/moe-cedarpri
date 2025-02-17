@@ -27,5 +27,21 @@ leaving everyone with fond memories of the celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
 </div>
+<p><strong>February</strong>
+</p>
+<p>Total Defence Day was commemorated with a meaningful series of activities
+that deepened students' understanding of the six pillars of Total Defence.
+Throughout the week, daily sharings highlighted the importance of resilience
+and unity, beginning with a thought-provoking skit during assembly. To
+provide a hands-on experience, students participated in a water disruption
+and rationing exercise, fostering awareness of resource conservation.</p>
+<p>Adding to the enriching programme, two local writers, Ms Emily Lim and
+Ms Tan Ter Cheah, shared their inspiring life stories, encouraging students
+to embrace courage and determination. Team-building games during recesses
+brought students together in the spirit of camaraderie, while a special
+sharing session at the school library on the bravery of Lieutenant Adnan
+offered a powerful lesson in sacrifice and patriotism. The commemoration
+left students with a deeper appreciation of Singapore’s collective strength
+and the role each of them plays in defending our nation.</p>
 <p></p>
 <p></p>
