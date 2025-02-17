@@ -16,16 +16,16 @@ with a spectacular dragon dance, performed by selected Primary 6 students,
 leaving everyone with fond memories of the celebration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_1.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
 </div>
 <p><strong>February</strong>
 </p>
