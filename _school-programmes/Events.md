@@ -6,9 +6,17 @@ description: ""
 ---
 <p><strong>January</strong>
 </p>
-<p>Cedar Primary celebrated Chinese New Year with a concert for all students
-that showcased diversity and unity within the school. Students were treated
-to an engaging performance which featured an Indian Classical Dance performance
-by Prakash Aksha, a performance by the International Dance CCA and even
-a musical number by the school leaders! The concert ended on a festive
-note with a dragon dance performance</p>
+<p>Cedar Primary joyfully celebrated Chinese New Year with a vibrant concert
+that highlighted the school’s rich diversity and strong sense of unity.
+Students enjoyed an engaging lineup of performances, including a captivating
+Indian Classical Dance by Prakash Aksha of Primary 6 Resilience, a dynamic
+showcase by the International Dance CCA, and a delightful musical number
+presented by the school leaders. The festivities concluded on an exhilarating
+note with a spectacular dragon dance, performed by selected Primary 6 students,
+leaving everyone with fond memories of the celebration.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
