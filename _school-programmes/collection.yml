@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Events.md
       - ALP.md
       - LLP.md
       - Co Curricular Activities (CCA)/.keep
