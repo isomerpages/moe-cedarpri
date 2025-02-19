@@ -2,7 +2,6 @@ collections:
   school-programmes:
     output: true
     order:
-      - Term 1.md
       - Events.md
       - ALP.md
       - LLP.md
