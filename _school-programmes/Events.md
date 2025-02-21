@@ -37,7 +37,7 @@ provide a hands-on experience, students participated in a water disruption
 and rationing exercise, fostering awareness of resource conservation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TDD_5.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_5.jpg">
 </div>
 <p>Adding to the enriching programme, two local writers, Ms Emily Lim and
 Ms Tan Ter Cheah, shared their inspiring life stories, encouraging students
@@ -49,15 +49,15 @@ left students with a deeper appreciation of Singapore’s collective strength
 and the role each of them plays in defending our nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/TDD_4.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/TDD_3.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TDD_2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/TDD_2.jpg">
 </div>
 <p></p>
 <p></p>
