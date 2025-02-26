@@ -60,6 +60,51 @@ your own food and gain a greater understanding of food self-sufficiency.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_1.png">
+</div>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Biodiversity Week for Schools</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To commemorate the annual International Day for Biological Diversity,
+Biodiversity Week for Schools will feature activities that celebrate Singapore’s
+natural heritage and engage the students in learning about our native flora
+and fauna.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Terrarium Building</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Students will take this opportunity to observe that the terrarium ecosystem
+is similar to the earth’s water cycle.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Eco-Trail</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>At the school garden, our students get to see the content in their science
+textbooks come to life when get to observe the flora and fauna in the garden&nbsp;and
+solve question about them during the school-based Science learning trails.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
