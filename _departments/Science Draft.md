@@ -110,4 +110,32 @@ solve question about them during the school-based Science learning trails.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_2.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>E2K (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>The E2K Science Programme offers opportunities for selected high progress
+students to engage in scientific investigations to discover and deepen
+their understanding of advanced science concepts through an inquiry approach.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
