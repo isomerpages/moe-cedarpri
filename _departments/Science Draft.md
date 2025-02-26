@@ -9,4 +9,5 @@ description: ""
 </p>
 <p><strong><em>Mission: Student as Inquirer. Teacher as the Leader of Inquiry.</em></strong>
 </p>
-<p></p>
+<p>The Science department aims to provide every Cedarian with a Science education
+that prepares them to be creative thinkers in a connected community.</p>
