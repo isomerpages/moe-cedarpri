@@ -107,4 +107,7 @@ solve question about them during the school-based Science learning trails.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_2.png">
+</div>
 <p></p>
