@@ -54,7 +54,7 @@ learn values such as resilience, care and responsibility.&nbsp;</p>
 <td rowspan="1" colspan="2">
 <p>In addition to growing their own mushrooms and learning more about mushroom
 (fungi), the students will learn and understand the importance of growing
-your own food and gain a greater understanding of food self-sufficiency.</p>
+their own food and gain a greater understanding of food self-sufficiency.</p>
 </td>
 </tr>
 </tbody>
