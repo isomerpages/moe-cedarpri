@@ -131,8 +131,35 @@ their understanding of advanced science concepts through an inquiry approach.</p
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_3.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science Toy Project</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>The Science Toy Project seeks to foster inventiveness through Science,
+allowing students to go beyond just knowing scientific facts and concepts
+from textbooks to applying them creatively. Knowledge application will
+then positively reinforce and deepen students’ conceptual understanding
+in Science.&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_4.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
