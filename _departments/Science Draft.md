@@ -60,6 +60,7 @@ their own food and gain a greater understanding of food self-sufficiency.</p>
 </tbody>
 </table>
 <p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_1.png">
 </div>
