@@ -60,7 +60,6 @@ their own food and gain a greater understanding of food self-sufficiency.</p>
 </tbody>
 </table>
 <p></p>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_1.png">
 </div>
@@ -120,10 +119,12 @@ solve question about them during the school-based Science learning trails.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>E2K (Science)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
 <p>The E2K Science Programme offers opportunities for selected high progress
 students to engage in scientific investigations to discover and deepen
 their understanding of advanced science concepts through an inquiry approach.</p>
@@ -144,10 +145,12 @@ their understanding of advanced science concepts through an inquiry approach.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Science Toy Project</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
 <p>The Science Toy Project seeks to foster inventiveness through Science,
 allowing students to go beyond just knowing scientific facts and concepts
 from textbooks to applying them creatively. Knowledge application will
