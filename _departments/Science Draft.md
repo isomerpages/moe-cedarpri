@@ -21,7 +21,7 @@ our students are able relate the role of Science in their daily life, society
 and environment.
 <br>The teachers also plan Science programmes and work with key partners to
 nurture the joy of learning and to promote lifelong learning.
-<br>Below are the programmes that the students will experience in Cedar Primary
+<br>Here are the programmes that the students will experience in Cedar Primary
 School:</p>
 <table style="minWidth: 75px">
 <colgroup>
