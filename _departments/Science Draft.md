@@ -160,7 +160,12 @@ in Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_4.png">
 </div>
-<p></p>
+<p><strong>Useful Links:</strong>
+<br>1)&nbsp;&nbsp; <a href="http://www.howstuffworks.com" rel="noopener nofollow" target="_blank">How Stuff Works</a>
+<br>2)&nbsp;&nbsp; <a href="http://video.nationalgeographic.com/video/kids/" rel="noopener nofollow" target="_blank">National Geographic kids</a>
+<br>3)&nbsp;&nbsp; <a href="" rel="noopener nofollow" target="_blank">National Geographic channel</a>
+<br>4)&nbsp;&nbsp; <a href="http://kids.discovery.com/tell-me" rel="noopener nofollow" target="_blank">Discovery channel kids</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
