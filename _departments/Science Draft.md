@@ -70,10 +70,10 @@ in Science.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_4.png">
 </div>
 <p><strong>Learning Journeys</strong>
-<br>As an extension to classroom experiences, students also attend lessons
-that are offered by the Singapore Science Centre. They also get a chance
-to explore nature reserve so as to provide real-world learning in a real
-world context.</p>
+<br>As an extension to classroom experiences, students attend lessons that
+are offered by the Singapore Science Centre. They also get a chance to
+explore nature reserve so as to provide real-world learning in a real world
+context.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_5.png">
 </div>
