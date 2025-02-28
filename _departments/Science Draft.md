@@ -54,60 +54,31 @@ solve question about them during the school-based Science learning trails.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_2.png">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <p><strong>E2K (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-<p>The E2K Science Programme offers opportunities for selected high progress
+<br>The E2K Science Programme offers opportunities for selected high progress
 students to engage in scientific investigations to discover and deepen
 their understanding of advanced science concepts through an inquiry approach.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_3.png">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Science Toy Project</strong>
 </p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
 <p>The Science Toy Project seeks to foster inventiveness through Science,
 allowing students to go beyond just knowing scientific facts and concepts
 from textbooks to applying them creatively. Knowledge application will
 then positively reinforce and deepen students’ conceptual understanding
 in Science.&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_4.png">
 </div>
+<p><strong>Learning Journeys</strong>
+</p>
+<p>As an extension to classroom experiences, students also attend lessons
+that are offered by the Singapore Science Centre. They also get a chance
+to explore nature reserve so as to provide real-world learning in a real
+world context.</p>
+<p></p>
+<p></p>
 <p><strong>Useful Links:</strong>
 <br>1)&nbsp;&nbsp; <a href="http://www.howstuffworks.com" rel="noopener nofollow" target="_blank">How Stuff Works</a>
 <br>2)&nbsp;&nbsp; <a href="https://kids.nationalgeographic.com/" rel="noopener nofollow" target="_blank">National Geographic kids</a>
