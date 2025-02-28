@@ -21,6 +21,7 @@ our students are able relate the role of Science in their daily life, society
 and environment.
 <br>The teachers also plan Science programmes and work with key partners to
 nurture the joy of learning and to promote lifelong learning.
+<br>
 <br>Here are the programmes that the students will experience in Cedar Primary
 School:
 <br>
@@ -41,9 +42,7 @@ your own food and gain a greater understanding of food self-sufficiency.</p>
 Biodiversity Week for Schools will feature activities that celebrate Singapore’s
 natural heritage and engage the students in learning about our native flora
 and fauna.&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Terrarium Building</strong>
+<p><strong>&nbsp;Terrarium Building</strong>
 <br>Students will take this opportunity to observe that the terrarium ecosystem
 is similar to the earth’s water cycle.</p>
 <p><strong>Eco-Trail</strong>
