@@ -77,7 +77,9 @@ in Science.&nbsp;&nbsp;</p>
 that are offered by the Singapore Science Centre. They also get a chance
 to explore nature reserve so as to provide real-world learning in a real
 world context.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_5.png">
+</div>
 <p></p>
 <p><strong>Useful Links:</strong>
 <br>1)&nbsp;&nbsp; <a href="http://www.howstuffworks.com" rel="noopener nofollow" target="_blank">How Stuff Works</a>
