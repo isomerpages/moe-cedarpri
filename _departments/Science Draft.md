@@ -81,9 +81,13 @@ world context.</p>
 <p></p>
 <p><strong>Useful Links:</strong>
 <br>1)&nbsp;&nbsp; <a href="http://www.howstuffworks.com" rel="noopener nofollow" target="_blank">How Stuff Works</a>
-<br>2)&nbsp;&nbsp; <a href="https://kids.nationalgeographic.com/" rel="noopener nofollow" target="_blank">National Geographic kids</a>
-<br>3)&nbsp;&nbsp; <a href="http://video.nationalgeographic.com/video/national-geographic-channel" rel="noopener nofollow" target="_blank">National Geographic channel</a>
+<br>2)&nbsp;&nbsp;<a href="https://kids.nationalgeographic.com/" rel="noopener nofollow" target="_blank">National Geographic kids</a>
+<br>3)&nbsp;&nbsp;<a href="http://video.nationalgeographic.com/video/national-geographic-channel" rel="noopener nofollow" target="_blank">National Geographic channel</a>
+<br>4) <a href="https://www.bbc.co.uk/bitesize/topics/z6882hv" rel="noopener nofollow" target="_blank">BBC</a>
+<br>5) <a href="https://www.sciencekids.co.nz/sciencefacts/plants.html" rel="noopener nofollow" target="_blank">Science Kids</a>
 </p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
