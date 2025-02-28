@@ -32,8 +32,8 @@ kit consisting of a pot, potting mix and some seeds.
 learn values such as resilience, care and responsibility.&nbsp;</p>
 <p><strong>Mushroom Growing</strong>
 <br>In addition to growing their own mushrooms and learning more about mushroom
-(fungi), the students will learn and understand the importance of growing
-your own food and gain a greater understanding of food self-sufficiency.</p>
+(fungi), students will learn and understand the importance of growing their
+own food and gain a greater understanding of food self-sufficiency.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_1.png">
 </div>
