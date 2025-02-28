@@ -61,8 +61,7 @@ their understanding of advanced science concepts through an inquiry approach.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_3.png">
 </div>
 <p><strong>Science Toy Project</strong>
-</p>
-<p>The Science Toy Project seeks to foster inventiveness through Science,
+<br>The Science Toy Project seeks to foster inventiveness through Science,
 allowing students to go beyond just knowing scientific facts and concepts
 from textbooks to applying them creatively. Knowledge application will
 then positively reinforce and deepen students’ conceptual understanding
@@ -71,8 +70,7 @@ in Science.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci_Collage_4.png">
 </div>
 <p><strong>Learning Journeys</strong>
-</p>
-<p>As an extension to classroom experiences, students also attend lessons
+<br>As an extension to classroom experiences, students also attend lessons
 that are offered by the Singapore Science Centre. They also get a chance
 to explore nature reserve so as to provide real-world learning in a real
 world context.</p>
