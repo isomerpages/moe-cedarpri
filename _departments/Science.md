@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /science-draft/
+permalink: /departments/science/
 variant: tiptap
 description: ""
 ---
