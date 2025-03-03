@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Science Draft.md
+      - Science.md
       - English.md
       - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Chinese Language.md
