@@ -17,7 +17,8 @@ language.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_1.png">
 </div>
-<p><strong>Traditional Indian costumes</strong>
+<h3><strong>Traditional Indian costumes</strong></h3>
+<p>
 <br>Draping a saree can be a fun and meaningful experience for girls, while
 tying a veshti can be just as enriching for boys, especially as they discover
 the cultural significance behind these traditional garments.</p>
@@ -29,7 +30,8 @@ and an appreciation for cultural diversity!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_3.png">
 </div>
-<p><strong>P4 Cultural Camp Carnival</strong>
+<h3><strong>P4 Cultural Camp Carnival</strong></h3>
+<p>
 <br>Our P4 Cultural Camp was a vibrant exploration of different cultures,
 offering students a rich and immersive experience. This year, the camp
 featured a variety of engaging activities that brought traditions to life.
@@ -40,7 +42,8 @@ and experimenting with intricate henna hand designs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_4.png">
 </div>
-<p><strong>Tamil Department Achievements 2024</strong>
+<h3><strong>Tamil Department Achievements 2024</strong></h3>
+<p>
 <br>Our students participated in various competitions and proudly secured
 several prizes. These language competitions not only celebrate their achievements
 but also serve as enriching experiences that nurture personal and academic
