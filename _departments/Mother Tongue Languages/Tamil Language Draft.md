@@ -23,6 +23,52 @@ tying a veshti can be just as enriching for boys, especially as they discover
 the cultural significance behind these traditional garments.</p>
 <p>This hands-on experience for the pupils promotes teamwork, creativity
 and an appreciation for cultural diversity!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_3.png">
+</div>
+<p><strong>P4 Cultural Camp Carnival</strong>
+<br>Our P4 Cultural Camp was a vibrant exploration of different cultures,
+offering students a rich and immersive experience. This year, the camp
+featured a variety of engaging activities that brought traditions to life.
+Students had the unique opportunity to learn about diverse cultural practices
+through hands-on sessions, where they thoroughly enjoyed making murukku
+and experimenting with intricate henna hand designs.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_4.png">
+</div>
+<p><strong>Tamil Department Achievements 2024</strong>
+</p>
+<p>Our students participated in various competitions and proudly secured
+several prizes. These language competitions not only celebrate their achievements
+but also serve as enriching experiences that nurture personal and academic
+growth while fostering a deep appreciation for language learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_1.jpg">
+</div>
+<p>Our Primary 6 pupils participated in various Tamil Language competitions
+organized by Potong Pasir Community Centre, gaining valuable and enriching
+experiences. They showcased their skills and dedication, winning prizes
+in both the Essay Writing and Reading competitions.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
