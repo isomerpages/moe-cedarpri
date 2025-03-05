@@ -68,9 +68,6 @@ self-esteem and interact positively with others.</p>
 <p><strong>More Information</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E_Invite_Open_House_2025.jpg">
-</div>
 <p><a href="/files/MKCedar/2025__MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">More Information about MK@Cedar</a>
 </p>
 <p><a href="/files/MKCedar/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 Family Handbook</a>
@@ -89,5 +86,5 @@ self-esteem and interact positively with others.</p>
 <p><strong>Information on Registration</strong>
 </p>
 <p>Please note that the Registration Exercise is fully online. Do click
-<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">here</a>for more information on the procedures, eligibility and documents
-required.</p>
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">here<u> </u>
+</a>for more information on the procedures, eligibility and documents required.</p>
