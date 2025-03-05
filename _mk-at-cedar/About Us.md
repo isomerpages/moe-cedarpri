@@ -29,8 +29,7 @@ on:</p>
 Mother Tongue Languages&nbsp;(i.e. Chinese, Malay and Tamil languages).</p>
 </li>
 </ul>
-<p><strong>MK Reads! Programme</strong>
-</p>
+<h2><strong>MK Reads! Programme</strong></h2>
 <p>MK Reads! aims to promote shared reading between parents and children
 at home. According to findings, a better home literacy environment helps
 your child to acquire a strong foundation in language and literacy skills.
@@ -49,7 +48,7 @@ child.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Videos and infographics</strong>&nbsp;–
 MOE&nbsp;also&nbsp;prepares videos and infographics with tips and strategies
 to support&nbsp;shared reading at home.</p>
-<h3>Centre Based Programme</h3>
+<h2>Centre Based Programme</h2>
 <p><strong>Fun Values!</strong>
 </p>
 <p>Children will be able to recognise and understand values to build a healthy
@@ -65,12 +64,8 @@ self-esteem and interact positively with others.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
 </div>
-<p><strong>More Information</strong>
-</p>
+<h4><strong>More Information</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E_Invite_Open_House_2025.jpg">
-</div>
 <p><a href="/files/MKCedar/2025__MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">More Information about MK@Cedar</a>
 </p>
 <p><a href="/files/MKCedar/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 Family Handbook</a>
@@ -80,14 +75,12 @@ self-esteem and interact positively with others.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=HDZ3kolvKTSZOVtW"></iframe>
 </div>
 <p></p>
-<p><strong>For more information, visit the web links below:</strong>
-</p>
+<p>For more information, visit the web links below:</p>
 <p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
 <p></p>
 <p></p>
-<p><strong>Information on Registration</strong>
-</p>
+<h4><strong>Information on Registration</strong></h4>
 <p>Please note that the Registration Exercise is fully online. Do click
-<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">here</a>for more information on the procedures, eligibility and documents
-required.</p>
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">here<u> </u>
+</a>for more information on the procedures, eligibility and documents required.</p>
