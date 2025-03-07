@@ -1,41 +1,72 @@
 ---
 title: Tamil Language
-permalink: /departments/mother-tongue-languages/tamil-language
+permalink: /departments/mother-tongue-languages/tamil-language/
+variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-# **Tamil Language**
-
-In order to render Tamil a 'living language', the Tamil Language unit instils in Tamil students a love for their mother tongue and develops their ability to use it with confidence through various enrichment programmes and activities.
-
-TL Enrichment Programmes/Activities:
-
-*   MTL Fortnight and P4 Cultural & Language Camp 2019 (Term 2)
-
-It is important for Cedar Primary's Tamil Language students to attain a certain level of proficiency in the language so that they are able to express themselves competently as well as to appreciate the historical, ethnic, cultural and moral values found in Tamil literature. The values imbibed will enhance their wholesome development and nurture good citizenship. 
-
-To attain this objective, the Tamil department creates opportunities for our students to boost their creative thinking abilities and communication skills. We also provide the means for them to understand their cultural roots through participation in a variety of cultural activities and programmes, such as the MTL Fortnight.
-
-![](/images/MTL-Tamil.jpg)
-Students in Action - MTL Fortnight and P4 Cultural & Language Camp
-
-![](/images/MTL-Tamil%20(1).jpg)
-Book Fair during MTL Fortnight – Promoting Reading
-
-*   School-based Tamil Language Competitions
-*   National Tamil Language Competitions (throughout the year)
-	*   Students participate in relevant competitions organised by Vasantham MediaCorp and Community Clubs to showcase their talents. Such opportunities also help to build up our students' confidence in public speaking and increase their motivation in learning the language.
-
-<img src="/images/Singing%20Competition.jpg" 
-     style="width:40%">
-<center>Singing Competition</center>
-
-<img src="/images/Thrukkural%20Message%20Via%20Stories.jpg" 
-     style="width:70%">
-<center>Thrukkural Message Via Stories</center>
-
-![](/images/MTL-Tamil%20(2).jpg)
-Oratorical Contest
-
-![](/images/Tamilodu%20Vilayadu%20(Spellingbee)%20Competition.png)
-Tamilodu Vilayadu (Spellingbee) Competition
+<p>The school aims to nurture students to be active learners and proficient
+users of their Mother Tongue Language (MTL). As such we are pleased to
+organize the <strong>Mother Tongue Language Fortnight </strong>which is
+packed with fun-filled MTL learning activities, thus encouraging students
+to use MTL and appreciate the heritage and culture associated with the
+language.&nbsp;
+<br>
+<br>The Cedar MTL Fortnight was held from Monday, 25 March 2024 to Friday,
+5 April 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_1.png">
+</div>
+<h3><strong>Traditional Indian costumes</strong></h3>
+<p>Draping a saree can be a fun and meaningful experience for girls, while
+tying a veshti can be just as enriching for boys, especially as they discover
+the cultural significance behind these traditional garments.</p>
+<p>This hands-on experience for the pupils promotes teamwork, creativity
+and an appreciation for cultural diversity!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_3.png">
+</div>
+<h3><strong>P4 Cultural Camp Carnival</strong></h3>
+<p>Our P4 Cultural Camp was a vibrant exploration of different cultures,
+offering students a rich and immersive experience. This year, the camp
+featured a variety of engaging activities that brought traditions to life.
+Students had the unique opportunity to learn about diverse cultural practices
+through hands-on sessions, where they thoroughly enjoyed making murukku
+and experimenting with intricate henna hand designs.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_4.png">
+</div>
+<h3><strong>Tamil Department Achievements 2024</strong></h3>
+<p>Our students participated in various competitions and proudly secured
+several prizes. These language competitions not only celebrate their achievements
+but also serve as enriching experiences that nurture personal and academic
+growth while fostering a deep appreciation for language learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_1.jpg">
+</div>
+<p>Our Primary 6 pupils participated in various Tamil Language competitions
+organized by Potong Pasir Community Centre, gaining valuable and enriching
+experiences. They showcased their skills and dedication, winning prizes
+in both the Essay Writing and Reading competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_2.jpg">
+</div>
+<p>Our Primary 2, 4, and 5 pupils participated in various Tamil Language
+competitions organized by Potong Pasir Community Centre. It was an enriching
+experience for them, and they showcased their talents by winning prizes
+in the Storytelling and Oratorical competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TL_Collage_5.png">
+</div>
+<p>Our Primary 2, 4, and 5 pupils participated in various Tamil Language
+competitions organized by Kolam Ayer Community Centre. They found the experience
+to be a valuable learning opportunity, embracing the journey and growth
+it offered, regardless of the outcome.</p>
+<p></p>
