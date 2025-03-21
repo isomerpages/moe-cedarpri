@@ -42,6 +42,6 @@ variant: markdown
 #### Primary 6
 1. [14 March Webinar - Principal's Address](/files/Parent%20Engagement/2025%20P6%20Engagement/1__14_Mar_P5___P6_Principal_s_Address.pdf)
 2. [14 March Webinar - Student Development and Well Being](/files/Parent%20Engagement/2025%20P6%20Engagement/2__14_Mar_P6_Student_Development_and_Well_Being.pdf)
-3. [14 March Webinar - English Workshop](/files/Parent%20Engagement/2025%20P6%20Engagement/3__14_Mar_P6_English_Workshop.pdf)
-4. [14 March Webinar - Math Workshop](/files/Parent%20Engagement/2025%20P6%20Engagement/4__14_Mar_P6_Math_Workshop.pdf)
-5. [14 March Webinar - Science Curriculum Sharing](/files/Parent%20Engagement/2025%20P6%20Engagement/5__14_Mar_P6_MTL___Science_Curriculum_Sharing.pdf)
+3. [14 March Webinar - English Curriculum](/files/Parent%20Engagement/2025%20P6%20Engagement/3__14_Mar_P6_English_Workshop.pdf)
+4. [14 March Webinar - Math Curriculum](/files/Parent%20Engagement/2025%20P6%20Engagement/4__14_Mar_P6_Math_Workshop.pdf)
+5. [14 March Webinar - MTL & Science Curriculum Sharing](/files/Parent%20Engagement/2025%20P6%20Engagement/5__14_Mar_P6_MTL___Science_Curriculum_Sharing.pdf)
