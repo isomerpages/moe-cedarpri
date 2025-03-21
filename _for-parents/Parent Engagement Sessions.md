@@ -7,7 +7,7 @@ variant: markdown
 # **2025 Parent Engagement Sessions**
 
 
-### Primary 1 Engagement Session  
+### Primary 1  
 
 1. [P1 Orientation - Principal's Address](/files/Parent%20Engagement/2025%20P1%20Engagement/2025_P1_Orientation_Principal_s_Address.pdf)
 
@@ -18,8 +18,13 @@ variant: markdown
 5. [14 March Webinar - Curriculum Briefing I](/files/Parent%20Engagement/2025%20P1%20Engagement/3__14%20mar%20p1_p2_curriculum_briefing_i_2025.pdf)
 6. [14 March Webinar - Curriculum Briefing II](/files/Parent%20Engagement/2025%20P1%20Engagement/4__14%20mar%20p1_p2_curriculum_briefing_ii_2025.pdf)
 
-#### Primary 2 Engagement Session
+#### Primary 2 
 1. [14 March Webinar - Principal's Address](/files/Parent%20Engagement/2025%20P2%20Engagement/1__14_Mar_P1__P2_Principal_s_Address.pdf)
 2. [14 March Webinar - Student development and well being](/files/Parent%20Engagement/2025%20P2%20Engagement/2__14_Mar_Student_Development_and_Well_Being.pdf)
 3. [14 March Webinar - Curriculum Briefing I](/files/Parent%20Engagement/2025%20P2%20Engagement/3__14_Mar_P1_P2_Curriculum_Briefing_I_2025.pdf)
 4. [14 March Webinar - Curriculum Briefing II](/files/Parent%20Engagement/2025%20P2%20Engagement/4__14_Mar_P1_P2_Curriculum_Briefing_II_2025.pdf)
+
+#### Primary 3
+1. [14 March Webinar - Principal's Address](/files/Parent%20Engagement/2025%20P3%20Engagement/1__14_Mar_P3___P4_Principal_s_Address.pdf)
+2. [14 March Webinar - Student development and well being](/files/Parent%20Engagement/2025%20P3%20Engagement/2__14_Mar_P3_Student_Development___Well_Being_2005.pdf)
+3. 
