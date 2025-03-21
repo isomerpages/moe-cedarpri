@@ -10,7 +10,6 @@ variant: markdown
 
 **Primary 1 Engagement**  
 
-1. [P1 Orientation - Principal's Address](/files/Parent%20Engagement/2025_P1_Orientation_Principal_s_Address.pdf)
+1. [P1 Orientation - Principal's Address](/files/Parent%20Engagement/2025%20P1%20Engagement/2025_P1_Orientation_Principal_s_Address.pdf)
 
-2. [P1 Orientation - Administrative Briefing](/files/Parent%20Engagement/2025_P1_Orientation_YH_s_Admin_Briefing.pdf)
-
+2. [P1 Orientation - Administrative Briefing](/files/Parent%20Engagement/2025%20P1%20Engagement/2025_P1_Orientation_YH_s_Admin_Briefing.pdf)
