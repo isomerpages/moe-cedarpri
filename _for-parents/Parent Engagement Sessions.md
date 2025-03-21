@@ -16,3 +16,4 @@ variant: markdown
 
 3. [14 March Webinar - Principal's Address](/files/Parent%20Engagement/2025%20P1%20Engagement/1__14%20march%20p1__p2_principal_s_address.pdf)
 4. [14 March Webinar - Student development and well being](/files/Parent%20Engagement/2025%20P1%20Engagement/2__14%20mar%20student_development_and_well_being.pdf)
+5. [14 March Webinar - Curriculum Briefing 1](/files/Parent%20Engagement/2025%20P1%20Engagement/3__14%20mar%20p1_p2_curriculum_briefing_i_2025.pdf)
