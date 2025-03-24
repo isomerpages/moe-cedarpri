@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - English Draft.md
       - English.md
+      - English Draft.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Chinese Language.md
