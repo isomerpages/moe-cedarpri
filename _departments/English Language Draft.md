@@ -69,31 +69,24 @@ perspectives.
 <details class="isomer-details">
 <summary>Stellar 2.0 (National Curriculum)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>STELLAR 2.0 PEDAGOGIC FRAMEWORK (NATIONAL CURRICULUM)<br></strong>STELLAR
-2.0 (Strategies for English Language Learning and Reading) is a structured
-literacy programme designed to develop students’ proficiency in reading,
-writing, speaking, and listening through engaging and meaningful experiences.</p>
-<p>&nbsp;</p>
-<p>Building on the foundation of STELLAR, this enhanced curriculum integrates:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authentic texts to develop comprehension
-and critical thinking</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interactive learning experiences
-such as storytelling, discussions, and collaborative activities</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong emphasis on metacognition,
-helping students reflect on their learning</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21st Century Competencies, including
-digital literacy and communication skills</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="279" width="671" alt="A screenshot of a computer screen
-
-AI-generated content may be incorrect.">
-</div>
-<p>By incorporating a blend of traditional and digital learning tools, STELLAR
-2.0 ensures that students nurtures strong language skills and a lifelong
-love for reading.
-<br><strong><br>Lower Primary (P1-P3a):</strong>
+<p><strong>STELLAR 2.0 PEDAGOGIC FRAMEWORK </strong>
+<br><strong>(NATIONAL CURRICULUM)</strong>
+<br>STELLAR 2.0 (Strategies for English Language Learning and Reading) is
+a structured literacy programme designed to develop students’ proficiency
+in reading, writing, speaking, and listening through engaging and meaningful
+experiences.
+<br>
+<br>Building on the foundation of STELLAR, this enhanced curriculum integrates:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Authentic texts to develop comprehension
+and critical thinking
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interactive learning experiences
+such as storytelling, discussions, and collaborative activities
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strong emphasis on metacognition,
+helping students reflect on their learning
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21st Century Competencies, including
+digital literacy and communication skills
+<br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_2.png">
 </div>
