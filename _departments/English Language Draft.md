@@ -101,20 +101,18 @@ love for reading.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_3.png">
 </div>
+<p>Experiential Learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_5.jpg">
 </div>
-<p>Experiential Learning
-<br>
-<br>
-</p>
+<p>
+<br>Collaborative Learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_6.jpg">
 </div>
-<p>Collaborative Learning</p>
 </div>
 </details>
 </div>
