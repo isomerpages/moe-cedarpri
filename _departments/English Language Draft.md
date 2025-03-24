@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_1.jpg">
 </div>
 <p>The English Language Department fosters a lifelong passion for learning
 by nurturing joyful learners, critical thinkers, and creative communicators.
