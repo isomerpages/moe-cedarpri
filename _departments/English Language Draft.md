@@ -11,7 +11,21 @@ description: ""
 <p>The English Language Department fosters a lifelong passion for learning
 by nurturing joyful learners, critical thinkers, and creative communicators.
 We empower students to think critically, express themselves creatively,
-and take joy in mastering the English language.</p>
+and take joy in mastering the English language.
+<br>
+<br><strong>Our Vision</strong>
+<br><em>Joyful learners, critical thinkers, and creative communicators.</em>
+<br>
+<br><strong>Our Mission</strong>
+<br><em>To empower students to think critically, communicate creatively, and find joy in mastering the English language.</em>
+<br>
+<br><strong>Our Approach</strong>
+<br>We provide a comprehensive and engaging English curriculum that nurtures
+students’ literacy skills across reading, writing, speaking, and listening.
+Our approach is grounded in:
+<br>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
