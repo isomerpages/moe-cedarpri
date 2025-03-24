@@ -115,13 +115,6 @@ love for reading.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_6.jpg">
 </div>
 <p>Collaborative Learning</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
