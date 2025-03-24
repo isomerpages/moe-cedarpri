@@ -95,6 +95,33 @@ love for reading.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_2.png">
 </div>
+<p>
+<br><strong>Upper Primary (P3b-6):</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_5.jpg">
+</div>
+<p>Experiential Learning
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_6.jpg">
+</div>
+<p>Collaborative Learning</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
@@ -102,6 +129,7 @@ love for reading.
 <p>c)&nbsp;&nbsp; Enhanced Reading Initiatives</p>
 <p>d)&nbsp;&nbsp; EdTech Tools</p>
 <p>e)&nbsp;&nbsp; Outreach Programmes</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
