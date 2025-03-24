@@ -108,8 +108,7 @@ love for reading.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_5.jpg">
 </div>
-<p>
-<br>Collaborative Learning</p>
+<p>Collaborative Learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_6.jpg">
 </div>
