@@ -115,11 +115,38 @@ love for reading.
 </div>
 </details>
 </div>
-<p>b)&nbsp;&nbsp; School-based Curriculum</p>
-<p>c)&nbsp;&nbsp; Enhanced Reading Initiatives</p>
-<p>d)&nbsp;&nbsp; EdTech Tools</p>
-<p>e)&nbsp;&nbsp; Outreach Programmes</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>School-based Curriculum</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Enhanced Reading Initiatives</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>EdTech Tools</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Outreach Programmes</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
