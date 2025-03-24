@@ -86,6 +86,11 @@ helping students reflect on their learning
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21st Century Competencies, including
 digital literacy and communication skills
 <br>
+<br>By incorporating a blend of traditional and digital learning tools, STELLAR
+2.0 ensures that students nurtures strong language skills and a lifelong
+love for reading.
+<br>
+<br><strong>Lower Primary (P1-P3a):</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_2.png">
