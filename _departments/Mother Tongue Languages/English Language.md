@@ -1,8 +1,9 @@
 ---
-title: English Language Draft
+title: English Language
 permalink: /departments/english-language-draft/
 variant: tiptap
 description: ""
+third_nav_title: Mother Tongue Languages
 ---
 <p></p>
 <div class="isomer-image-wrapper">
