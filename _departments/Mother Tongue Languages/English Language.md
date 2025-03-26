@@ -151,10 +151,6 @@ language skills.</p>
 <details class="isomer-details">
 <summary>Enhanced Reading Initiatives</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>Our Enhanced Reading Initiatives (ERI) cultivate a love for reading by
 exposing students to diverse literature and global perspectives.
 <br>
@@ -192,6 +188,10 @@ and learners.</p>
 <br><a href="https://www.readbrightly.com/the-ultimate-elementary-school-reads/" rel="noopener noreferrer nofollow" target="_blank">https://www.readbrightly.com/the-ultimate-elementary-school-reads/</a>
 <br><a href="https://k-12readinglist.com/reading-lists-for-elementary-school-children/" rel="noopener noreferrer nofollow" target="_blank">https://k-12readinglist.com/reading-lists-for-elementary-school-children/</a>
 </p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
