@@ -196,7 +196,36 @@ and learners.</p>
 <details class="isomer-details">
 <summary>EdTech Tools</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>We integrate Educational Technology (EdTech) tools to enhance English
+language learning and equip students with 21st-century skills. By combining
+traditional literacy approaches with digital innovation, we create an interactive
+and engaging learning experience.
+<br>
+<br>Our Key EdTech Tools:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Learning Space (SLS) – Personalised
+learning with interactive lessons
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Classroom &amp; Padlet –
+Collaboration and idea-sharing beyond the classroom
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kahoot!, Wordwall &amp; Blooket
+– Gamified quizzes for active engagement
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring AI &amp; Assistive Technologies
+– Investigating tools like Immersive Reader and Text-to-Speech to support
+diverse learners
+<br>
+<br>Why It Matters:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourages self-directed learning
+and digital literacy
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Makes lessons interactive, engaging,
+and accessible
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supports differentiated learning
+through personalised feedback and scaffolded activities</p>
+<p>With EdTech, students learn smarter, collaborate effectively, and strengthen
+critical thinking skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_9.png">
+</div>
+<p>EdTech tools in the classrooms</p>
 </div>
 </details>
 </div>
