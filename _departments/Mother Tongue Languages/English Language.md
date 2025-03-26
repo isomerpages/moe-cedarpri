@@ -232,7 +232,36 @@ critical thinking skills.</p>
 <details class="isomer-details">
 <summary>Outreach Programmes</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Our Outreach Programmes provide students with valuable exposure and hands-on
+experiences beyond the classroom. Through assemblies, competitions, and
+learning journeys, we create opportunities for students to apply their
+language skills, build confidence, and engage with the wider community.
+<br>
+<br>Key Initiatives:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly Programmes – Interactive
+sessions featuring guest speakers, storytelling performances, and literary
+showcases
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitions (Internal &amp; External)
+– Encouraging excellence through writing, and public speaking competitions
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys – Exploring language
+and the world around us through:</p>
+<p>o&nbsp; Neighbourhood Walks – Observing and describing local environments</p>
+<p>o&nbsp; Orchid Garden at Botanic Gardens – Learning about nature through
+descriptive writing</p>
+<p>o&nbsp; Sungei Buloh Wetland Reserve – Experiencing biodiversity and writing
+emails to capture highlights of the experience
+<br>
+<br>Why It Matters:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhances real-world learning by
+applying English skills in different contexts
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fosters confidence, creativity,
+and critical thinking through exposure to new experiences
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourages active participation
+in the literary and communication landscape
+<br>
+<br>By engaging in these enriching experiences, students develop a deeper
+appreciation for language and the confidence to communicate effectively
+in diverse settings.</p>
 </div>
 </details>
 </div>
