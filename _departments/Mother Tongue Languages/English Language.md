@@ -200,8 +200,6 @@ and learners.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Outreach Programmes</summary>
