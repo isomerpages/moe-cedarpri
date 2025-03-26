@@ -155,6 +155,30 @@ language skills.</p>
 </div>
 </details>
 </div>
+<p>Our Enhanced Reading Initiatives (ERI) cultivate a love for reading by
+exposing students to diverse literature and global perspectives.
+<br>
+<br>What We Offer:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Books Before Bells &amp; Books Express
+– Daily and mobile reading opportunities
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Storytime Spectacular – Engaging
+read-aloud sessions
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; READ@CPS &amp; Library Activities
+– School-wide reading initiatives to promote independent learning
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cedar News Bytes – Connecting students
+to current affairs through reading
+<br>
+<br>Why It Matters:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourages critical thinking and
+empathy through discussions on identity, friendships, and community
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develops reading habits and language
+skills through exposure to books, short stories, poems, and folktales
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supports national reading programmes
+with collaborations like NLB Termly Updates
+<br>
+<br>By integrating structured reading programmes, engaging activities, and
+meaningful discussions, we inspire students to become lifelong readers
+and learners.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>EdTech Tools</summary>
