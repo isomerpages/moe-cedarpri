@@ -120,7 +120,30 @@ love for reading.
 <details class="isomer-details">
 <summary>School-based Curriculum</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Our School-Based Curriculum enriches the STELLAR 2.0 curriculum by offering
+customised programmes that foster critical thinking, creativity, and effective
+communication.
+<br>
+<br>Key Programmes:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Structured Reading Programme (SRP)
+– Cultivating a love for reading through engaging texts
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Current Affairs (Mini Red Dot, Tiny
+Red Dot &amp; Little Red Dot) – Building awareness of real-world issues
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oral Communication Package – Strengthening
+speaking and presentation skills
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing Package (P.O.E.M.S) &amp;
+Regular Journal Writing – Developing confident and expressive writers
+<br>
+<br>Why It Matters:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourages active learning through
+interactive discussions and writing
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connects language skills with real-world
+applications
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Equips students with 21st-century
+competencies such as critical thinking and communication</p>
+<p>By integrating engaging strategies with authentic learning experiences,
+our curriculum nurtures confident, articulate communicators with strong
+language skills.</p>
 </div>
 </details>
 </div>
