@@ -224,7 +224,6 @@ critical thinking skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_9.png">
 </div>
-<p></p>
 </div>
 </details>
 </div>
@@ -272,8 +271,6 @@ in diverse settings.</p>
 </div>
 <p>Samples of students’ works submitted for Copyright&nbsp;School Challenge
 2024: Creative Writing Competition</p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
