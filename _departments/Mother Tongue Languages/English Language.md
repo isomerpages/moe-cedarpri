@@ -179,6 +179,25 @@ with collaborations like NLB Termly Updates
 <br>By integrating structured reading programmes, engaging activities, and
 meaningful discussions, we inspire students to become lifelong readers
 and learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_7.jpg">
+</div>
+<p>Author Spotlight (Leroy Lam, Emily Lim &amp; Tan Ter Cheah) during READ@CPS
+(2025)
+<br>
+<br>Recommended Reading:
+<br><a href="https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads</a>
+<br><a href="https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/site/discovereads/children/reading-recommendations/booklists</a>
+<br><a href="https://www.readbrightly.com/the-ultimate-elementary-school-reads/" rel="noopener noreferrer nofollow" target="_blank">https://www.readbrightly.com/the-ultimate-elementary-school-reads/</a>
+<br><a href="https://k-12readinglist.com/reading-lists-for-elementary-school-children/" rel="noopener noreferrer nofollow" target="_blank">https://k-12readinglist.com/reading-lists-for-elementary-school-children/</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>EdTech Tools</summary>
@@ -187,6 +206,8 @@ and learners.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Outreach Programmes</summary>
@@ -195,6 +216,7 @@ and learners.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
