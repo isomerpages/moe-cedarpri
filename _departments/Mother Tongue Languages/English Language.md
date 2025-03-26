@@ -222,10 +222,7 @@ through personalised feedback and scaffolded activities</p>
 <p>With EdTech, students learn smarter, collaborate effectively, and strengthen
 critical thinking skills.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_9.png">
-</div>
-<p>EdTech tools in the classrooms</p>
+<p></p>
 </div>
 </details>
 </div>
