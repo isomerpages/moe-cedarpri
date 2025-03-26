@@ -245,10 +245,10 @@ showcases
 – Encouraging excellence through writing, and public speaking competitions
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys – Exploring language
 and the world around us through:</p>
-<p>o&nbsp; Neighbourhood Walks – Observing and describing local environments</p>
-<p>o&nbsp; Orchid Garden at Botanic Gardens – Learning about nature through
-descriptive writing</p>
-<p>o&nbsp; Sungei Buloh Wetland Reserve – Experiencing biodiversity and writing
+<p>o&nbsp; Neighbourhood Walks – Observing and describing local environments
+<br>o&nbsp; Orchid Garden at Botanic Gardens – Learning about nature through
+descriptive writing
+<br>o&nbsp; Sungei Buloh Wetland Reserve – Experiencing biodiversity and writing
 emails to capture highlights of the experience
 <br>
 <br>Why It Matters:
@@ -262,6 +262,18 @@ in the literary and communication landscape
 <br>By engaging in these enriching experiences, students develop a deeper
 appreciation for language and the confidence to communicate effectively
 in diverse settings.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_10.png">
+</div>
+<p>Winners of the 2025 Step Up, Speak Up Battle!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_11.png">
+</div>
+<p>Samples of students’ works submitted for Copyright&nbsp;School Challenge
+2024: Creative Writing Competition</p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
