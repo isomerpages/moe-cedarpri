@@ -151,6 +151,7 @@ language skills.</p>
 <details class="isomer-details">
 <summary>Enhanced Reading Initiatives</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Our Enhanced Reading Initiatives (ERI) cultivate a love for reading by
 exposing students to diverse literature and global perspectives.
 <br>
@@ -191,13 +192,6 @@ and learners.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>EdTech Tools</summary>
