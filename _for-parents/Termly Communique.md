@@ -10,5 +10,8 @@ variant: tiptap
 <p>Term 1</p>
 <p><a href="/files/Communiques/2025_Term_1_Communique.pdf" rel="noopener nofollow" target="_blank">Term 1 Communique</a>
 </p>
+<p>Term 2</p>
+<p><a href="/files/Communiques/2025_Term_2_Communique.pdf" rel="noopener nofollow" target="_blank">Term 2 Communique</a>
+</p>
 <p></p>
 <p></p>
