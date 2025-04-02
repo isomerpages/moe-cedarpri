@@ -135,6 +135,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3-Responsiblity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nani Rhiani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nani_rhiani_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,6 +190,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_eak_bian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3-Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fan Xia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fan_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -331,18 +355,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_ting_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4-Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nani Rhiani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nani_rhiani_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
