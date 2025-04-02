@@ -159,6 +159,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P5-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_ying_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P5-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
