@@ -171,6 +171,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P1-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Narayanan Thanaletchimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:narayanan_thanaletchimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P1-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,10 +375,10 @@ variant: tiptap
 <p>P2-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Narayanan Thanaletchimi</p>
+<p>Mdm Hua Qiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:narayanan_thanaletchimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:hua_qiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
