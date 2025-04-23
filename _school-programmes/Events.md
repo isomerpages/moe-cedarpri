@@ -74,8 +74,8 @@ and the role each of them plays in defending our nation.</p>
 <br>The theme "Singapore: Forging Friendships in a Complex World" will guide
 International Friendship Day celebrations from 2025 to 2027. As the global
 landscape evolves, international cooperation remains vital for Singapore
-to address global challenges and seize new opportunities.</p>
-<p>Cedar Primary School orchestrated a series of engaging activities to enhance
+to address global challenges and seize new opportunities.
+<br>Cedar Primary School orchestrated a series of engaging activities to enhance
 students' understanding of ASEAN and other countries. Through thoughtfully
 planned recess activities across various school locations and age-appropriate
 Character and Citizenship Education (CCE) lessons on ASEAN, students gained
@@ -83,8 +83,53 @@ deeper insights into different cultures and perspectives. These enriching
 experiences prepare them to contribute meaningfully to a cohesive, globally
 connected society whilst maintaining Singapore's relevance in an increasingly
 complex world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IFD_1.jpg">
+</div>
+<p>The school's canteen vendors enthusiastically supported International
+Friendship Day by preparing an array of international dishes throughout
+the week. Information on each dish was placed in front od each stall. Students
+and teachers alike eagerly anticipated the special-edition menu- Kimchi
+Fried Rice, Mee Soto, Aglio Olio and Dim Sum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IFD_3.jpg">
+</div>
+<p><strong>Hari Raya Celebration</strong>
+<br>The school commemorated Hari Raya Puasa with an assembly programme on
+Thursday, 16 April.
+<br>The celebration commenced with an impressive Silat performance led by
+a Primary 4 student, Hadif. While the movements performed by the students
+appeared simple, they carried deep cultural significance and formed the
+foundation for more complex sequences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_1.jpg">
+</div>
+<p>A highlight of the celebration was a live performance by Sri Mahligai,
+a distinguished Singaporean Malay folk ensemble established in 2000. The
+group, renowned for their international performances over two decades,
+showcased traditional music featuring the accordion. They enriched students'
+understanding of Ramadan, the fasting month, and Hari Raya Aidilfitri through
+visual presentations and interactive activities, including demonstrations
+of proper samping wear for boys. Staff and students participated enthusiastically,
+clapping along to the music and engaging wholeheartedly in the activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_2.jpg">
+</div>
+<p>The celebration concluded with Malay Language students performing a final
+Raya song, bringing the event to a memorable close.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_4.jpg">
+</div>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
