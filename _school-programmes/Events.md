@@ -70,7 +70,8 @@ and the role each of them plays in defending our nation.</p>
 <details class="isomer-details">
 <summary>Term 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>International Friendship Day 2025</strong>
+<p>
+<br><strong>International Friendship Day 2025</strong>
 <br>The theme "Singapore: Forging Friendships in a Complex World" will guide
 International Friendship Day celebrations from 2025 to 2027. As the global
 landscape evolves, international cooperation remains vital for Singapore
@@ -84,7 +85,7 @@ experiences prepare them to contribute meaningfully to a cohesive, globally
 connected society whilst maintaining Singapore's relevance in an increasingly
 complex world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IFD_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IFD_1.jpg">
 </div>
 <p>The school's canteen vendors enthusiastically supported International
 Friendship Day by preparing an array of international dishes throughout
@@ -92,7 +93,7 @@ the week. Information on each dish was placed in front od each stall. Students
 and teachers alike eagerly anticipated the special-edition menu- Kimchi
 Fried Rice, Mee Soto, Aglio Olio and Dim Sum.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IFD_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IFD_3.jpg">
 </div>
 <p><strong>Hari Raya Celebration</strong>
 <br>The school commemorated Hari Raya Puasa with an assembly programme on
@@ -103,7 +104,7 @@ appeared simple, they carried deep cultural significance and formed the
 foundation for more complex sequences.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_1.jpg">
 </div>
 <p>A highlight of the celebration was a live performance by Sri Mahligai,
 a distinguished Singaporean Malay folk ensemble established in 2000. The
@@ -115,17 +116,17 @@ of proper samping wear for boys. Staff and students participated enthusiasticall
 clapping along to the music and engaging wholeheartedly in the activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_2.jpg">
 </div>
 <p>The celebration concluded with Malay Language students performing a final
 Raya song, bringing the event to a memorable close.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_4.jpg">
 </div>
 <p></p>
 </div>
