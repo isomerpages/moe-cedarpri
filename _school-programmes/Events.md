@@ -4,9 +4,13 @@ permalink: /events/
 variant: tiptap
 description: ""
 ---
-<p><strong>January</strong>
-</p>
-<p>Cedar Primary celebrated Chinese New Year with a vibrant concert that
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>Chinese New Year</strong>
+<br>Cedar Primary celebrated Chinese New Year with a vibrant concert that
 highlighted the school’s rich diversity and strong sense of unity. Students
 enjoyed an engaging lineup of performances, including a captivating Indian
 Classical Dance by Aksha Prakash of Primary 6 Resilience, a dynamic showcase
@@ -27,9 +31,8 @@ leaving everyone with fond memories of the celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
 </div>
-<p><strong>February</strong>
-</p>
-<p>Total Defence Day was commemorated with a meaningful series of activities
+<p><strong>Total Defence Day</strong>
+<br>Total Defence Day was commemorated with a meaningful series of activities
 that deepened students' understanding of the six pillars of Total Defence.
 Throughout the week, daily sharings highlighted the importance of resilience
 and unity, beginning with a thought-provoking skit during assembly. To
@@ -60,4 +63,28 @@ and the role each of them plays in defending our nation.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/TDD_2.jpg">
 </div>
 <p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>International Friendship Day 2025</strong>
+<br>The theme "Singapore: Forging Friendships in a Complex World" will guide
+International Friendship Day celebrations from 2025 to 2027. As the global
+landscape evolves, international cooperation remains vital for Singapore
+to address global challenges and seize new opportunities.</p>
+<p>Cedar Primary School orchestrated a series of engaging activities to enhance
+students' understanding of ASEAN and other countries. Through thoughtfully
+planned recess activities across various school locations and age-appropriate
+Character and Citizenship Education (CCE) lessons on ASEAN, students gained
+deeper insights into different cultures and perspectives. These enriching
+experiences prepare them to contribute meaningfully to a cohesive, globally
+connected society whilst maintaining Singapore's relevance in an increasingly
+complex world.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
