@@ -128,7 +128,19 @@ Raya song, bringing the event to a memorable close.
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_4.jpg">
 </div>
-<p></p>
+<p><strong>Mother Tongue Language Fortnight</strong>
+<br>The Mother Tongue Language Fortnight aims to immerse our pupils in meaningful
+experiences that celebrate their language and cultural heritage.
+<br>Over two weeks, pupils took part in a variety of engaging activities that
+brought the richness of their Mother Tongue cultures to life.
+<br>These included hands-on crafts such as Batik Painting, Rangoli Designs
+and Kite Painting, as well as experiences such as Wushu, Silat and Indian
+Dance.
+<br>Through these creative and interactive sessions, our pupils not only discovered
+traditional art forms but also developed a deeper appreciation for their
+linguistic and cultural roots.
+<br>It was heartening to see our pupils participate with enthusiasm and pride
+as they connected with their heritage in a memorable way.</p>
 </div>
 </details>
 </div>
