@@ -130,13 +130,19 @@ Raya song, bringing the event to a memorable close.
 </div>
 <p><strong>Mother Tongue Language Fortnight</strong>
 <br>The Mother Tongue Language Fortnight provided our pupils with meaningful
-opportunities to celebrate their language and cultural heritage.
-<br>Over the two-week period, pupils engaged in a range of enriching activities
+opportunities to celebrate their language and cultural heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL_FortNight_1.jpg">
+</div>
+<p>Over the two-week period, pupils engaged in a range of enriching activities
 that brought the beauty of their Mother Tongue cultures to life.
 <br>These included hands-on experiences such as Batik Painting, Ketupat Weaving,
 Rangoli Designs, Clay Lamp Painting, Opera Mask Painting, and Peranakan
-Tile Design.
-<br>Through these interactive sessions, pupils explored traditional art forms
+Tile Design.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL_FortNight_2.jpg">
+</div>
+<p>Through these interactive sessions, pupils explored traditional art forms
 while deepening their appreciation for their linguistic and cultural roots.
 <br>It was heartening to witness our pupils participating with enthusiasm
 and pride as they connected with their heritage in memorable and meaningful
