@@ -157,12 +157,18 @@ ways.
 <br><strong>Primary 4 Cultural Camp</strong>
 <br>Our Primary 4 Cultural Camp provided pupils with a meaningful cross-cultural
 learning experience, deepening their appreciation for Singapore’s rich
-multicultural heritage.
-<br>Through engaging activities, pupils explored various cultural traditions
+multicultural heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MT_Cultural_Camp_2.jpg">
+</div>
+<p>Through engaging activities, pupils explored various cultural traditions
 in an authentic and enjoyable way. They experienced elements of Chinese
 culture through Wushu, expressed themselves through Indian Dance, and gained
-insight into Malay culture by learning Silat.
-<br>These activities not only enriched their understanding of traditional
+insight into Malay culture by learning Silat.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MT_Cultural_Camp_3.jpg">
+</div>
+<p>These activities not only enriched their understanding of traditional
 art forms but also fostered respect and appreciation for the diverse cultures
 that shape our nation.</p>
 </div>
