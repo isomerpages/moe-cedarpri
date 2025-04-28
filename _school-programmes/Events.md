@@ -129,18 +129,30 @@ Raya song, bringing the event to a memorable close.
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Hari_Raya_4.jpg">
 </div>
 <p><strong>Mother Tongue Language Fortnight</strong>
-<br>The Mother Tongue Language Fortnight aims to immerse our pupils in meaningful
-experiences that celebrate their language and cultural heritage.
-<br>Over two weeks, pupils took part in a variety of engaging activities that
-brought the richness of their Mother Tongue cultures to life.
-<br>These included hands-on crafts such as Batik Painting, Rangoli Designs
-and Kite Painting, as well as experiences such as Wushu, Silat and Indian
-Dance.
-<br>Through these creative and interactive sessions, our pupils not only discovered
-traditional art forms but also developed a deeper appreciation for their
-linguistic and cultural roots.
-<br>It was heartening to see our pupils participate with enthusiasm and pride
-as they connected with their heritage in a memorable way.</p>
+<br>The Mother Tongue Language Fortnight provided our pupils with meaningful
+opportunities to celebrate their language and cultural heritage.
+<br>Over the two-week period, pupils engaged in a range of enriching activities
+that brought the beauty of their Mother Tongue cultures to life.
+<br>These included hands-on experiences such as Batik Painting, Ketupat Weaving,
+Rangoli Designs, Clay Lamp Painting, Opera Mask Painting, and Peranakan
+Tile Design.
+<br>Through these interactive sessions, pupils explored traditional art forms
+while deepening their appreciation for their linguistic and cultural roots.
+<br>It was heartening to witness our pupils participating with enthusiasm
+and pride as they connected with their heritage in memorable and meaningful
+ways.
+<br>
+<br><strong>Primary 4 Cultural Camp</strong>
+<br>Our Primary 4 Cultural Camp provided pupils with a meaningful cross-cultural
+learning experience, deepening their appreciation for Singapore’s rich
+multicultural heritage.
+<br>Through engaging activities, pupils explored various cultural traditions
+in an authentic and enjoyable way. They experienced elements of Chinese
+culture through Wushu, expressed themselves through Indian Dance, and gained
+insight into Malay culture by learning Silat.
+<br>These activities not only enriched their understanding of traditional
+art forms but also fostered respect and appreciation for the diverse cultures
+that shape our nation.</p>
 </div>
 </details>
 </div>
