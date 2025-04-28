@@ -142,6 +142,12 @@ Tile Design.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL_FortNight_2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL_FortNight_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL_FortNight_3.jpg">
+</div>
 <p>Through these interactive sessions, pupils explored traditional art forms
 while deepening their appreciation for their linguistic and cultural roots.
 <br>It was heartening to witness our pupils participating with enthusiasm
