@@ -35,7 +35,7 @@ approach is used in developing our students holistically.</p>
 Adults model firmness by respecting themselves and the needs of the situation,
 and kindness by respecting the needs of the child.</p>
 <p><strong>Belonging and significance</strong> - Helps children feel a <strong><em>sense of connection</em></strong> to
-the school through <strong><em>Positive TSR, Positive PSR and caring and enabling school environment</em></strong>,
+the school through <strong><em>Positive TSR, Positive PSR and a caring and enabling school environment</em></strong>,
 thus allowing the students to feel safe and respected at the same time.</p>
 <p><strong>Teaches valuable social and life skills</strong> – Students develop
 good characters and <strong><em>learn all valuable skills</em></strong> that
