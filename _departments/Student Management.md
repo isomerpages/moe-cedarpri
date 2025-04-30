@@ -27,13 +27,21 @@ children and adults.
 a whole-school, multi-pronged approach by collaborating and communicating
 with staff, families, partners and external agencies to ensure that a consistent
 approach is used in developing our students holistically.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SMD_1.jpg">
+</div>
+<p><strong>Kind and firm</strong> - Is <strong><em>mutually respectful and encouraging</em></strong>.
+Adults model firmness by respecting themselves and the needs of the situation,
+and kindness by respecting the needs of the child.</p>
+<p><strong>Belonging and significance</strong> - Helps children feel a <strong><em>sense of connection</em></strong> to
+the school through <strong><em>Positive TSR, Positive PSR and caring and enabling school environment</em></strong>,
+thus allowing the students to feel safe and respected at the same time.</p>
+<p><strong>Teaches valuable social and life skills</strong> – Students develop
+good characters and <strong><em>learn all valuable skills</em></strong> that
+benefit them for the years to come.</p>
+<p><strong>Student Empowerment </strong>- <strong><em>Invites children to discover how capable they are</em></strong>,
+and use their <strong><em>power </em></strong>in <strong><em>constructive </em></strong>ways
+and <strong><em>make good decisions</em></strong>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,17 +103,4 @@ relationships.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>II.&nbsp;&nbsp;&nbsp;&nbsp;STUDENT LEADERSHIP DEVELOPMENT PROGRAMME</strong>
-</p>
-<p>The Student Leadership Programme aims to develop students with leadership
-capabilities and the desire to contribute to the community.</p>
-<p>The school conceptualised a three-level approach to cater to the developmental
-needs of all students with differing leadership abilities and potential.
-This 3-level approach aims to provide more intentional leadership opportunities
-to all students based on the rationale of grooming leaders to first have
-competent self-management skills, then create an impact in their classrooms,
-the school and finally the community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3-Level%20Approach%20in%20Leadership%20Development.png">
-</div>
 <p></p>
