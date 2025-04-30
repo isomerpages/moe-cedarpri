@@ -16,13 +16,14 @@ character.
 teacher. Discipline is an educational process of developing students’ thinking
 and moral faculties, as aligned with our school rules and school values
 of Kindness, Integrity, Resilience, Responsibility and Creativity. We adopt
-Positive Discipline as a model to focus on changing the belief behind the
-behaviour rather than focusing only on the behaviour.
-<br>Positive Discipline is a programme developed by Dr. Jane Nelsen to teach
-young people to become responsible, respectful and resourceful members
-of their communities. Positive Discipline teaches important social and
-life skills in a manner that is deeply respectful and encouraging for both
-children and adults.
+<br>
+<br>Positive Discipline as a model to focus on changing the belief behind
+the behaviour rather than focusing only on the behaviour. Positive Discipline
+is a programme developed by Dr. Jane Nelsen to teach young people to become
+responsible, respectful and resourceful members of their communities. Positive
+Discipline teaches important social and life skills in a manner that is
+deeply respectful and encouraging for both children and adults.
+<br>
 <br>As the saying goes, “It takes a village to raise a child”. Hence, we adopts
 a whole-school, multi-pronged approach by collaborating and communicating
 with staff, families, partners and external agencies to ensure that a consistent
