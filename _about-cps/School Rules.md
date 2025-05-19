@@ -1,7 +1,8 @@
 ---
 title: School Rules
-permalink: /about-cps/school-rules-and-regulations
+permalink: /about-cps/school-rules-and-regulations/
 description: ""
+variant: markdown
 ---
 # **School Rules and Regulations**
 
@@ -11,9 +12,8 @@ Students are expected to conduct themselves in a manner which upholds the good n
 
 **National Anthem and Pledge**
 
-*   Students who are Singapore Citizens must sing the National Anthem and take the pledge.
-*   Students will take the pledge with their right fists placed over their hearts.
-*   All students must stand and stand at attention during the flag-raising and pledge-taking ceremony.
+*   Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with their right fist placed over their heart.
+*   All students must stand and stand at attention during the flag-raising and pledge-taking ceremony. 
 
 
 **Attendance and Punctuality**
@@ -29,7 +29,7 @@ Students are expected to conduct themselves in a manner which upholds the good n
 
 *   Students are not allowed to have in their possession any form of weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 *   Students should not bring items, including toys and games, which may disrupt or distract them from their lessons in school.
-*   Students are not allowed to bring mobile devices to school.
+*   Students are not allowed to bring mobile devices including smart phones and smart watches to school.
 *   These restrictions apply to Learning Journeys, CCAs and any school events, unless permission has been granted by the school.
 *   Students who are found with the prohibited items will have the items confiscated. Confiscated items can only be collected by the students’ parents/guardians.
 
@@ -60,7 +60,7 @@ Students are expected to be neatly attired at all times.
 
 *   The length of fringe / bangs must not go beyond the eyebrows.
 *   Girls with long hair are expected to have their hair tied or plaited into one or two plaits.
-*   Only black hair accessories (e.g. hair band, hair pins / clips) are allowed.
+*   Only black and navy blue hair accessories (e.g. hair band, hair pins/ clips) are allowed.
 *   Multiple piercings are strictly forbidden, and the piercing can only be on the earlobe.
 *   A matching pair of small, plain studs or transparent ear sticks may be worn.
 *   The length of school skirts should cover the knees.
