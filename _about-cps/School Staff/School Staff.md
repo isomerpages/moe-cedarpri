@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Jen</p>
+<p>Ms Pauline Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
