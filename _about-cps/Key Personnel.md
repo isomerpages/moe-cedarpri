@@ -376,10 +376,10 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Jen</p>
+<p>Ms Pauline Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jen_amy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:ng_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
