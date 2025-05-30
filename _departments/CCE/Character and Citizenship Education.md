@@ -54,6 +54,23 @@ out during CCE (FTGP) &nbsp;and more information can be found in the link
 below:
 <br><a href="https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/" rel="noopener noreferrer nofollow" target="_blank">https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/</a>
 </p>
+<p><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mental Health</strong>
+<br>Mental Health is taught explicitly&nbsp; in CCE &nbsp;Topics like:
+<br>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening resilience and well-being
+(e.g. having a growth mindset, positive self-talk)
+<br>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiating between stress and distress(e.g.
+managing stress)
+<br>iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhancing help-seeking behaviour (infused
+into various lessons)
+<br>iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Showing care and empathy to others (e.g.
+caring for family, friends, the community)</p>
+<p>&nbsp;</p>
+<p>In Cedar Primary, we use a strength-based approach of ‘I Am, I Can, I
+Have’ that students can refer to when they are going through challenges.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
