@@ -3,121 +3,178 @@ title: Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
-# **Character and Citizenship Education**
-
-### Vision and Mission
-
-To instil values and build the character of Cedarians, engaging them in their heads, hearts and hands so that they can be active contributors to society.
-
-
-### Curriculum and Programmes
-
-#### I. CHARACTER EDUCATION
-
-Values are taught to our students through various platforms:
-
-* The explicit teaching of values during Character and Citizenship Education Mother Tongue (CCE MT) Lessons
-* Values-based Story-Telling and Presentations as part of the Assembly Programme
-* Teachable moments
-* School-based CCE lessons (Values Packages)
-* Informal curriculum, for example, Co-Curricular Activities (CCA), Values In Action (VIA) and specific school programmes like learning journeys and camps.  
-
-
-Social Emotional Competencies:
-
-Skills, knowledge and dispositions that enable students to
-
-*   Manage self and relationships effectively
-*   Make responsible decisions
-
-![](/images/CCE2.png)
-Diagram:&nbsp; MOE 21st&nbsp;Century Competencies
-
-
-**Social Emotional Learning**
-
-In Cedar Primary School, we look into taking care of the holistic development of our students. Social and Emotional Learning (SEL) is one of the key strategies for holistic development as we seek to build competencies in our students to develop them into well-rounded individuals.
-
-This is carried out through specific curriculum for SEL: Form Teacher Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education &amp; Career Guidance, and Cyber Wellness.
-
-
-**a)** **Form Teacher Guidance Period (FTGP)**
-
-Form Teacher Guidance Period (FTGP) provides quality interaction time between form teachers and students, and equip students with social and emotional competencies.
-
-The FTGP concept is illustrated as below:
-
-![](/images/CCE3.png)
-
-**b) Education &amp; Career Guidance**
-
-Education &amp; Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations 
-
-Click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) for link to MOE’s ECG page.
-
-**c) &nbsp;Cyber Wellness**  
-
-Click&nbsp;[here](https://staging.d3n03330uml670.amplifyapp.com/departments/ict)&nbsp;for link to ICT department’s page on Cyber Wellness.
-
-
-#### II. CITIZENSHIP EDUCATION
-
-As we focus on building up the character of our Cedarians, we also look at cultivating responsible citizens that will contribute back to society and make a difference, whether they are in school or out in the community.
-
-Various key programmes like CCE lessons, Values in Action (VIA), National Education, Social Studies and Environmental Awareness have been put in place to engage the heads, hearts and hands of the students.
-
-With the NE Review 2017, National Education in Singapore is now anchored on the following citizenship dispositions, which will enable our youth to realise their part in the flourishing of their community and nation:
-
-* A Sense of Belonging
-* A Sense of Reality
-* A Sense of Hope
-* The Will to Act
-
-
-
-
-**a) NE Core Events**
-
-The following are the outcomes of the NE core events:
-
-**Total Defence Day**&nbsp;
-
-Students know the aspects of Total Defence and how they can play a part in each aspect. Even at their age, their participation&nbsp;in Total Defence is important and everyone can (and should) play a part in defending the country.
-
-
-**International Friendship Day**
-
-Students learn about and appreciate other cultures in cosmopolitan Singapore.&nbsp; We nurture in our students the spirit of&nbsp;&nbsp;friendship and collaboration among different peoples. Students are also guided on keeping an open mindset, and expressing an&nbsp;appreciation of the contributions of foreigners working and studying in Singapore.&nbsp;
-
-**Racial Harmony Day**
-
-Students make friends with people of other races and religions. They learn that in Singapore, people are treated equally regardless of their race and religion and students should appreciate the different cultures that make up Singapore.
-
-**National Day**
-
-Students build a greater sense of historical importance. National Day marks our separation from Malaysia, and our emergence as an independent country in the community of nations.
-
-
-**b) Values In Action**
-
-Service to the school, community and nation, leadership roles and responsibilities, CCAs and group work are important platforms that we provide for our students so that they can live out the school values in the process of serving others and working with one another.
-
-**c) Learning Journeys**&nbsp;
-
-As part of the Social Studies curriculum, teachers and students go on field-based learning journeys to extend and enrich their learning.&nbsp;
-
-Field-based learning allows the students to contextualise their learning experience in an authentic real- world setting, thus enabling the relational learning of concepts and content. Students would also be able to conduct hands-on exploration in a focused area of study, thus being engaged in multi-sensory modes.
-
-**Learning Objectives:**
-
-* Singapore is Our Home
-* Building Confidence in our Future
-* Instilling Pride in Singapore's Achievements
-* Developing An Appreciation for the Past and Present
-* Understanding Singapore: Its Constraints, Challenges and Opportunities
-
-**d) Environmental Awareness**
-
-In our effort to teach the students that we all belong to a connected community and to develop them to be responsible citizens, the school has an environmental awareness programme where we commemorate events like Earth Day, Earth Hour, Biodiversity Week and organise termly recycling campaigns where students are encouraged to bring items from home for recycling. We warmly welcome all parents and guardians to join us in this recycling initiative and help cultivate this good habit even
+<h1><strong>Character and Citizenship Education</strong></h1>
+<p><strong>Our Vision</strong>: A resilient and responsible community with
+a heart to care for self and others.
+<br><strong>Our Mission</strong>: To instil values and build the character
+of Cedarians, engaging them in their heads, hearts and hands so that they
+can be active contributors to society.
+<br><strong>Our Approach</strong>: Engaging the Head, Motivating the Heart,
+Involving the Hands</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_1.png">
+</div>
+<h3>The CCE Curriculum Framework</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_2.png">
+</div>
+<h4>I. CHARACTER EDUCATION</h4>
+<p>Values are taught to our students through various platforms:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The explicit teaching of values during Character and Citizenship Education
+Mother Tongue (CCE MT) Lessons</p>
+</li>
+<li>
+<p>Values-based Story-Telling and Presentations as part of the Assembly Programme</p>
+</li>
+<li>
+<p>Teachable moments</p>
+</li>
+<li>
+<p>School-based CCE lessons (Values Packages)</p>
+</li>
+<li>
+<p>Informal curriculum, for example, Co-Curricular Activities (CCA), Values
+In Action (VIA) and specific school programmes like learning journeys and
+camps.</p>
+</li>
+</ul>
+<p>Social Emotional Competencies:</p>
+<p>Skills, knowledge and dispositions that enable students to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Manage self and relationships effectively</p>
+</li>
+<li>
+<p>Make responsible decisions</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2.png">
+</div>
+<p>Diagram:&nbsp; MOE 21st&nbsp;Century Competencies</p>
+<p><strong>Social Emotional Learning</strong>
+</p>
+<p>In Cedar Primary School, we look into taking care of the holistic development
+of our students. Social and Emotional Learning (SEL) is one of the key
+strategies for holistic development as we seek to build competencies in
+our students to develop them into well-rounded individuals.</p>
+<p>This is carried out through specific curriculum for SEL: Form Teacher
+Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education &amp;
+Career Guidance, and Cyber Wellness.</p>
+<p><strong>a)</strong>  <strong>Form Teacher Guidance Period (FTGP)</strong>
+</p>
+<p>Form Teacher Guidance Period (FTGP) provides quality interaction time
+between form teachers and students, and equip students with social and
+emotional competencies.</p>
+<p>The FTGP concept is illustrated as below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE3.png">
+</div>
+<p><strong>b) Education &amp; Career Guidance</strong>
+</p>
+<p>Education &amp; Career Guidance is a developmental process which facilitates
+the acquisition of attitudes, skills and knowledge that will enable students
+to better understand themselves, explore viable education and career options,
+make informed decisions and develop plans to achieve their career aspirations</p>
+<p>Click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+link to MOE’s ECG page.</p>
+<p><strong>c) &nbsp;Cyber Wellness</strong>
+</p>
+<p>Click&nbsp;<a href="https://staging.d3n03330uml670.amplifyapp.com/departments/ict" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+link to ICT department’s page on Cyber Wellness.</p>
+<h4>II. CITIZENSHIP EDUCATION</h4>
+<p>As we focus on building up the character of our Cedarians, we also look
+at cultivating responsible citizens that will contribute back to society
+and make a difference, whether they are in school or out in the community.</p>
+<p>Various key programmes like CCE lessons, Values in Action (VIA), National
+Education, Social Studies and Environmental Awareness have been put in
+place to engage the heads, hearts and hands of the students.</p>
+<p>With the NE Review 2017, National Education in Singapore is now anchored
+on the following citizenship dispositions, which will enable our youth
+to realise their part in the flourishing of their community and nation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Sense of Belonging</p>
+</li>
+<li>
+<p>A Sense of Reality</p>
+</li>
+<li>
+<p>A Sense of Hope</p>
+</li>
+<li>
+<p>The Will to Act</p>
+</li>
+</ul>
+<p><strong>a) NE Core Events</strong>
+</p>
+<p>The following are the outcomes of the NE core events:</p>
+<p><strong>Total Defence Day</strong>&nbsp;</p>
+<p>Students know the aspects of Total Defence and how they can play a part
+in each aspect. Even at their age, their participation&nbsp;in Total Defence
+is important and everyone can (and should) play a part in defending the
+country.</p>
+<p><strong>International Friendship Day</strong>
+</p>
+<p>Students learn about and appreciate other cultures in cosmopolitan Singapore.&nbsp;
+We nurture in our students the spirit of&nbsp;&nbsp;friendship and collaboration
+among different peoples. Students are also guided on keeping an open mindset,
+and expressing an&nbsp;appreciation of the contributions of foreigners
+working and studying in Singapore.&nbsp;</p>
+<p><strong>Racial Harmony Day</strong>
+</p>
+<p>Students make friends with people of other races and religions. They learn
+that in Singapore, people are treated equally regardless of their race
+and religion and students should appreciate the different cultures that
+make up Singapore.</p>
+<p><strong>National Day</strong>
+</p>
+<p>Students build a greater sense of historical importance. National Day
+marks our separation from Malaysia, and our emergence as an independent
+country in the community of nations.</p>
+<p><strong>b) Values In Action</strong>
+</p>
+<p>Service to the school, community and nation, leadership roles and responsibilities,
+CCAs and group work are important platforms that we provide for our students
+so that they can live out the school values in the process of serving others
+and working with one another.</p>
+<p><strong>c) Learning Journeys</strong>&nbsp;</p>
+<p>As part of the Social Studies curriculum, teachers and students go on
+field-based learning journeys to extend and enrich their learning.&nbsp;</p>
+<p>Field-based learning allows the students to contextualise their learning
+experience in an authentic real- world setting, thus enabling the relational
+learning of concepts and content. Students would also be able to conduct
+hands-on exploration in a focused area of study, thus being engaged in
+multi-sensory modes.</p>
+<p><strong>Learning Objectives:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore is Our Home</p>
+</li>
+<li>
+<p>Building Confidence in our Future</p>
+</li>
+<li>
+<p>Instilling Pride in Singapore's Achievements</p>
+</li>
+<li>
+<p>Developing An Appreciation for the Past and Present</p>
+</li>
+<li>
+<p>Understanding Singapore: Its Constraints, Challenges and Opportunities</p>
+</li>
+</ul>
+<p><strong>d) Environmental Awareness</strong>
+</p>
+<p>In our effort to teach the students that we all belong to a connected
+community and to develop them to be responsible citizens, the school has
+an environmental awareness programme where we commemorate events like Earth
+Day, Earth Hour, Biodiversity Week and organise termly recycling campaigns
+where students are encouraged to bring items from home for recycling. We
+warmly welcome all parents and guardians to join us in this recycling initiative
+and help cultivate this good habit even</p>
