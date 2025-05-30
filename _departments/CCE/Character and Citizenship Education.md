@@ -80,25 +80,23 @@ below.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_6.png">
 </div>
 <p><strong>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyberwellness</strong>
-</p>
-<p>Cyberwellness in CCE focuses on the positive and psychological well-being
+<br>Cyberwellness in CCE focuses on the positive and psychological well-being
 of students as they navigate the digital world. It involves an understanding
 of the norms of responsible behaviour regarding technology use as well
 as knowledge, skills, values and attitudes on how to protect oneself and
-other users in the cyber space.</p>
-<p>Cyberwellness lessons are covered during CCE (FTGP) lessons across Primary
-1 to Primary 6 and they&nbsp; include lessons from these five main domains:</p>
-<p>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Use</p>
-<p>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Identity</p>
-<p>iii)&nbsp;&nbsp;&nbsp;&nbsp;Cyber Relationships</p>
-<p>iv)&nbsp;&nbsp;&nbsp;&nbsp;Cyber Citizenship</p>
-<p>v)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Ethics
+other users in the cyber space.
+<br>Cyberwellness lessons are covered during CCE (FTGP) lessons across Primary
+1 to Primary 6 and they&nbsp; include lessons from these five main domains:
+<br>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Use
+<br>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Identity
+<br>iii)&nbsp;&nbsp;&nbsp;&nbsp;Cyber Relationships
+<br>iv)&nbsp;&nbsp;&nbsp;&nbsp;Cyber Citizenship
+<br>v)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Ethics
 <br>More information on Cedar Primary’s Cyberwellness programme can be found
 here: <a href="https://www.cedarpri.moe.edu.sg/departments/ict/" rel="noopener noreferrer nofollow" target="_blank">https://www.cedarpri.moe.edu.sg/departments/ict/</a>
-</p>
-<p><strong>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Family Education</strong>
-</p>
-<p>Family education in CCE focuses on the teaching and learning of skills
+<br>
+<br><strong>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Family Education</strong>
+<br>Family education in CCE focuses on the teaching and learning of skills
 to strengthen relationships. Topics are differentiated across the different
 levels. In the lower primary, topics include positive relationships at
 home. In the middle primary, the students learn about the importance of
