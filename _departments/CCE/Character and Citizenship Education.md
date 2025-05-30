@@ -20,6 +20,32 @@ Involving the Hands</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_2.png">
 </div>
+<p>The CCE 2021 Curriculum Frame spells out the three key elements of CCE.
+They are :</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>CCE Curriculum Content</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Enactment of CCE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Enabling School Environment</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Caring and Enabling School Environment</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4>I. CHARACTER EDUCATION</h4>
 <p>Values are taught to our students through various platforms:</p>
 <ul data-tight="true" class="tight">
