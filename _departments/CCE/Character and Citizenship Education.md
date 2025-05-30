@@ -43,7 +43,17 @@ to provide for hands-on learning opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_4.png">
 </div>
-<p></p>
+<p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education</strong>
+<br>Sexuality Education in schools is about enabling students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships including those with
+members of the opposite sex, and&nbsp; make wise, informed, and responsible
+decisions on sexuality matters.
+<br>The Sexuality Education lessons are for Primary 5 and 6 students are carried
+out during CCE (FTGP) &nbsp;and more information can be found in the link
+below:
+<br><a href="https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/" rel="noopener noreferrer nofollow" target="_blank">https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
