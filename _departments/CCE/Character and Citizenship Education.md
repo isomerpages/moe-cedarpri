@@ -152,8 +152,7 @@ and how they can continue to contribute meaningfully.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_10.png">
 </div>
-<p>
-<br><strong>Cohort Learning Journeys</strong>
+<p><strong>Cohort Learning Journeys</strong>
 <br>Cohort LJs provide Primary 4 to 6 students with opportunities to take
 part in common experiences:
 <br>1) Primary 4 Museum Based Learning (MBL) (Art) at the National Gallery
@@ -166,7 +165,6 @@ the ethnic communities:
 <br>b) Primary 4 students to visit &nbsp;Kreta Ayer Heritage Gallery
 <br>c) Primary 5 students to visit Indian Heritage Centre (from 2022)
 <br>d) Primary 6 students to visit the Asian Civilisations Museum.
-<br>
 <br>3) The Primary 5 NE Show is a preview of the National Day Parade. Through
 this Cohort LJ, students learn to appreciate the significance of National
 Day.
