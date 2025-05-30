@@ -26,7 +26,7 @@ They are :</p>
 <details class="isomer-details">
 <summary>CCE Curriculum Content</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education &nbsp;(NE)</strong>
+<p><strong>a)   National Education &nbsp;(NE)</strong>
 <br>NE provides opportunities for our students to explore and examine their
 identity as Singaporeans and arrive at a common set of ideals and values.
 The following table shows the key dispositions for citizenship in Singapore
@@ -43,7 +43,7 @@ to provide for hands-on learning opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_4.png">
 </div>
-<p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education</strong>
+<p><strong>b)   Sexuality Education</strong>
 <br>Sexuality Education in schools is about enabling students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships including those with
@@ -54,7 +54,7 @@ out during CCE (FTGP) &nbsp;and more information can be found in the link
 below:
 <br><a href="https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/" rel="noopener noreferrer nofollow" target="_blank">https://www.cedarpri.moe.edu.sg/for-parents/sexuality-education-programme/</a>
 </p>
-<p><strong>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mental Health</strong>
+<p><strong>c)   Mental Health</strong>
 <br>Mental Health is taught explicitly&nbsp; in CCE &nbsp;Topics like:
 <br>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening resilience and well-being
 (e.g. having a growth mindset, positive self-talk)
@@ -69,7 +69,7 @@ Have’ that students can refer to when they are going through challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_5.png">
 </div>
-<p><strong>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education and Career Guidance (ECG)</strong>
+<p><strong>d)   Education and Career Guidance (ECG)</strong>
 <br>ECG enables students to develop a sense of purpose in life.&nbsp; By nurturing
 self-awareness and self-directedness for lifelong learning,&nbsp; ECG helps
 students to develop a growth mindset, adaptability&nbsp; and a resilient
@@ -79,7 +79,7 @@ below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_6.png">
 </div>
-<p><strong>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyberwellness</strong>
+<p><strong>e)   Cyberwellness</strong>
 <br>Cyberwellness in CCE focuses on the positive and psychological well-being
 of students as they navigate the digital world. It involves an understanding
 of the norms of responsible behaviour regarding technology use as well
@@ -95,7 +95,7 @@ other users in the cyber space.
 <br>More information on Cedar Primary’s Cyberwellness programme can be found
 here: <a href="https://www.cedarpri.moe.edu.sg/departments/ict/" rel="noopener noreferrer nofollow" target="_blank">https://www.cedarpri.moe.edu.sg/departments/ict/</a>
 <br>
-<br><strong>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Family Education</strong>
+<br><strong>f)   Family Education</strong>
 <br>Family education in CCE focuses on the teaching and learning of skills
 to strengthen relationships. Topics are differentiated across the different
 levels. In the lower primary, topics include positive relationships at
@@ -108,7 +108,7 @@ families and in the upper primary, they learn about family roles and functions.<
 <details class="isomer-details">
 <summary>Enactment of CCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>a) CCE Lessons</strong>
+<p><strong>a)   CCE Lessons</strong>
 <br>Classroom lessons for CCE provide dedicated curriculum time for the explicit
 teaching and learning of values and social emotional competencies, as well
 as engaging and&nbsp; building&nbsp; relationships with our students. CCE
@@ -130,7 +130,7 @@ Studies curriculum&nbsp; are shown in the picture below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_8.png">
 </div>
-<p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Key Student Development Experiences</strong>
+<p><strong>b)   Key Student Development Experiences</strong>
 <br>Student development experiences are programmes and activities that contribute
 towards the holistic development of our students in physical, aesthetic,
 intellectual, moral and social domains.
