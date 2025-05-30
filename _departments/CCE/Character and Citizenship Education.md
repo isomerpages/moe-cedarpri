@@ -108,11 +108,76 @@ families and in the upper primary, they learn about family roles and functions.<
 <details class="isomer-details">
 <summary>Enactment of CCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Enabling School Environment</p>
+<p><strong>a) CCE Lessons</strong>
+<br>Classroom lessons for CCE provide dedicated curriculum time for the explicit
+teaching and learning of values and social emotional competencies, as well
+as engaging and&nbsp; building&nbsp; relationships with our students. CCE
+lessons in primary schools comprise of the following:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_7.png">
+</div>
+<p>CCE (Form Teacher Guidance Period), CCE (Mother Tongue Language) and PAL(
+Programme for Active Learning). These lessons have been planned and developed
+in alignment with CCE Learning Outcomes with different contexts applied
+in each lesson. This facilitates deeper learning and students’ application
+of the knowledge and skills in various situations.
+<br>The Social Studies curriculum complements the CCE curriculum in nurturing
+citizenship dispositions. Through Social Studies lessons, students deepen
+and broaden their understanding of what it means to be a citizen of a country
+and the world by learning key concepts and skills drawn from Humanities
+subjects like Geography, History and Sociology. The goals of the Social
+Studies curriculum&nbsp; are shown in the picture below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_8.png">
+</div>
+<p><strong>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Key Student Development Experiences</strong>
+<br>Student development experiences are programmes and activities that contribute
+towards the holistic development of our students in physical, aesthetic,
+intellectual, moral and social domains.
+<br>
+<br><strong>Values in Action (VIA)</strong>
+<br>In Cedar Primary, the objectives of our VIA&nbsp; initiatives are as follows:
+<br>·&nbsp; To nurture Cedarians to be socially responsible citizens who contribute
+meaningfully to the community, through the learning and application of
+values, knowledge and skills.
+<br>·&nbsp; To engender student ownership and initiative.
+<br>·&nbsp; To reflect on experience, the values Cedarians have put into practice,
+and how they can continue to contribute meaningfully.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_10.png">
+</div>
+<p>
+<br><strong>Cohort Learning Journeys</strong>
+<br>Cohort LJs provide Primary 4 to 6 students with opportunities to take
+part in common experiences:
+<br>1) Primary 4 Museum Based Learning (MBL) (Art) at the National Gallery
+Singapore
+<br>2) MBL (CCE and Social Studies field-based learning) at various museums
+and heritage institutions allow students to understand the history and
+heritage of Singapore and the region and appreciate the contributions by
+the ethnic communities:
+<br>a) Primary 3 students to visit Geylang Serai Heritage Gallery
+<br>b) Primary 4 students to visit &nbsp;Kreta Ayer Heritage Gallery
+<br>c) Primary 5 students to visit Indian Heritage Centre (from 2022)
+<br>d) Primary 6 students to visit the Asian Civilisations Museum.
+<br>
+<br>3) The Primary 5 NE Show is a preview of the National Day Parade. Through
+this Cohort LJ, students learn to appreciate the significance of National
+Day.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_11.png">
+</div>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Caring and Enabling School Environment</summary>
