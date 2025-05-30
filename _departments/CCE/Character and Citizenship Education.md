@@ -63,13 +63,22 @@ managing stress)
 <br>iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhancing help-seeking behaviour (infused
 into various lessons)
 <br>iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Showing care and empathy to others (e.g.
-caring for family, friends, the community)</p>
-<p>&nbsp;</p>
-<p>In Cedar Primary, we use a strength-based approach of ‘I Am, I Can, I
+caring for family, friends, the community)
+<br>In Cedar Primary, we use a strength-based approach of ‘I Am, I Can, I
 Have’ that students can refer to when they are going through challenges.</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_5.png">
+</div>
+<p><strong>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education and Career Guidance (ECG)</strong>
+<br>ECG enables students to develop a sense of purpose in life.&nbsp; By nurturing
+self-awareness and self-directedness for lifelong learning,&nbsp; ECG helps
+students to develop a growth mindset, adaptability&nbsp; and a resilient
+attitude&nbsp; to embrace future opportunities and appreciate the value
+of all occupations.&nbsp; The goals of ECG are captured in the picture
+below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_6.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
