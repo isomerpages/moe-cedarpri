@@ -180,7 +180,25 @@ Day.
 <details class="isomer-details">
 <summary>Caring and Enabling School Environment</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The quality of the learning environment shapes how students perceive and
+experience CCE Lessons and Student Development Experiences. A caring and
+enabling school environment for learning is one where students perceive
+that both teachers and peers care about their well-being and learning,
+and students show care and support to one another.
+<br>A caring and enabling school environment for learning enables students
+to:
+<br>• develop a growth mindset and self-discipline.
+<br>• learn to overcome challenges.
+<br>• sense make
+<br>• take ownership of their class and school community; and
+<br>• be motivated and empowered to master the CCE Learning Outcomes.
+<br>Teachers can provide a caring and enabling learning environment by nurturing
+a sense of belonging, guiding students to appreciate diversity, empowering
+them to be active learners and monitoring and supporting their well-being
+proactively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_12.png">
+</div>
 </div>
 </details>
 </div>
