@@ -26,6 +26,26 @@ They are :</p>
 <details class="isomer-details">
 <summary>CCE Curriculum Content</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education &nbsp;(NE)</strong>
+<br>NE provides opportunities for our students to explore and examine their
+identity as Singaporeans and arrive at a common set of ideals and values.
+The following table shows the key dispositions for citizenship in Singapore
+which shapes the purpose and approach to NE:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE_3.png">
+</div>
+<p>In Cedar Primary, we commemorate the 4 NE Events- Total Defence Day, International
+Friendship Day, Racial Harmony Day and National Day. For each of these
+events, we use the Head, Heart and Hands approach to create meaningful
+experiences for our students. Lessons are taught explicitly in class during
+the CCE (FTGP) lessons and exciting activities are organised during recess
+to provide for hands-on learning opportunities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_4.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
@@ -38,6 +58,7 @@ They are :</p>
 </div>
 </details>
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Caring and Enabling School Environment</summary>
