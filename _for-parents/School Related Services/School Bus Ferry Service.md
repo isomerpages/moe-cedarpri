@@ -16,6 +16,6 @@ via SMS.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 School Bus Services" src="/images/School_Bus_Services___QR_Code.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="School Bus Fares" src="/images/CPS2025BusFares.png">
 </div>
 <p></p>
