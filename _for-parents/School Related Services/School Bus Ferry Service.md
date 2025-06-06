@@ -13,10 +13,8 @@ via SMS.</p>
 <p>Office: 62820262</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">cedarpri@sfxtransport.com.sg</a>
 </p>
-<p>To register your interest for school bus service for 2025, please scan
-the QR code below and register by <u>30 November 2024</u>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 School Bus Services" src="/images/School_Bus_Services___QR_Code.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="School Bus Fares" src="/images/CPS2025BusFares.png">
 </div>
 <p></p>
