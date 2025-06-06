@@ -1,6 +1,0 @@
-collections:
-  accomplishments:
-    output: true
-    order:
-      - Student.md
-      - Staff.md
