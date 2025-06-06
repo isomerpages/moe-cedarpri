@@ -14,7 +14,6 @@ via SMS.</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">cedarpri@sfxtransport.com.sg</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="School Bus Fares" src="/images/CPS2025BusFares.png">
 </div>
