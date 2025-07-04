@@ -255,10 +255,10 @@ variant: tiptap
 <p>P4-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tarshini Krishna</p>
+<p>Mdm Pakkiam Etti Goundan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tarshini_krishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:pakkiam_etti_goundan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
