@@ -363,6 +363,18 @@ variant: tiptap
 <p>P4-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Snow Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:snow_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Shing Qin</p>
 </td>
 <td rowspan="1" colspan="1">
