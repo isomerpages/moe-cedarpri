@@ -114,10 +114,10 @@ variant: tiptap
 <p>P3-Responsiblity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Lee</p>
+<p>Mdm Quek Ee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_tze_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:quek_ee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
