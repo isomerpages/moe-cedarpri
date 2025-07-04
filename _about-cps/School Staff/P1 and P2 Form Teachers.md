@@ -395,6 +395,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P2-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Esther Chuah Szu Khia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chuah_szu_khia_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P2-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
