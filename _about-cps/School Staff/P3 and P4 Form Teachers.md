@@ -114,10 +114,10 @@ variant: tiptap
 <p>P3-Responsiblity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Louis Lee</p>
+<p>Mdm Quek Ee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_tze_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:quek_ee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -255,10 +255,10 @@ variant: tiptap
 <p>P4-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tarshini Krishna</p>
+<p>Mdm Pakkiam Etti Goundan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tarshini_krishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:pakkiam_etti_goundan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -363,6 +363,18 @@ variant: tiptap
 <p>P4-Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Snow Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:snow_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Shing Qin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -375,10 +387,10 @@ variant: tiptap
 <p>P4-Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Naziha Mahmod</p>
+<p>Nurain Bte Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naziha_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:nurain_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>

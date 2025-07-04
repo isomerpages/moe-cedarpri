@@ -90,10 +90,21 @@ variant: tiptap
 <p>P1-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angela Chow</p>
+<p>Mdm Dhilshaadh Balajee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angela_chow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1-Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Dai Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_dai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -264,18 +275,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2-Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yeo Dai Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_dai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P2-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -391,6 +390,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hua_qiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2-Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Esther Chuah Szu Khia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chuah_szu_khia_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
