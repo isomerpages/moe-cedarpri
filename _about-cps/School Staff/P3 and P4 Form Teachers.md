@@ -390,7 +390,7 @@ variant: tiptap
 <p>Nurain Bte Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naziha_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:nurain_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
