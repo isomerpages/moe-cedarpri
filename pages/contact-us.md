@@ -6,7 +6,7 @@ agency_name: Cedar Primary School
 locations:
   - address:
       - 15 Cedar Avenue
-      - Cedar Avenue
+      - ""
       - Singapore 349700
     operating_hours: []
     maps_link: https://goo.gl/maps/k77KxrXFDtMiDJot8
@@ -27,4 +27,5 @@ contacts:
       - email: cedar_ps@moe.edu.sg
       - other: ""
     title: "Email:"
+feedback: ""
 ---
