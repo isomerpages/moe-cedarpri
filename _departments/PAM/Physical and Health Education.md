@@ -1,8 +1,9 @@
 ---
 title: Physical and Health Education
-permalink: /departments/pam/physical-and-health-education
+permalink: /departments/pam/physical-and-health-education/
 description: ""
 third_nav_title: PAM
+variant: markdown
 ---
 # **Physical and Health Education**
 
@@ -25,7 +26,7 @@ Physical Education (PE) is about movement. Movement is fundamental and essential
 
 In PE, students are exposed to learning areas such as
 
-*   Athletics (from Primary 3)
+*   Athletics (from Primary 4)
 *   Dance
 *   Games and Sports
 *   Gymnastics
