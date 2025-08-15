@@ -384,9 +384,7 @@ full potential as an active contributor to society.</p>
 <h3>CCA Days and Timing</h3>
 <p>Allocated CCA Days: Mondays, Tuesdays and Thursday*</p>
 <p>CCA Timing: 3.30pm – 5.30pm*</p>
-<p>Note: *CCA days and timings are subjected to changes. For students taking
-school bus, school bus service is provided after CCA. Please approach the
-bus vendor directly for further arrangement.</p>
+<p>Note: *CCA days and timings are subjected to changes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Timing_2025.png">
