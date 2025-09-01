@@ -219,9 +219,13 @@ of "Four Houses, One Cedar!"</p>
 at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
 2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
 challenged students to step out of their comfort zones and grow in multiple
-ways.
-<br>
-</p>
+ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+</div>
 <p>Throughout their time at the camp, students learned valuable life skills
 such as resilience in facing challenges, teamwork, and empathy - essential
 qualities that will serve them well beyond their primary school years.
