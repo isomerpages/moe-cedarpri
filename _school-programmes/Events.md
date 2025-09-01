@@ -182,11 +182,11 @@ Four to Six students engaged in modified games across the school grounds.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_2.jpg">
 </div>
 <p>
 <br>House Masters led their teams with enthusiasm, supported by active Parent
@@ -195,7 +195,7 @@ house cheers.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
 </div>
 <p>
 <br>
