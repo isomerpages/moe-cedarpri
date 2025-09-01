@@ -197,22 +197,16 @@ house cheers.
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_5.jpg">
 </div>
-<p>
-<br>The carnival highlighted remarkable displays of sportsmanship, resilience
+<p>The carnival highlighted remarkable displays of sportsmanship, resilience
 and school spirit, with students and teachers alike striving for excellence.
 <br>Post-event reflections captured the day's impact, with participants expressing
 excitement and determination for future events. The carnival successfully
 strengthened the school's collective identity, truly embodying the spirit
-of "Four Houses, One Cedar!"
-<br>
-<br>
-</p>
+of "Four Houses, One Cedar!"</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_4.jpg">
 </div>
