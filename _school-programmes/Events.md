@@ -213,7 +213,24 @@ of "Four Houses, One Cedar!"</p>
 <details class="isomer-details">
 <summary>Term 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
+<p><strong>NE Show</strong>
+<br>The Primary 5 NE Show is an important part of Singapore’s National Education
+Programme. On 5 July 2025, our Primary 5 students were given the opportunity
+to observe the National Day Parade (NDP) rehearsal at the Padang. This
+unique experience aims to deepen their understanding of Singapore's history,
+culture, and values.
+<br>2025 marks Singapore’s 60th year of independence — a milestone to honour
+our journey, unite in celebration, and build our shared future together.
+As we mark 60 years of independence, this year’s theme “Majulah Singapura”
+invites us to reflect on the road we’ve walked as one people, and to look
+ahead with hope, courage, and unity. It reminds us that our strength lies
+not only in how far we’ve come, but in the trust, inclusivity, and shared
+values that continue to guide us forward.
+<br>The NE Show isn't just about celebration – it's about preparing our future
+generation to embrace their role as responsible citizens. We hope that
+our students will develop a commitment towards Singapore and understand
+the importance of unity, resilience, and progress in ensuring Singapore’s
+continued success.
 <br><strong>P5 Camp X<sup>3</sup></strong>
 <br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
 at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
@@ -221,16 +238,16 @@ at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
 challenged students to step out of their comfort zones and grow in multiple
 ways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
 </div>
 <p>Throughout their time at the camp, students learned valuable life skills
 such as resilience in facing challenges, teamwork, and empathy - essential
 qualities that will serve them well beyond their primary school years.
 The camp encouraged them to consider different perspectives when making
 decisions and forming opinions, fostering a more inclusive mindset.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+</div>
 <p>The action-packed schedule included thrilling activities such as rock
 wall climbing and abseiling, which tested their courage and determination.
 <br>Students also participated in team-building exercises and low-element
