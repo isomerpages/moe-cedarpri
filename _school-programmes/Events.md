@@ -170,9 +170,102 @@ insight into Malay culture by learning Silat.</p>
 </div>
 <p>These activities not only enriched their understanding of traditional
 art forms but also fostered respect and appreciation for the diverse cultures
-that shape our nation.</p>
+that shape our nation.
+<br>
+<br><strong>Sports Carnival 2025</strong>
+<br>Cedar Primary School's Sports Carnival on 28 May 2025 brought the school
+community together for a day of sporting excellence and camaraderie.
+<br>The event featured diverse activities across all levels: MOE Kindergarten,
+Primary One and Two students participated in classroom-based mini-games,
+Primary Three pupils showcased their skills in relay events, whilst Primary
+Four to Six students engaged in modified games across the school grounds.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_2.jpg">
+</div>
+<p>House Masters led their teams with enthusiasm, supported by active Parent
+Support Group members who managed game stations and joined in the spirited
+house cheers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_5.jpg">
+</div>
+<p>The carnival highlighted remarkable displays of sportsmanship, resilience
+and school spirit, with students and teachers alike striving for excellence.
+<br>Post-event reflections captured the day's impact, with participants expressing
+excitement and determination for future events. The carnival successfully
+strengthened the school's collective identity, truly embodying the spirit
+of "Four Houses, One Cedar!"</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_7.jpg">
+</div>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>NE Show</strong>
+<br>The Primary 5 NE Show is an important part of Singapore’s National Education
+Programme. On 5 July 2025, our Primary 5 students were given the opportunity
+to observe the National Day Parade (NDP) rehearsal at the Padang. This
+unique experience aims to deepen their understanding of Singapore's history,
+culture, and values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_3.jpg">
+</div>
+<p>2025 marks Singapore’s 60th year of independence — a milestone to honour
+our journey, unite in celebration, and build our shared future together.
+As we mark 60 years of independence, this year’s theme “Majulah Singapura”
+invites us to reflect on the road we’ve walked as one people, and to look
+ahead with hope, courage, and unity. It reminds us that our strength lies
+not only in how far we’ve come, but in the trust, inclusivity, and shared
+values that continue to guide us forward.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_2.jpg">
+</div>
+<p>The NE Show isn't just about celebration – it's about preparing our future
+generation to embrace their role as responsible citizens. We hope that
+our students will develop a commitment towards Singapore and understand
+the importance of unity, resilience, and progress in ensuring Singapore’s
+continued success.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_1.jpg">
+</div>
+<p><strong>P5 Camp X<sup>3</sup></strong>
+<br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
+at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
+2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
+challenged students to step out of their comfort zones and grow in multiple
+ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
+</div>
+<p>Throughout their time at the camp, students learned valuable life skills
+such as resilience in facing challenges, teamwork, and empathy - essential
+qualities that will serve them well beyond their primary school years.
+The camp encouraged them to consider different perspectives when making
+decisions and forming opinions, fostering a more inclusive mindset.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+</div>
+<p>The action-packed schedule included thrilling activities such as rock
+wall climbing and abseiling, which tested their courage and determination.
+<br>Students also participated in team-building exercises and low-element
+activities that strengthened their collaborative skills. The journey through
+nature and stream exploration sessions allowed them to appreciate our natural
+environment, while the intimate mini campfire sessions created memorable
+bonding moments.</p>
+</div>
+</details>
+</div>
 <p></p>
