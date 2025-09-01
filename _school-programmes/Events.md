@@ -170,7 +170,24 @@ insight into Malay culture by learning Silat.</p>
 </div>
 <p>These activities not only enriched their understanding of traditional
 art forms but also fostered respect and appreciation for the diverse cultures
-that shape our nation.</p>
+that shape our nation.
+<br>
+<br><strong>Sports Carnival 2025</strong>
+<br>Cedar Primary School's Sports Carnival on 28 May 2025 brought the school
+community together for a day of sporting excellence and camaraderie.
+<br>The event featured diverse activities across all levels: MOE Kindergarten,
+Primary One and Two students participated in classroom-based mini-games,
+Primary Three pupils showcased their skills in relay events, whilst Primary
+Four to Six students engaged in modified games across the school grounds.
+<br>House Masters led their teams with enthusiasm, supported by active Parent
+Support Group members who managed game stations and joined in the spirited
+house cheers. The carnival highlighted remarkable displays of sportsmanship,
+resilience and school spirit, with students and teachers alike striving
+for excellence.
+<br>Post-event reflections captured the day's impact, with participants expressing
+excitement and determination for future events. The carnival successfully
+strengthened the school's collective identity, truly embodying the spirit
+of "Four Houses, One Cedar!"</p>
 </div>
 </details>
 </div>
