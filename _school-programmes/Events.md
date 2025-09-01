@@ -246,7 +246,7 @@ qualities that will serve them well beyond their primary school years.
 The camp encouraged them to consider different perspectives when making
 decisions and forming opinions, fostering a more inclusive mindset.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
 </div>
 <p>The action-packed schedule included thrilling activities such as rock
 wall climbing and abseiling, which tested their courage and determination.
