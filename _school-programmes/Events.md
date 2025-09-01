@@ -213,7 +213,8 @@ of "Four Houses, One Cedar!"</p>
 <details class="isomer-details">
 <summary>Term 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>NE Show</strong>
+<p>
+<br><strong>NE Show</strong>
 <br>The Primary 5 NE Show is an important part of Singapore’s National Education
 Programme. On 5 July 2025, our Primary 5 students were given the opportunity
 to observe the National Day Parade (NDP) rehearsal at the Padang. This
