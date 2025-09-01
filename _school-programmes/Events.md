@@ -191,9 +191,21 @@ Four to Six students engaged in modified games across the school grounds.
 <p>
 <br>House Masters led their teams with enthusiasm, supported by active Parent
 Support Group members who managed game stations and joined in the spirited
-house cheers. The carnival highlighted remarkable displays of sportsmanship,
-resilience and school spirit, with students and teachers alike striving
-for excellence.
+house cheers.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_5.jpg">
+</div>
+<p>
+<br>The carnival highlighted remarkable displays of sportsmanship, resilience
+and school spirit, with students and teachers alike striving for excellence.
 <br>Post-event reflections captured the day's impact, with participants expressing
 excitement and determination for future events. The carnival successfully
 strengthened the school's collective identity, truly embodying the spirit
