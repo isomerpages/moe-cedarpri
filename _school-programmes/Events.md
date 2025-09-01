@@ -218,20 +218,29 @@ of "Four Houses, One Cedar!"</p>
 Programme. On 5 July 2025, our Primary 5 students were given the opportunity
 to observe the National Day Parade (NDP) rehearsal at the Padang. This
 unique experience aims to deepen their understanding of Singapore's history,
-culture, and values.
-<br>2025 marks Singapore’s 60th year of independence — a milestone to honour
+culture, and values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_3.jpg">
+</div>
+<p>2025 marks Singapore’s 60th year of independence — a milestone to honour
 our journey, unite in celebration, and build our shared future together.
 As we mark 60 years of independence, this year’s theme “Majulah Singapura”
 invites us to reflect on the road we’ve walked as one people, and to look
 ahead with hope, courage, and unity. It reminds us that our strength lies
 not only in how far we’ve come, but in the trust, inclusivity, and shared
-values that continue to guide us forward.
-<br>The NE Show isn't just about celebration – it's about preparing our future
+values that continue to guide us forward.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_2.jpg">
+</div>
+<p>The NE Show isn't just about celebration – it's about preparing our future
 generation to embrace their role as responsible citizens. We hope that
 our students will develop a commitment towards Singapore and understand
 the importance of unity, resilience, and progress in ensuring Singapore’s
-continued success.
-<br><strong>P5 Camp X<sup>3</sup></strong>
+continued success.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_1.jpg">
+</div>
+<p><strong>P5 Camp X<sup>3</sup></strong>
 <br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
 at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
 2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
