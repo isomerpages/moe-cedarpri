@@ -209,5 +209,32 @@ of "Four Houses, One Cedar!"</p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>P5 Camp X<sup>3</sup></strong>
+<br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
+at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
+2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
+challenged students to step out of their comfort zones and grow in multiple
+ways.
+<br>
+</p>
+<p>Throughout their time at the camp, students learned valuable life skills
+such as resilience in facing challenges, teamwork, and empathy - essential
+qualities that will serve them well beyond their primary school years.
+The camp encouraged them to consider different perspectives when making
+decisions and forming opinions, fostering a more inclusive mindset.</p>
+<p>The action-packed schedule included thrilling activities such as rock
+wall climbing and abseiling, which tested their courage and determination.
+<br>Students also participated in team-building exercises and low-element
+activities that strengthened their collaborative skills. The journey through
+nature and stream exploration sessions allowed them to appreciate our natural
+environment, while the intimate mini campfire sessions created memorable
+bonding moments.</p>
+</div>
+</details>
+</div>
 <p></p>
