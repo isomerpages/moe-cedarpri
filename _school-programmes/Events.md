@@ -179,6 +179,16 @@ community together for a day of sporting excellence and camaraderie.
 Primary One and Two students participated in classroom-based mini-games,
 Primary Three pupils showcased their skills in relay events, whilst Primary
 Four to Six students engaged in modified games across the school grounds.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD_2.jpg">
+</div>
+<p>
 <br>House Masters led their teams with enthusiasm, supported by active Parent
 Support Group members who managed game stations and joined in the spirited
 house cheers. The carnival highlighted remarkable displays of sportsmanship,
