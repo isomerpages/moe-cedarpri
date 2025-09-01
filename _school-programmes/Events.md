@@ -178,26 +178,19 @@ community together for a day of sporting excellence and camaraderie.
 <br>The event featured diverse activities across all levels: MOE Kindergarten,
 Primary One and Two students participated in classroom-based mini-games,
 Primary Three pupils showcased their skills in relay events, whilst Primary
-Four to Six students engaged in modified games across the school grounds.
-<br>
-</p>
+Four to Six students engaged in modified games across the school grounds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_2.jpg">
 </div>
-<p>
-<br>House Masters led their teams with enthusiasm, supported by active Parent
+<p>House Masters led their teams with enthusiasm, supported by active Parent
 Support Group members who managed game stations and joined in the spirited
-house cheers.
-<br>
-</p>
+house cheers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SD_5.jpg">
 </div>
