@@ -265,6 +265,39 @@ activities that strengthened their collaborative skills. The journey through
 nature and stream exploration sessions allowed them to appreciate our natural
 environment, while the intimate mini campfire sessions created memorable
 bonding moments.</p>
+<p><strong>Racial Harmony Day</strong>
+</p>
+<p>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
+and meaningful activities centered around this year’s theme, <strong>“Our People, Our Tapestry.”</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_1.png">
+</div>
+<p>The celebrations kicked off with a lively music performance featuring
+traditional instruments from Singapore’s four major ethnic groups. Students
+enjoyed a vibrant showcase of melodies and rhythms that celebrated the
+richness of cultural diversity through music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_2.png">
+</div>
+<p>A library exhibition and a mini quiz on musical instruments further deepened
+students’ understanding and appreciation of Singapore’s multicultural heritage.
+They explored the unique instruments associated with each ethnic community.
+Additionally, students took part in a tapestry art activity, where each
+contributed creatively by colouring or decorating a square panel representing
+one of the ethnic groups. These individual panels were then assembled into
+a collective tapestry artwork, symbolising the unity of Singapore’s diverse
+communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RHD_3.png">
+</div>
+<p>To conclude the celebrations, students enthusiastically joined a fun and
+interactive <strong>Kahoot quiz</strong> that tested their knowledge of Racial
+Harmony Day.
+<br>Through these meaningful experiences, Cedar Primary students not only
+celebrated the nation’s cultural diversity but also reflected on the importance
+of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
+</p>
 </div>
 </details>
 </div>
