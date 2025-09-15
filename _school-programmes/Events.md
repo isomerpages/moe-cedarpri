@@ -265,6 +265,70 @@ activities that strengthened their collaborative skills. The journey through
 nature and stream exploration sessions allowed them to appreciate our natural
 environment, while the intimate mini campfire sessions created memorable
 bonding moments.</p>
+<p><strong>Racial Harmony Day</strong>
+<br>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
+and meaningful activities centered around this year’s theme, <strong>“Our People, Our Tapestry.”</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_1.png">
+</div>
+<p>The celebrations kicked off with a lively music performance featuring
+traditional instruments from Singapore’s four major ethnic groups. Students
+enjoyed a vibrant showcase of melodies and rhythms that celebrated the
+richness of cultural diversity through music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_2.png">
+</div>
+<p>A library exhibition and a mini quiz on musical instruments further deepened
+students’ understanding and appreciation of Singapore’s multicultural heritage.
+They explored the unique instruments associated with each ethnic community.
+Additionally, students took part in a tapestry art activity, where each
+contributed creatively by colouring or decorating a square panel representing
+one of the ethnic groups. These individual panels were then assembled into
+a collective tapestry artwork, symbolising the unity of Singapore’s diverse
+communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_3.png">
+</div>
+<p>To conclude the celebrations, students enthusiastically joined a fun and
+interactive <strong>Kahoot quiz</strong> that tested their knowledge of Racial
+Harmony Day.
+<br>Through these meaningful experiences, Cedar Primary students not only
+celebrated the nation’s cultural diversity but also reflected on the importance
+of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_1.jpg">
+</div>
+<p><strong>National Day</strong>
+<br>The spirit of National Day filled Cedar Primary School's halls early this
+year, kickstarted by a special visit from August the Merlion on 31 July.
+During the Character and Citizenship Education period, students were treated
+to an engaging session about Singapore's rich history, followed by August's
+classroom visits that brought smiles to young faces. The excitement peaked
+during an interactive quiz session, where eager participants vied for coveted
+limited-edition plushie keychains!
+<br>For two vibrant weeks leading to National Day, the school transformed
+into a hub of patriotic activities. Students embarked on an exciting Mathematical
+journey by the Mathematics Department, hunting for SG mascots around the
+school's ground floor to solve the puzzles relating to the mascots.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_2.jpg">
+</div>
+<p>At Basketball Court 2, they participated in engaging activities for a
+chance to win mystery gifts. There was a lively student-led karaoke session
+in the school library on 4 August, alongside other enriching library activities
+on National Day week.
+<br>The highlight of the National Day-related activities took place on 8 August.
+The day began with a solemn observance ceremony, then the National Day
+concert, featuring a magnificent display of Singapore's journey, diversity,
+and aspirations. Through six carefully crafted acts, the concert wove together
+mini-skits and performances by an impressive array of talents - from our
+adorable MOE Kindergarten students to the graceful International Dance
+CCA members, and from our talented Mother Tongue teachers to our dedicated
+Parent Support Group. Our own Cedar teachers even showcased their vocal
+prowess! The grand finale featured The Singapore Workout 2025 - Dance of
+the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 </div>
 </details>
 </div>
