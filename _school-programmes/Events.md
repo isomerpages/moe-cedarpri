@@ -266,8 +266,7 @@ nature and stream exploration sessions allowed them to appreciate our natural
 environment, while the intimate mini campfire sessions created memorable
 bonding moments.</p>
 <p><strong>Racial Harmony Day</strong>
-</p>
-<p>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
+<br>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
 and meaningful activities centered around this year’s theme, <strong>“Our People, Our Tapestry.”</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -298,6 +297,45 @@ Harmony Day.
 celebrated the nation’s cultural diversity but also reflected on the importance
 of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
 </p>
+<p></p>
+<p><strong>National Day</strong>
+<br>The spirit of National Day filled Cedar Primary School's halls early this
+year, kickstarted by a special visit from August the Merlion on 31 July.
+During the Character and Citizenship Education period, students were treated
+to an engaging session about Singapore's rich history, followed by August's
+classroom visits that brought smiles to young faces. The excitement peaked
+during an interactive quiz session, where eager participants vied for coveted
+limited-edition plushie keychains!</p>
+<p>For two vibrant weeks leading to National Day, the school transformed
+into a hub of patriotic activities. Students embarked on an exciting Mathematical
+journey by the Mathematics Department, hunting for SG mascots around the
+school's ground floor to solve the puzzles relating to the mascots.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<p>At Basketball Court 2, they participated in engaging activities for a
+chance to win mystery gifts. There was a lively student-led karaoke session
+in the school library on 4 August, alongside other enriching library activities
+on National Day week.</p>
+<p>The highlight of the National Day-related activities took place on 8 August.
+The day began with a solemn observance ceremony, then the National Day
+concert, featuring a magnificent display of Singapore's journey, diversity,
+and aspirations. Through six carefully crafted acts, the concert wove together
+mini-skits and performances by an impressive array of talents - from our
+adorable MOE Kindergarten students to the graceful International Dance
+CCA members, and from our talented Mother Tongue teachers to our dedicated
+Parent Support Group. Our own Cedar teachers even showcased their vocal
+prowess! The grand finale featured The Singapore Workout 2025 - Dance of
+the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 </div>
 </details>
 </div>
