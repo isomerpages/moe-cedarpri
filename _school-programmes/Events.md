@@ -288,7 +288,7 @@ one of the ethnic groups. These individual panels were then assembled into
 a collective tapestry artwork, symbolising the unity of Singapore’s diverse
 communities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RHD_3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_3.png">
 </div>
 <p>To conclude the celebrations, students enthusiastically joined a fun and
 interactive <strong>Kahoot quiz</strong> that tested their knowledge of Racial
@@ -307,8 +307,8 @@ During the Character and Citizenship Education period, students were treated
 to an engaging session about Singapore's rich history, followed by August's
 classroom visits that brought smiles to young faces. The excitement peaked
 during an interactive quiz session, where eager participants vied for coveted
-limited-edition plushie keychains!</p>
-<p>For two vibrant weeks leading to National Day, the school transformed
+limited-edition plushie keychains!
+<br>For two vibrant weeks leading to National Day, the school transformed
 into a hub of patriotic activities. Students embarked on an exciting Mathematical
 journey by the Mathematics Department, hunting for SG mascots around the
 school's ground floor to solve the puzzles relating to the mascots.</p>
@@ -318,8 +318,8 @@ school's ground floor to solve the puzzles relating to the mascots.</p>
 <p>At Basketball Court 2, they participated in engaging activities for a
 chance to win mystery gifts. There was a lively student-led karaoke session
 in the school library on 4 August, alongside other enriching library activities
-on National Day week.</p>
-<p>The highlight of the National Day-related activities took place on 8 August.
+on National Day week.
+<br>The highlight of the National Day-related activities took place on 8 August.
 The day began with a solemn observance ceremony, then the National Day
 concert, featuring a magnificent display of Singapore's journey, diversity,
 and aspirations. Through six carefully crafted acts, the concert wove together
