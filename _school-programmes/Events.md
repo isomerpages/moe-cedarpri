@@ -297,7 +297,9 @@ Harmony Day.
 celebrated the nation’s cultural diversity but also reflected on the importance
 of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_1.jpg">
+</div>
 <p><strong>National Day</strong>
 <br>The spirit of National Day filled Cedar Primary School's halls early this
 year, kickstarted by a special visit from August the Merlion on 31 July.
@@ -310,18 +312,9 @@ limited-edition plushie keychains!</p>
 into a hub of patriotic activities. Students embarked on an exciting Mathematical
 journey by the Mathematics Department, hunting for SG mascots around the
 school's ground floor to solve the puzzles relating to the mascots.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_2.jpg">
+</div>
 <p>At Basketball Court 2, they participated in engaging activities for a
 chance to win mystery gifts. There was a lively student-led karaoke session
 in the school library on 4 August, alongside other enriching library activities
