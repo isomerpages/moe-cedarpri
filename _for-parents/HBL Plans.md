@@ -22,7 +22,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p><a href="/files/HBL Plans/25 to 29 Sep 2025/P3_CPS__HBL_Plan_25Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 5 Standard</p>
