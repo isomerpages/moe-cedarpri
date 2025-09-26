@@ -32,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p><a href="/files/HBL Plans/25 to 29 Sep 2025/P4_CPS__HBL_Plan_29Sep2025.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/HBL Plans/25 to 29 Sep 2025/P5_FOUNDATION_CPS__HBL_Plan_26Sep2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a>
