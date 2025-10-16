@@ -4,29 +4,33 @@ permalink: /student-mims-account/
 variant: tiptap
 description: ""
 ---
-<p>Please refer to quick guide for Student MIMS Account login and account.</p>
+<h2>Please refer to below resources :</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>MIMS portal URL <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a>
+<p>Access to <a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">Student MIMS Login portal</a>
 </p>
+<p></p>
 </li>
 <li>
-<p>Guide to setup security questions for Self-Service Password Reset</p>
+<p>Guide for security questions setup in MIMS Portal</p>
+<p></p>
 </li>
 <li>
-<p>Use of <strong>Self-Service Password Reset (SSPR) for password reset (Recommended)</strong>
+<p>Self-Service Password Reset for password reset (Recommended)</p>
+<p></p>
+</li>
+<li>
+<p>Contact us through <a href="#" rel="noopener noreferrer nofollow" target="_blank">School-based Student MIMS Account  Form</a> 
 </p>
+<p></p>
 </li>
 <li>
-<p>Fill up the School-based Student MIMS Account Request Form</p>
-</li>
-<li>
-<p>Contact General Office for help</p>
-</li>
-</ol>
+<p>Phone call to office at 62885633, Monday to Friday from 8am to 4pm (excl
+PH) for support matters</p>
 <p>
 <br>
 <br>
-<br>
 </p>
+</li>
+</ol>
 <p></p>
