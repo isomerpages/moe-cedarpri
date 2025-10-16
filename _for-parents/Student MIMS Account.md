@@ -17,8 +17,8 @@ MIMS Portal</p>
 <p></p>
 </li>
 <li>
-<p><a href="https://portal.mims.moe.gov.sg/sspr/private/" rel="noopener nofollow" target="_blank">Self-Service Password Reset</a> for
-Forgot Password if you have enabled security questions (Recommended)</p>
+<p><a href="https://portal.mims.moe.gov.sg/sspr/private/" rel="noopener nofollow" target="_blank">Self-Service Password Reset</a> -
+'Forgot Password' function if you have enabled security questions (Recommended)</p>
 <p></p>
 </li>
 <li>
