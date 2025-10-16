@@ -22,7 +22,7 @@ MIMS Portal</p>
 <p></p>
 </li>
 <li>
-<p>Contact us through <a href="#" rel="noopener noreferrer nofollow" target="_blank">School-based Student MIMS Account Form</a>
+<p>Contact us through <a href="https://go.gov.sg/cpspri-mimshelp" rel="noopener nofollow" target="_blank">Student MIMS Account Help Form</a>
 </p>
 <p></p>
 </li>
