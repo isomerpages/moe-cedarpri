@@ -4,7 +4,9 @@ permalink: /student-mims-account/
 variant: tiptap
 description: ""
 ---
-<h2>Please refer to below resources :</h2>
+<p></p>
+<h1>Student MIMS Account</h1>
+<h4>Please refer to below resources :</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Access to <a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">Student MIMS Login portal</a>
