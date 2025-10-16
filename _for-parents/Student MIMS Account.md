@@ -12,12 +12,12 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Guide to <a href="/files/Technical Matters/MOE_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">security questions setup</a> in
-MIMS Portal</p>
+<p>Guide to <a href="/files/Technical Matters/MOE_MIMS_SSPR_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Security Questions Setup and Self-Service Password Reset</a>
+</p>
 <p></p>
 </li>
 <li>
-<p><a href="https://portal.mims.moe.gov.sg/sspr/private/" rel="noopener nofollow" target="_blank">Self-Service Password Reset</a> -
+<p>Using the <a href="https://portal.mims.moe.gov.sg/sspr/private/" rel="noopener nofollow" target="_blank">Self-Service Password Reset</a> -
 'Forgot Password' function if you have enabled security questions (Recommended)</p>
 <p></p>
 </li>
