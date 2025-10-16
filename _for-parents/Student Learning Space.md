@@ -9,7 +9,7 @@ variant: tiptap
 <h4>Please refer to below resources :</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Website and Login to <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
+<p>Access to <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS login website</a>
 </p>
 <p></p>
 </li>
