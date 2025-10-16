@@ -24,7 +24,7 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Contact us through <a href="https://go.gov.sg/cpspri-mimshelp" rel="noopener nofollow" target="_blank">Student MIMS Account Help Form</a>
+<p>Contact us through school-based <a href="https://go.gov.sg/cpspri-mimshelp" rel="noopener nofollow" target="_blank">Student MIMS Account Help Form</a>
 </p>
 <p></p>
 </li>
