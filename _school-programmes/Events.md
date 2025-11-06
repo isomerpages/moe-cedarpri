@@ -332,4 +332,20 @@ the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 4</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Deepavali</strong>
+<br>Cedar Primary celebrated the Festival of Lights with a joyful Deepavali
+concert filled with colour, music, and laughter. Students and teachers
+came together to share the meaning of Deepavali - the triumph of light
+over darkness and good over evil. The concert featured vibrant dance performances,
+lively songs, and a short skit that highlighted the importance of kindness
+and harmony. It was a wonderful opportunity for everyone to learn more
+about Indian culture and to celebrate unity in our diverse school community.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
