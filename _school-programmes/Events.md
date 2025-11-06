@@ -348,7 +348,12 @@ over darkness and good over evil.</p>
 <p>The concert featured vibrant dance performances, lively songs, and a short
 skit that highlighted the importance of kindness and harmony. It was a
 wonderful opportunity for everyone to learn more about Indian culture and
-to celebrate unity in our diverse school community.</p>
+to celebrate unity in our diverse school community.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
+</div>
 <p></p>
 </div>
 </details>
