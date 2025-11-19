@@ -20,7 +20,9 @@ In our learning environment, the spaces are specially designed by our educators 
 
 The activities during the day are meaningfully planned such that children are engaged purposefully in a lively&nbsp;environment.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6LJz_Nf_iNg?si=FCd8fR9zZrkQM-eu" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pqnQl6TB45A?si=kRUPbahGBJJxYdtf" height="315" width="560"></iframe>
+
+
 
 If you would like more information, please contact&nbsp;us at 6288 5633 or email us at&nbsp;[mk_cedar@moe.edu.sg](mailto:mk_cedar@moe.edu.sg).
 
