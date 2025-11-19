@@ -4,7 +4,7 @@ permalink: /mk-at-cedar/kindergarten-care/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Kindergarten Care</strong></h1>
+<h2><strong>Kindergarten Care</strong></h2>
 <p>Kindergarten Care or KCare in short is an option for parents who are interested
 to enroll their child for a full-day care service. It is available for
 children being enrolled in our MK, which is before or after the MK session.
@@ -21,8 +21,7 @@ and gardening).</p>
 <p></p>
 <p>Please indicate your preference for KCare when registering your child
 for MK.</p>
-<p><strong>KCare@Cedar Virtual Tour</strong>
-</p>
+<h3><strong>KCare@Cedar Virtual Tour</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Tde5IJ0I9lo?si=Zrz3s-SEY7GTm6O2"></iframe>
