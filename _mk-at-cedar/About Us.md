@@ -75,7 +75,7 @@ self-esteem and interact positively with others.</p>
 </p>
 </li>
 <li>
-<p>Our Parent's Testimonial</p>
+<p>Appreciation from Parent's Testimonial</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
