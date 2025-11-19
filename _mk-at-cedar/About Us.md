@@ -61,7 +61,7 @@ self-esteem and interact positively with others.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
+<iframe height="315" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
 </div>
 <h4><strong>More Information</strong></h4>
 <p></p>
