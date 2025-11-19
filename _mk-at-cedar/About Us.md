@@ -65,19 +65,28 @@ self-esteem and interact positively with others.</p>
 </div>
 <h4><strong>More Information</strong></h4>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/MKCedar/2026_mk_cedar_information_for_website.pdf" rel="noopener nofollow" target="_blank">2025/2026 MK@Cedar Information</a>
 </p>
+</li>
+<li>
 <p><a href="/files/MKCedar/2026_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2026 Family Handbook</a>
 </p>
-<p></p>
+</li>
+<li>
+<p>Our Parent's Testimonial</p>
+</li>
+</ul>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=YtPHIBLnivwnQEvc"></iframe>
+<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
 </div>
-<p></p>
-<p>For more information, visit the web links below:</p>
-<p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit MOE <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Information on Registration</strong></h4>
 <p>Please note that the Registration Exercise is fully online. Do click
