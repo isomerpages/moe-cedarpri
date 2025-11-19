@@ -4,7 +4,7 @@ permalink: /mk-staff/
 description: ""
 variant: tiptap
 ---
-<h2>MK Staff </h2>
+<h2>MK Staff</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,7 +45,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Child Development),&nbsp; MalY MK Educator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Arina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English MK Educator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Charlotte</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English MK Educator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dexter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English MK Educator</p>
@@ -77,15 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Komaljit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English MK Educator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Charlotte</p>
+<p>Ms Syaza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English MK Educator</p>
@@ -102,6 +118,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese MK Educator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese MK Educator</p>
@@ -133,18 +157,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liu</p>
+<p>Ms Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese MK Educator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Su</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay MK Educator</p>
+<p>Tamil MK Educator</p>
 </td>
 </tr>
 <tr>
