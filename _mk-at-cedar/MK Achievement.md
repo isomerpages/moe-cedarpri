@@ -24,7 +24,19 @@ have an impact on our school community.</p>
 <li>
 <p>consistently serve internal and external customers with C.A.R.E (Collaborate,
 Anticipate, Reach Out, Empathise)- inspire their colleagues to do likewise</p>
+<p></p>
 </li>
 </ul>
+<h4><strong>MOE Innergy Award – Commendation 2024</strong></h4>
+<p><em>MOE Innergy Award is awarded to schools that implements innovations to bring about improved teaching and learning outcomes. MK@Cedar was awarded the commendation award in 2024 f</em>or
+the project titled: <strong>To what extent does a peace table support children in resolving conflicts in a peaceful manner?</strong>
+</p>
 <p></p>
+<h4><strong>Kindness Movement</strong></h4>
+<p><strong>&nbsp;</strong><em>The Kindness Achievement award is given to schools in partnership for their commitment and support in spreading kindness amongst the children!</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
 <p></p>
