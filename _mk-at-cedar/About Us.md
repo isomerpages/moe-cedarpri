@@ -60,7 +60,6 @@ self-esteem and interact positively with others.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK(1).jpg">
 </div>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
 </div>
@@ -72,7 +71,7 @@ self-esteem and interact positively with others.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=HDZ3kolvKTSZOVtW"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=YtPHIBLnivwnQEvc"></iframe>
 </div>
 <p></p>
 <p>For more information, visit the web links below:</p>
