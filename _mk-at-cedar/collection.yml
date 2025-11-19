@@ -2,6 +2,7 @@ collections:
   mk-at-cedar:
     output: true
     order:
+      - MK Achievement.md
       - Overview of MOE Kindergarten.md
       - About Us.md
       - MK Staff.md
