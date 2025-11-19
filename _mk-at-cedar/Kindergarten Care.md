@@ -24,7 +24,7 @@ for MK.</p>
 <h3><strong>KCare@Cedar Virtual Tour</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Tde5IJ0I9lo?si=Zrz3s-SEY7GTm6O2"></iframe>
+<iframe height="400" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Tde5IJ0I9lo?si=Zrz3s-SEY7GTm6O2"></iframe>
 </div>
 <p>
 <br>
