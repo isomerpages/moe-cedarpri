@@ -4,7 +4,7 @@ permalink: /mk-at-cedar/about-us/
 description: ""
 variant: tiptap
 ---
-<h1><strong>About Us</strong></h1>
+<h2><strong>About Us</strong></h2>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
 <p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
 on:</p>
@@ -29,7 +29,7 @@ on:</p>
 Mother Tongue Languages&nbsp;(i.e. Chinese, Malay and Tamil languages).</p>
 </li>
 </ul>
-<h2><strong>MK Reads! Programme</strong></h2>
+<h3><strong>MK Reads! Programme</strong></h3>
 <p>MK Reads! aims to promote shared reading between parents and children
 at home. According to findings, a better home literacy environment helps
 your child to acquire a strong foundation in language and literacy skills.
@@ -48,9 +48,8 @@ child.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Videos and infographics</strong>&nbsp;–
 MOE&nbsp;also&nbsp;prepares videos and infographics with tips and strategies
 to support&nbsp;shared reading at home.</p>
-<h2>Centre Based Programme</h2>
-<p><strong>Fun Values!</strong>
-</p>
+<h3>Centre Based Programme</h3>
+<h4><strong>Fun Values!</strong></h4>
 <p>Children will be able to recognise and understand values to build a healthy
 self-esteem and interact positively with others.</p>
 <div class="isomer-image-wrapper">
@@ -79,7 +78,7 @@ self-esteem and interact positively with others.</p>
 </p>
 </li>
 <li>
-<p>Appreciation from Parent's Testimonial</p>
+<p>Appreciation from Parents (Testimonials)</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
