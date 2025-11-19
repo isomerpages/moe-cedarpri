@@ -4,7 +4,7 @@ permalink: /mk-staff/
 description: ""
 variant: tiptap
 ---
-<h2>MK Staff and Recognitions</h2>
+<h2>MK Staff </h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
