@@ -36,6 +36,20 @@ the project titled: <strong>To what extent does a peace table support children i
 <p><strong>&nbsp;</strong><em>The Kindness Achievement award is given to schools in partnership for their commitment and support in spreading kindness amongst the children!</em>
 </p>
 <p></p>
+<h4><em>References:</em></h4>
+<p><a href="/files/MKCedar/MOE_Innergy_Award_2024.pdf" rel="noopener nofollow" target="_blank">2024 MOE Innergy Award</a>
+</p>
+<p><a href="/files/MKCedar/Kindness_Movement_Award_2025.pdf" rel="noopener nofollow" target="_blank">2025 Kindness Movement Award</a>
+</p>
+<p><a href="/files/MKCedar/Kindness_Movement_Award_2024.pdf" rel="noopener nofollow" target="_blank">2024 Kindness Movement Award</a>
+</p>
+<p><a href="/files/MKCedar/Kindness_Movement_Award_2023.pdf" rel="noopener nofollow" target="_blank">2023 Kindness Movement Award</a>
+</p>
+<p><a href="/files/MKCedar/Kindness_Movement_Award_2022.pdf" rel="noopener nofollow" target="_blank">2022 Kindness Movement Award</a>
+</p>
+<p><a href="/files/MKCedar/Kindness_Movement_Award_2021.pdf" rel="noopener nofollow" target="_blank">2021 Kindness Movement Award</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
