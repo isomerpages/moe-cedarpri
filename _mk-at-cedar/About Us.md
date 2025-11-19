@@ -75,18 +75,17 @@ self-esteem and interact positively with others.</p>
 </p>
 </li>
 <li>
+<p>Visit MOE <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
+</p>
+</li>
+<li>
 <p>Appreciation from Parent's Testimonial</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
 <iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit MOE <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
 <h4><strong>Information on Registration</strong></h4>
 <p>Please note that the Registration Exercise is fully online. Do click
