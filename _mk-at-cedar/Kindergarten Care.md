@@ -13,8 +13,10 @@ KCare operates from Monday to Friday from 7.00am to 7.00pm.</p>
 exploration and discovery through a variety of specially designed modular
 activities (tinkering, cookery, sand and water play, dramatic play, outdoor
 and gardening).</p>
-<p>For more information, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
+<p>For more information, please visit:</p>
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
 </p>
+<p></p>
 <p>You can also refer to the following document.</p>
 <p><a href="/files/MKCedar/2026_kcare_information_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025/2026 Important Notes of Kindergarten Care</a>
 </p>
