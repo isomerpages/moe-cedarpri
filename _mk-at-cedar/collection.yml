@@ -2,9 +2,9 @@ collections:
   mk-at-cedar:
     output: true
     order:
-      - MK Staff and Recognitions.md
       - Overview of MOE Kindergarten.md
       - About Us.md
+      - MK Staff and Recognitions.md
       - MK Staff.md
       - MK Achievement.md
       - MK @ Cedar Virtual Tour.md
