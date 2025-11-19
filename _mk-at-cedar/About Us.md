@@ -4,7 +4,7 @@ permalink: /mk-at-cedar/about-us/
 description: ""
 variant: tiptap
 ---
-<h1><strong>About Us</strong></h1>
+<h2><strong>About Us</strong></h2>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
 <p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
 on:</p>
@@ -29,7 +29,7 @@ on:</p>
 Mother Tongue Languages&nbsp;(i.e. Chinese, Malay and Tamil languages).</p>
 </li>
 </ul>
-<h2><strong>MK Reads! Programme</strong></h2>
+<h3><strong>MK Reads! Programme</strong></h3>
 <p>MK Reads! aims to promote shared reading between parents and children
 at home. According to findings, a better home literacy environment helps
 your child to acquire a strong foundation in language and literacy skills.
@@ -48,9 +48,8 @@ child.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Videos and infographics</strong>&nbsp;–
 MOE&nbsp;also&nbsp;prepares videos and infographics with tips and strategies
 to support&nbsp;shared reading at home.</p>
-<h2>Centre Based Programme</h2>
-<p><strong>Fun Values!</strong>
-</p>
+<h3>Centre Based Programme</h3>
+<h4><strong>Fun Values!</strong></h4>
 <p>Children will be able to recognise and understand values to build a healthy
 self-esteem and interact positively with others.</p>
 <div class="isomer-image-wrapper">
@@ -60,24 +59,31 @@ self-esteem and interact positively with others.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK(1).jpg">
 </div>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/90_3sWee17g?si=nILLHAa1fG6o4xPC"></iframe>
+<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lo9bPfRst54?si=Rm4dSfaLELI_p50e"></iframe>
 </div>
 <h4><strong>More Information</strong></h4>
 <p></p>
-<p><a href="/files/MKCedar/2025__MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">More Information about MK@Cedar</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MKCedar/2026_mk_cedar_information_for_website.pdf" rel="noopener nofollow" target="_blank">2025/2026 MK@Cedar Information</a>
 </p>
+</li>
+<li>
 <p><a href="/files/MKCedar/2026_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2026 Family Handbook</a>
 </p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=HDZ3kolvKTSZOVtW"></iframe>
-</div>
-<p></p>
-<p>For more information, visit the web links below:</p>
-<p><a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
+</li>
+<li>
+<p>Visit MOE <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
+</li>
+<li>
+<p>Appreciation from Parents (Testimonials)</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
+</div>
 <p></p>
 <p></p>
 <h4><strong>Information on Registration</strong></h4>
