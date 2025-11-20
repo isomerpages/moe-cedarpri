@@ -48,7 +48,7 @@ variant: tiptap
 <p>Ms Su</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Child Development),&nbsp; MalY MK Educator</p>
+<p>Senior Teacher (Child Development),&nbsp; Malay MK Educator</p>
 </td>
 </tr>
 <tr>
