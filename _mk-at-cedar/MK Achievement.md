@@ -12,8 +12,6 @@ have an impact on our school community.</p>
 <p>OCA Team – 2021</p>
 <p>OCA Individual Award 2023 – Ms Lisa</p>
 <p>OCA Individual Award 2024 – Ms Siti Suhailah</p>
-<p>OCA Individual Award 2025 - Ms Kirthika</p>
-<p></p>
 <p></p>
 <h3><strong>MOE Service Excellence Award (MSEA)</strong></h3>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
