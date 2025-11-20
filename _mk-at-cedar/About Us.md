@@ -63,7 +63,6 @@ self-esteem and interact positively with others.</p>
 <iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lo9bPfRst54?si=Rm4dSfaLELI_p50e"></iframe>
 </div>
 <h4><strong>More Information</strong></h4>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/MKCedar/2026_mk_cedar_information_for_website.pdf" rel="noopener nofollow" target="_blank">2025/2026 MK@Cedar Information</a>
@@ -76,16 +75,13 @@ self-esteem and interact positively with others.</p>
 <li>
 <p>Visit MOE <a href="https://go.gov.sg/mkpmk" rel="noopener noreferrer nofollow" target="_blank">MK Website</a>
 </p>
-</li>
-<li>
-<p>Appreciation from Parents (Testimonials)</p>
+<p></p>
 </li>
 </ul>
+<h4><strong>Appreciation from Parents (Testimonials)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
 </div>
-<p></p>
-<p></p>
 <h4><strong>Information on Registration</strong></h4>
 <p>Please note that the Registration Exercise is fully online. Do click
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">here<u> </u>
