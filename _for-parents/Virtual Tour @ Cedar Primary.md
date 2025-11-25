@@ -23,7 +23,7 @@ will enjoy learning and look forward to coming to school each day.</p>
 <p>We welcome you to follow our Primary 1 students as they show you what
 a day in Cedar Primary School looks like. Enjoy!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z9KMQo_YFP8"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3a1JKc2mKQ?si=tfAzNQUXmINsrfi2"></iframe>
 </div>
 <p>Surrounded by lush greenery, Cedar Primary has a learning environment
 conducive to nurturing and developing our students, or Cedarians as they
