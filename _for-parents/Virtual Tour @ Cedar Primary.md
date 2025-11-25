@@ -20,8 +20,8 @@ to think creatively (in line with our Applied Learning Programme – Creative
 and Inventive Thinking), to make friends, and to develop habits and skills
 to enable them to learn on their own – all these in the hope that the children
 will enjoy learning and look forward to coming to school each day.</p>
-<p>We welcome you to follow our Primary 1 students as they show you what
-a day in Cedar Primary School looks like. Enjoy!</p>
+<p>We welcome you to follow our students as they show you what a day in Cedar
+Primary School looks like. Enjoy!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e3a1JKc2mKQ?si=tfAzNQUXmINsrfi2"></iframe>
 </div>
