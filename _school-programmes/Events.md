@@ -355,13 +355,17 @@ to celebrate unity in our diverse school community.
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
 </div>
 <p><strong>Celebrating Hopes and Dreams (CHAD)</strong>
-<br>Cedar Primary School held its annual Prize Giving Day, CHAD – Celebrating
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_3.jpg">
+</div>
+<p>Cedar Primary School held its annual Prize Giving Day, CHAD – Celebrating
 Hopes and Dreams – with great pride and joy as we honoured the achievements
 and talents of our students. This special occasion brought the school community
 together to recognise hard work, perseverance, and the Cedar spirit demonstrated
 throughout the year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
 </div>
 <p>The celebration also included many captivating musical performances. Our
 Primary 6 Resilience and Kindness classes showcased their skills through
@@ -372,17 +376,14 @@ artistic showcase, the Music Ensemble CCA presented a charming musical
 number that highlighted the students’ dedication and passion for the performing
 arts.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chad_2025_1.png">
 </div>
 <p>A total of 288 awards were presented to deserving students across academic,
 leadership, and character domains. Each award reflected the students’ commitment
 to excellence and the support of teachers and families who have journeyed
 alongside them.</p>
-<p>CHAD 2025 was a meaningful celebration of growth, achievement, and aspiration.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_1.png">
-</div>
-<p>As our students continue to dream boldly and strive confidently, Cedar
+<p>CHAD 2025 was a meaningful celebration of growth, achievement, and aspiration.
+As our students continue to dream boldly and strive confidently, Cedar
 Primary School looks forward to nurturing their hopes and shaping even
 brighter futures.</p>
 </div>
