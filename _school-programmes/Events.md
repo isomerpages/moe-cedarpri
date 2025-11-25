@@ -365,7 +365,7 @@ and talents of our students. This special occasion brought the school community
 together to recognise hard work, perseverance, and the Cedar spirit demonstrated
 throughout the year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
 </div>
 <p>The celebration also included many captivating musical performances. Our
 Primary 6 Resilience and Kindness classes showcased their skills through
@@ -381,11 +381,10 @@ arts.</p>
 <p>A total of 288 awards were presented to deserving students across academic,
 leadership, and character domains. Each award reflected the students’ commitment
 to excellence and the support of teachers and families who have journeyed
-alongside them.</p>
-<p>CHAD 2025 was a meaningful celebration of growth, achievement, and aspiration.
-As our students continue to dream boldly and strive confidently, Cedar
-Primary School looks forward to nurturing their hopes and shaping even
-brighter futures.</p>
+alongside them. CHAD 2025 was a meaningful celebration of growth, achievement,
+and aspiration. As our students continue to dream boldly and strive confidently,
+Cedar Primary School looks forward to nurturing their hopes and shaping
+even brighter futures.</p>
 </div>
 </details>
 </div>
