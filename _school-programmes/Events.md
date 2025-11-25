@@ -341,16 +341,16 @@ the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 concert filled with colour, music, and laughter. Students and teachers
 came together to share the meaning of Deepavali - the triumph of light
 over darkness and good over evil.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_12_01_AM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_2.jpg">
 </div>
 <p>The concert featured vibrant dance performances, lively songs, and a short
 skit that highlighted the importance of kindness and harmony. It was a
 wonderful opportunity for everyone to learn more about Indian culture and
-to celebrate unity in our diverse school community.
-<br>
-</p>
+to celebrate unity in our diverse school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
 </div>
