@@ -341,20 +341,50 @@ the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 concert filled with colour, music, and laughter. Students and teachers
 came together to share the meaning of Deepavali - the triumph of light
 over darkness and good over evil.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_12_01_AM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_2.jpg">
 </div>
 <p>The concert featured vibrant dance performances, lively songs, and a short
 skit that highlighted the importance of kindness and harmony. It was a
 wonderful opportunity for everyone to learn more about Indian culture and
-to celebrate unity in our diverse school community.
-<br>
-</p>
+to celebrate unity in our diverse school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_1.jpg">
+</div>
+<p><strong>Celebrating Hopes and Dreams (CHAD)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_3.jpg">
+</div>
+<p>Cedar Primary School held its annual Prize Giving Day, CHAD – Celebrating
+Hopes and Dreams – with great pride and joy as we honoured the achievements
+and talents of our students. This special occasion brought the school community
+together to recognise hard work, perseverance, and the Cedar spirit demonstrated
+throughout the year.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
+</div>
+<p>The celebration also included many captivating musical performances. Our
+Primary 6 Resilience and Kindness classes showcased their skills through
+heartfelt Anklung and Gamelan pieces, filling the hall with rich, resonant
+melodies. The International Dance CCA then took the stage with a vibrant
+and energetic performance that left the audience delighted. Adding to the
+artistic showcase, the Music Ensemble CCA presented a charming musical
+number that highlighted the students’ dedication and passion for the performing
+arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chad_2025_1.png">
+</div>
+<p>A total of 288 awards were presented to deserving students across academic,
+leadership, and character domains. Each award reflected the students’ commitment
+to excellence and the support of teachers and families who have journeyed
+alongside them. CHAD 2025 was a meaningful celebration of growth, achievement,
+and aspiration. As our students continue to dream boldly and strive confidently,
+Cedar Primary School looks forward to nurturing their hopes and shaping
+even brighter futures.</p>
 </div>
 </details>
 </div>
