@@ -65,7 +65,7 @@ self-esteem and interact positively with others.</p>
 <h4><strong>More Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MKCedar/2026_mk_cedar_information_for_website.pdf" rel="noopener nofollow" target="_blank">2025/2026 MK@Cedar Information</a>
+<p><a href="/files/MKCedar/2026_MK_Cedar_Information_for_Website.pdf" rel="noopener nofollow" target="_blank">2025/2026 MK@Cedar Information</a>
 </p>
 </li>
 <li>
