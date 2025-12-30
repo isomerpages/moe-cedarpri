@@ -17,6 +17,8 @@ variant: markdown
 
 Opening hours (For students): 9.00am – 3.00pm
 
-Opening hours (For parents): 2.00pm – 3.00pm
-
+Opening hours (For parents): 
+Mon - Thu : 2.00pm - 3.00pm
+             Fri : 1.30pm - 3.00pm
+						 
 Closed for lunch: 12.30pm – 1.00pm
