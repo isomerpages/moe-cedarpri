@@ -199,7 +199,8 @@ variant: tiptap
 <p>Ms Siti Noorul Ain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_noorul_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -280,7 +281,8 @@ variant: tiptap
 <p>Ms Chew Peck Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chew_peck_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
