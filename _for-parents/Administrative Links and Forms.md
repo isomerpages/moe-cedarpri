@@ -2,6 +2,7 @@
 title: Administrative Links and Forms
 permalink: /for-parents/adminlinksandforms/
 description: ""
+variant: markdown
 ---
 Please click on the respective links for more information.  
   
@@ -13,4 +14,6 @@ Please click on the respective links for more information.
   
 [NEU PC Plus Application](https://www.imda.gov.sg/neupc)
 
-If there are changes to the contact number of your child or yourself, please email us at [cedar\_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg)  
+[CPS Waitlist](https://go.gov.sg/cps-waitlist)
+
+If there are changes to the contact number of your child or yourself, please email us at [cedar\_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg)
