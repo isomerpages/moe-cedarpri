@@ -38,6 +38,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amelia Phua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,10 +186,10 @@ variant: tiptap
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Constance Chia</p>
+<p>Mdm Faridah Bte Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_soon_neo_constance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:faridah_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -199,13 +207,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Bte Abdul Hamid</p>
+<p>Mdm Norhasimah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faridah_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:norhasimah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
