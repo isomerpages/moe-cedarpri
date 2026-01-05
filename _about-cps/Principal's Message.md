@@ -9,10 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mr__Chua_2025_Border.jpg">
 </div>
-<p><strong>Principal’s Message 2025</strong>
+<p><strong>Principal’s Message 2026</strong>
 </p>
 <p>It is with much enthusiasm, warmth and hope that we welcome you to the
-year 2025. We are confident that with a good character, a positive attitude
+year 2026. We are confident that with a good character, a positive attitude
 towards learning, sustained effort and a resilient mindset, our students
 will continue to scale greater heights with us. I know that my work here
 will continue to be a deeply meaningful one because of the support from
@@ -92,9 +92,9 @@ let them guide you towards successes.</p>
 <p>In the words of Aristotle, “We are what we repeatedly do. Excellence therefore
 is not an act but a habit.” We will humbly remember that our successes
 are a result of the efforts we repeatedly put into what we do. Let us continue
-to strive for successes in 2025, in the big and little things we do every
+to strive for successes in 2026, in the big and little things we do every
 single day, for the students and community we have been called to serve.
-Have a meaningful and enriching 2025!</p>
+Have a meaningful and enriching 2026!</p>
 <p>Thank you!</p>
 <p><strong>Mr Chua Choon Hock (Chris)</strong>
 <br><strong>Principal</strong>
