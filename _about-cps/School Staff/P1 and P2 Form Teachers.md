@@ -141,7 +141,8 @@ variant: tiptap
 <p>Ms Stephanie Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eng_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
 </td>
 </tr>
 <tr>
