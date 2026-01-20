@@ -24,9 +24,59 @@ have an impact on our school community.</p>
 <li>
 <p>consistently serve internal and external customers with C.A.R.E (Collaborate,
 Anticipate, Reach Out, Empathise)- inspire their colleagues to do likewise</p>
-<p></p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Silver Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 - 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lisa, Ms Noriz, Ms Ari, Ms Hu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 - 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn, Ms Ki, Ms Siti Suhailah, Ms Wang, Ms Yao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 - 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Afika, Ms Hui Ning, Ms Jasmine, Ms Ari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Gold Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 - 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lisa</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>MOE Innergy Award – Commendation 2024</strong></h4>
 <p><em>MOE Innergy Award is awarded to schools that implements innovations to bring about improved teaching and learning outcomes. MK@Cedar was awarded the commendation award in 2024 f</em>or
 the project titled: <strong>To what extent does a peace table support children in resolving conflicts in a peaceful manner?</strong>
