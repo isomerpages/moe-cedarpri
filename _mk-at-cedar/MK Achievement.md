@@ -8,12 +8,55 @@ description: ""
 <p>The Outstanding Contributions Award is presented to teachers to encourage
 both individuals and teams who have made significant contributions that
 have an impact on our school community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>OCA Team Award 2021</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>OCA Team – 2021</p>
-<p>OCA Individual Award 2023 – Ms Lisa</p>
-<p>OCA Individual Award 2024 – Ms Siti Suhailah</p>
-<p>OCA Individual Award 2025 - Ms Kirthika</p>
-<p>OCA Team Award 2025 - Ms Joycelyn Goh, Ms Afika, Ms Lisa, Ms Siti Suhailah</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OCA Individual Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lisa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OCA Individual Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Suhailah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OCA Individual Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kirthika</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OCA Team Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joycelyn, Ms Afika, Ms Lisa, Ms Suhailah</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3><strong>MOE Service Excellence Award (MSEA)</strong></h3>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who</p>
