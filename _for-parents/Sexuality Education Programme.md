@@ -23,8 +23,8 @@ Sexuality Education are:</p>
 managing their physiological, social and emotional changes as they grow
 up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make
-wise, informed and responsible decisions on sexuality matters. &nbsp;&nbsp;</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students
+wise, informed and responsible decisions on sexuality matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
@@ -42,7 +42,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Cedar Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Cedar Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum.&nbsp;The
@@ -51,8 +51,8 @@ Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour,
 and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp; &nbsp; &nbsp; &nbsp;The subjects that incorporate topics on sexuality
-include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
+include:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship
 Education (CCE)</p>
 <p><strong>Sexuality Education Lessons</strong>
@@ -75,7 +75,7 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Cedar Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
+<p><strong>At Cedar Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong>
 </p>
 <h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
