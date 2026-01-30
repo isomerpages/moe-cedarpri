@@ -79,11 +79,12 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_P5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_1_2026.png">
 </div>
+<p></p>
 <h4>Primary 6</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_P6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_2_2026.png">
 </div>
 <h3>Information for Parents</h3>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
