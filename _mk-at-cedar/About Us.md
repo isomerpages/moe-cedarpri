@@ -4,7 +4,12 @@ permalink: /mk-at-cedar/about-us/
 description: ""
 variant: tiptap
 ---
-<h2><strong>About Us</strong></h2>
+<h2><strong>Open House 2026</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2026___Website_Banner.png">
+</div>
+<h3><strong>About Us</strong></h3>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
 <p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
 on:</p>
@@ -60,7 +65,7 @@ self-esteem and interact positively with others.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lo9bPfRst54?si=Rm4dSfaLELI_p50e"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lo9bPfRst54?si=Rm4dSfaLELI_p50e"></iframe>
 </div>
 <h4><strong>More Information</strong></h4>
 <ul data-tight="true" class="tight">
@@ -80,7 +85,7 @@ self-esteem and interact positively with others.</p>
 </ul>
 <h4><strong>Appreciation from Parents (Testimonials)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QMqqwih5EUU?si=qtebGeLgWceMCTSM"></iframe>
 </div>
 <h4><strong>Information on Registration</strong></h4>
 <p>Please note that the Registration Exercise is fully online. Do click
