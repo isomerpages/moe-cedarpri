@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>Open House 2026</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2026___Website_Banner.png">
+</div>
 <h3><strong>About Us</strong></h3>
 <p>MK @ Cedar is located&nbsp;within&nbsp;Cedar Primary School.</p>
 <p><strong>MK</strong>&nbsp;<strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum" rel="noopener noreferrer nofollow" target="_blank">Curriculum and Programmes</a></strong>&nbsp;focus
