@@ -65,7 +65,7 @@ variant: tiptap
 <p><strong>Insurance for Students</strong>
 </p>
 <p>a. Group Personal Accident (GPA) Insurance for students</p>
-<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group personal accident insurance for students</a> 
+<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for students</a> 
 <br>-&nbsp;&nbsp; &nbsp;NTUC Income Insurance Co-operative Limited - Student
 Accident Protection Scheme - Group Personal Accident (GPA) Insurance.&nbsp;
 <a href="/files/General/NTUC FAQs for Parents_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents</a>
