@@ -65,6 +65,6 @@ variant: tiptap
 <p><strong>Insurance for Students</strong>
 </p>
 <p>Group Personal Accident (GPA) Insurance for students</p>
-<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for students</a> 
+<p>Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for students</a>
 </p>
-<p>Hotline: 63321133</p>
+<p></p>
