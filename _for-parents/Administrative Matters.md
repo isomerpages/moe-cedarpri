@@ -9,7 +9,7 @@ variant: tiptap
 <p><strong>Important Dates:</strong>
 </p>
 <p><a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" target="_blank">MOE School Terms and Important Dates</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/2024-psle-exam-timetable.pdf?sfvrsn=5ef9c2bc_2" rel="noopener noreferrer nofollow" target="_blank">National Examinations Timetable</a>
+<br><a href="https://www.moe.gov.sg/national-exams-dates#psle" rel="noopener noreferrer nofollow" target="_blank">National Examinations Timetable</a>
 </p>
 <p><strong>School hours &amp; Recess timings:</strong>
 </p>
