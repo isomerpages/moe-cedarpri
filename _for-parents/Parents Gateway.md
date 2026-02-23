@@ -6,5 +6,6 @@ variant: markdown
 ---
 # **Parents Gateway**
   
+Website      [https://pg.moe.edu.sg](https://pg.moe.edu.sg)  
 
-* [Parents Gateway Instruction Guide](/files/Technical%20Matters/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf)
+User Guide [Parents Gateway Instruction Guide](/files/Technical%20Matters/Instructions%20to%20parents%20to%20On-board%20Parents%20Gateway.pdf)

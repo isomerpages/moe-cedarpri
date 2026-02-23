@@ -18,7 +18,13 @@ variant: tiptap
 <br>7:30am - 1:00pm (Friday)</p>
 <p><strong>Recess:</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,8 +64,8 @@ variant: tiptap
 <p>Mon - Fri: 7:00am to 4:00pm During school term and school holidays.</p>
 <p><strong>Insurance for Students</strong>
 </p>
-<p>a. Group personal accident insurance for students</p>
-<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students" rel="noopener noreferrer nofollow" target="_blank">Group personal accident insurance for students</a> 
+<p>a. Group Personal Accident (GPA) Insurance for students</p>
+<p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for students</a> 
 <br>-&nbsp;&nbsp; &nbsp;NTUC Income Insurance Co-operative Limited - Student
 Accident Protection Scheme - Group Personal Accident (GPA) Insurance.&nbsp;
 <a href="/files/General/NTUC FAQs for Parents_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents</a>
