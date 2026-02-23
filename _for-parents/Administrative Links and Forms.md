@@ -12,8 +12,10 @@ Please click on the respective links for more information.
   
 [Extended financial assistance for SC students](https://www.moe.gov.sg/financial-matters/financial-assistance) 
   
-[NEU PC Plus Application](https://www.imda.gov.sg/neupc)
+[IMDA DigitalAccess@Home ](https://www.imda.gov.sg/neupc)
 
-[CPS Waitlist](https://go.gov.sg/cps-waitlist)
+[CPS Waitlist Application](https://go.gov.sg/cps-waitlist)
 
 If there are changes to the contact number of your child or yourself, please email us at [cedar\_ps@moe.edu.sg](mailto:cedar_ps@moe.edu.sg)
+
+If there are changes to your contact details, please update your phone contact numbers and/or email addresses via Parents Gateway (PG) app.
