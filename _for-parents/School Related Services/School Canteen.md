@@ -11,7 +11,7 @@ third_nav_title: School Related Services
 ball noodles, wanton noodles, stir-fried noodles, laksa etc..</p>
 <p>The School is located at 15 Cedar Avenue Singapore 349700.&nbsp; (Near
 to Bidadari, Joo Seng Road, Upper Aljunied and Potong Pasir).</p>
-<p>Interested applicants must complete the <a href="/files/General/Application_for_Canteen_Stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a> and
+<p>Interested applicants must complete the <a href="/files/General/Application_for_Canteen_Stall__v2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a> and
 fulfill the following requirements:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be Singapore Citizen or Singapore
 Permanent Resident aged 21 years and above.</p>
