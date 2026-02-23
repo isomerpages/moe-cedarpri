@@ -64,11 +64,7 @@ variant: tiptap
 <p>Mon - Fri: 7:00am to 4:00pm During school term and school holidays.</p>
 <p><strong>Insurance for Students</strong>
 </p>
-<p>a. Group Personal Accident (GPA) Insurance for students</p>
+<p>Group Personal Accident (GPA) Insurance for students</p>
 <p>-&nbsp;&nbsp; &nbsp;Website:&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for students</a> 
-<br>-&nbsp;&nbsp; &nbsp;NTUC Income Insurance Co-operative Limited - Student
-Accident Protection Scheme - Group Personal Accident (GPA) Insurance.&nbsp;
-<a href="/files/General/NTUC FAQs for Parents_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents</a>
 </p>
-<p>b. For Group Travel Insurance Claim Portal for School Trips,&nbsp;<a href="https://onlinetravelclaim.income.com.sg/travel-claim-web/travel" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</p>
 <p>Hotline: 63321133</p>
