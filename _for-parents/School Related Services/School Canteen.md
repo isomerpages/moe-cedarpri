@@ -11,8 +11,8 @@ third_nav_title: School Related Services
 ball noodles, wanton noodles, stir-fried noodles, laksa etc..</p>
 <p>The School is located at 15 Cedar Avenue Singapore 349700.&nbsp; (Near
 to Bidadari, Joo Seng Road, Upper Aljunied and Potong Pasir).</p>
-<p>Interested applicants must complete the Canteen Application Form and fulfill
-the following requirements:</p>
+<p>Interested applicants must complete the <a href="/files/General/Application_for_Canteen_Stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Application Form</a> and
+fulfill the following requirements:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be Singapore Citizen or Singapore
 Permanent Resident aged 21 years and above.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must have a valid Basic Food Hygiene
@@ -23,8 +23,8 @@ to the Healthy Meals in School Programme Guidelines given in this link:&nbsp;
 <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">)</a>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant must be able
-to start operation on 24 June 2024 (start of Term 3).</p>
-<p><strong>To apply, please submit the Canteen Application Form to our General Office by 31 May 2024.&nbsp;</strong>
+to start operation on 29 June 2026 (start of Term 3).</p>
+<p><strong>To apply, please submit the Canteen Application Form to our General Office by 22 May 2026.&nbsp;</strong>
 </p>
 <p>Only shortlisted applicants will be notified and will be required to be
 present for a food sampling session at the School.</p>
