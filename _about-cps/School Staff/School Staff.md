@@ -223,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Took Wei</p>
+<p>Ms Siti Aisyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -231,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aisyah</p>
+<p>Mr Sufi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
