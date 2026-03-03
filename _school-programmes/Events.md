@@ -12,7 +12,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br><strong>Chinese New Year</strong>
-<br>Cedar Primary ushered in Chinese New Year with a vibrant and meaningful
+<br>Cedar Primary ushered in the Chinese New Year with a vibrant and meaningful
 celebration filled with learning and joy. In the classrooms, students discovered
 the significance of “<em>lo hei”</em> and enthusiastically took part to
 toss the colourful “ingredients” in class, sharing well-wishes and laughter
