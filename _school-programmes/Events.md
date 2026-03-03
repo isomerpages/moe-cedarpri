@@ -4,65 +4,222 @@ permalink: /events/
 variant: tiptap
 description: ""
 ---
+<p><strong>2026</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Term 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br><strong>Chinese New Year</strong>
-<br>Cedar Primary celebrated Chinese New Year with a vibrant concert that
-highlighted the school’s rich diversity and strong sense of unity. Students
-enjoyed an engaging lineup of performances, including a captivating Indian
-Classical Dance by Aksha Prakash of Primary 6 Resilience, a dynamic showcase
-by the International Dance CCA, and a delightful musical number presented
-by the school leaders. The festivities concluded on an exhilarating note
-with a spectacular dragon dance, performed by selected Primary 6 students,
-leaving everyone with fond memories of the celebration.</p>
-<p></p>
+<br>Cedar Primary ushered in the Chinese New Year with a vibrant and meaningful
+celebration filled with learning and joy. In the classrooms, students discovered
+the significance of “<em>lo hei”</em> and enthusiastically took part to
+toss the colourful “ingredients” in class, sharing well-wishes and laughter
+with their friends.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/CNY_1.jpg">
 </div>
-<p></p>
+<p>The festive spirit continued with a lively concert in the school hall.
+We were treated to an energetic dance performance by our International
+Dance CCA, a delightful singing performance by children from MK, a cheerful
+dance item by a group of Primary 2 students, and a spectacular lion dance
+that brought excitement to all.
+<br>
+</p>
+<p>As this year’s Total Defence Day coincided with Chinese New Year, the
+concert thoughtfully incorporated the theme of Total Defence. Throughout
+the week, students also took part in recess activities to learn more about
+the six pillars of defence. To provide a more authentic learning experience,
+students also went through a simulated power disruption in school, helping
+them better understand the importance of resilience and preparedness.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/CNY_2.jpg">
 </div>
-<p></p>
-<p></p>
+<p>It was truly a celebration that blended tradition, community and the spirit
+of Total Defence, reminding us that together, we can build a strong and
+resilient nation.</p>
+</div>
+</details>
+</div>
+<p><strong>2025</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 4</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Deepavali</strong>
+<br>Cedar Primary celebrated the Festival of Lights with a joyful Deepavali
+concert filled with colour, music, and laughter. Students and teachers
+came together to share the meaning of Deepavali - the triumph of light
+over darkness and good over evil.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_2.jpg">
 </div>
-<p><strong>Total Defence Day</strong>
-<br>Total Defence Day was commemorated with a meaningful series of activities
-that deepened students' understanding of the six pillars of Total Defence.
-Throughout the week, daily sharings highlighted the importance of resilience
-and unity, beginning with a thought-provoking skit during assembly. To
-provide a hands-on experience, students participated in a water disruption
-and rationing exercise, fostering awareness of resource conservation.</p>
-<p></p>
+<p>The concert featured vibrant dance performances, lively songs, and a short
+skit that highlighted the importance of kindness and harmony. It was a
+wonderful opportunity for everyone to learn more about Indian culture and
+to celebrate unity in our diverse school community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
 </div>
-<p>Adding to the enriching programme, two local writers, Ms Emily Lim and
-Ms Tan Ter Cheah, shared their inspiring life stories, encouraging students
-to embrace courage and determination. Team-building games during recesses
-brought students together in the spirit of camaraderie, while a special
-sharing session at the school library on the bravery of Lieutenant Adnan
-offered a powerful lesson in sacrifice and patriotism. The commemoration
-left students with a deeper appreciation of Singapore’s collective strength
-and the role each of them plays in defending our nation.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_1.jpg">
 </div>
-<p></p>
+<p><strong>Celebrating Hopes and Dreams (CHAD)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_3.jpg">
 </div>
-<p></p>
+<p>Cedar Primary School held its annual Prize Giving Day, CHAD – Celebrating
+Hopes and Dreams – with great pride and joy as we honoured the achievements
+and talents of our students. This special occasion brought the school community
+together to recognise hard work, perseverance, and the Cedar spirit demonstrated
+throughout the year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/TDD_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
 </div>
-<p></p>
+<p>The celebration also included many captivating musical performances. Our
+Primary 6 Resilience and Kindness classes showcased their skills through
+heartfelt Anklung and Gamelan pieces, filling the hall with rich, resonant
+melodies. The International Dance CCA then took the stage with a vibrant
+and energetic performance that left the audience delighted. Adding to the
+artistic showcase, the Music Ensemble CCA presented a charming musical
+number that highlighted the students’ dedication and passion for the performing
+arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chad_2025_1.png">
+</div>
+<p>A total of 288 awards were presented to deserving students across academic,
+leadership, and character domains. Each award reflected the students’ commitment
+to excellence and the support of teachers and families who have journeyed
+alongside them. CHAD 2025 was a meaningful celebration of growth, achievement,
+and aspiration. As our students continue to dream boldly and strive confidently,
+Cedar Primary School looks forward to nurturing their hopes and shaping
+even brighter futures.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Term 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>NE Show</strong>
+<br>The Primary 5 NE Show is an important part of Singapore’s National Education
+Programme. On 5 July 2025, our Primary 5 students were given the opportunity
+to observe the National Day Parade (NDP) rehearsal at the Padang. This
+unique experience aims to deepen their understanding of Singapore's history,
+culture, and values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_3.jpg">
+</div>
+<p>2025 marks Singapore’s 60th year of independence — a milestone to honour
+our journey, unite in celebration, and build our shared future together.
+As we mark 60 years of independence, this year’s theme “Majulah Singapura”
+invites us to reflect on the road we’ve walked as one people, and to look
+ahead with hope, courage, and unity. It reminds us that our strength lies
+not only in how far we’ve come, but in the trust, inclusivity, and shared
+values that continue to guide us forward.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_2.jpg">
+</div>
+<p>The NE Show isn't just about celebration – it's about preparing our future
+generation to embrace their role as responsible citizens. We hope that
+our students will develop a commitment towards Singapore and understand
+the importance of unity, resilience, and progress in ensuring Singapore’s
+continued success.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_1.jpg">
+</div>
+<p><strong>P5 Camp X<sup>3</sup></strong>
+<br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
+at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
+2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
+challenged students to step out of their comfort zones and grow in multiple
+ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
+</div>
+<p>Throughout their time at the camp, students learned valuable life skills
+such as resilience in facing challenges, teamwork, and empathy - essential
+qualities that will serve them well beyond their primary school years.
+The camp encouraged them to consider different perspectives when making
+decisions and forming opinions, fostering a more inclusive mindset.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+</div>
+<p>The action-packed schedule included thrilling activities such as rock
+wall climbing and abseiling, which tested their courage and determination.
+<br>Students also participated in team-building exercises and low-element
+activities that strengthened their collaborative skills. The journey through
+nature and stream exploration sessions allowed them to appreciate our natural
+environment, while the intimate mini campfire sessions created memorable
+bonding moments.</p>
+<p><strong>Racial Harmony Day</strong>
+<br>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
+and meaningful activities centered around this year’s theme, <strong>“Our People, Our Tapestry.”</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_1.png">
+</div>
+<p>The celebrations kicked off with a lively music performance featuring
+traditional instruments from Singapore’s four major ethnic groups. Students
+enjoyed a vibrant showcase of melodies and rhythms that celebrated the
+richness of cultural diversity through music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_2.png">
+</div>
+<p>A library exhibition and a mini quiz on musical instruments further deepened
+students’ understanding and appreciation of Singapore’s multicultural heritage.
+They explored the unique instruments associated with each ethnic community.
+Additionally, students took part in a tapestry art activity, where each
+contributed creatively by colouring or decorating a square panel representing
+one of the ethnic groups. These individual panels were then assembled into
+a collective tapestry artwork, symbolising the unity of Singapore’s diverse
+communities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_3.png">
+</div>
+<p>To conclude the celebrations, students enthusiastically joined a fun and
+interactive <strong>Kahoot quiz</strong> that tested their knowledge of Racial
+Harmony Day.
+<br>Through these meaningful experiences, Cedar Primary students not only
+celebrated the nation’s cultural diversity but also reflected on the importance
+of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_1.jpg">
+</div>
+<p><strong>National Day</strong>
+<br>The spirit of National Day filled Cedar Primary School's halls early this
+year, kickstarted by a special visit from August the Merlion on 31 July.
+During the Character and Citizenship Education period, students were treated
+to an engaging session about Singapore's rich history, followed by August's
+classroom visits that brought smiles to young faces. The excitement peaked
+during an interactive quiz session, where eager participants vied for coveted
+limited-edition plushie keychains!
+<br>For two vibrant weeks leading to National Day, the school transformed
+into a hub of patriotic activities. Students embarked on an exciting Mathematical
+journey by the Mathematics Department, hunting for SG mascots around the
+school's ground floor to solve the puzzles relating to the mascots.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_2.jpg">
+</div>
+<p>At Basketball Court 2, they participated in engaging activities for a
+chance to win mystery gifts. There was a lively student-led karaoke session
+in the school library on 4 August, alongside other enriching library activities
+on National Day week.
+<br>The highlight of the National Day-related activities took place on 8 August.
+The day began with a solemn observance ceremony, then the National Day
+concert, featuring a magnificent display of Singapore's journey, diversity,
+and aspirations. Through six carefully crafted acts, the concert wove together
+mini-skits and performances by an impressive array of talents - from our
+adorable MOE Kindergarten students to the graceful International Dance
+CCA members, and from our talented Mother Tongue teachers to our dedicated
+Parent Support Group. Our own Cedar teachers even showcased their vocal
+prowess! The grand finale featured The Singapore Workout 2025 - Dance of
+the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
 </div>
 </details>
 </div>
@@ -211,180 +368,63 @@ of "Four Houses, One Cedar!"</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Term 3</summary>
+<summary>Term 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br><strong>NE Show</strong>
-<br>The Primary 5 NE Show is an important part of Singapore’s National Education
-Programme. On 5 July 2025, our Primary 5 students were given the opportunity
-to observe the National Day Parade (NDP) rehearsal at the Padang. This
-unique experience aims to deepen their understanding of Singapore's history,
-culture, and values.</p>
+<br><strong>Chinese New Year</strong>
+<br>Cedar Primary celebrated Chinese New Year with a vibrant concert that
+highlighted the school’s rich diversity and strong sense of unity. Students
+enjoyed an engaging lineup of performances, including a captivating Indian
+Classical Dance by Aksha Prakash of Primary 6 Resilience, a dynamic showcase
+by the International Dance CCA, and a delightful musical number presented
+by the school leaders. The festivities concluded on an exhilarating note
+with a spectacular dragon dance, performed by selected Primary 6 students,
+leaving everyone with fond memories of the celebration.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_3.jpg">
 </div>
-<p>2025 marks Singapore’s 60th year of independence — a milestone to honour
-our journey, unite in celebration, and build our shared future together.
-As we mark 60 years of independence, this year’s theme “Majulah Singapura”
-invites us to reflect on the road we’ve walked as one people, and to look
-ahead with hope, courage, and unity. It reminds us that our strength lies
-not only in how far we’ve come, but in the trust, inclusivity, and shared
-values that continue to guide us forward.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_1.jpg">
 </div>
-<p>The NE Show isn't just about celebration – it's about preparing our future
-generation to embrace their role as responsible citizens. We hope that
-our students will develop a commitment towards Singapore and understand
-the importance of unity, resilience, and progress in ensuring Singapore’s
-continued success.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NE_Show_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CNY_4.jpg">
 </div>
-<p><strong>P5 Camp X<sup>3</sup></strong>
-<br>Our &nbsp;Primary 5 students embarked on an exciting three-day adventure
-at MOE Dairy Farm Outdoor Adventure Learning Centre from 21 to 23 July
-2025. The camp, aptly named Camp X<sup>3</sup> (eXplore, eXperience, eXemplify),
-challenged students to step out of their comfort zones and grow in multiple
-ways.</p>
+<p><strong>Total Defence Day</strong>
+<br>Total Defence Day was commemorated with a meaningful series of activities
+that deepened students' understanding of the six pillars of Total Defence.
+Throughout the week, daily sharings highlighted the importance of resilience
+and unity, beginning with a thought-provoking skit during assembly. To
+provide a hands-on experience, students participated in a water disruption
+and rationing exercise, fostering awareness of resource conservation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_5.jpg">
 </div>
-<p>Throughout their time at the camp, students learned valuable life skills
-such as resilience in facing challenges, teamwork, and empathy - essential
-qualities that will serve them well beyond their primary school years.
-The camp encouraged them to consider different perspectives when making
-decisions and forming opinions, fostering a more inclusive mindset.</p>
+<p>Adding to the enriching programme, two local writers, Ms Emily Lim and
+Ms Tan Ter Cheah, shared their inspiring life stories, encouraging students
+to embrace courage and determination. Team-building games during recesses
+brought students together in the spirit of camaraderie, while a special
+sharing session at the school library on the bravery of Lieutenant Adnan
+offered a powerful lesson in sacrifice and patriotism. The commemoration
+left students with a deeper appreciation of Singapore’s collective strength
+and the role each of them plays in defending our nation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Camp_2.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_4.jpg">
 </div>
-<p>The action-packed schedule included thrilling activities such as rock
-wall climbing and abseiling, which tested their courage and determination.
-<br>Students also participated in team-building exercises and low-element
-activities that strengthened their collaborative skills. The journey through
-nature and stream exploration sessions allowed them to appreciate our natural
-environment, while the intimate mini campfire sessions created memorable
-bonding moments.</p>
-<p><strong>Racial Harmony Day</strong>
-<br>Cedar Primary School commemorated Racial Harmony Day with a week of engaging
-and meaningful activities centered around this year’s theme, <strong>“Our People, Our Tapestry.”</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/TDD_3.jpg">
 </div>
-<p>The celebrations kicked off with a lively music performance featuring
-traditional instruments from Singapore’s four major ethnic groups. Students
-enjoyed a vibrant showcase of melodies and rhythms that celebrated the
-richness of cultural diversity through music.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/TDD_2.jpg">
 </div>
-<p>A library exhibition and a mini quiz on musical instruments further deepened
-students’ understanding and appreciation of Singapore’s multicultural heritage.
-They explored the unique instruments associated with each ethnic community.
-Additionally, students took part in a tapestry art activity, where each
-contributed creatively by colouring or decorating a square panel representing
-one of the ethnic groups. These individual panels were then assembled into
-a collective tapestry artwork, symbolising the unity of Singapore’s diverse
-communities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RHD_3.png">
-</div>
-<p>To conclude the celebrations, students enthusiastically joined a fun and
-interactive <strong>Kahoot quiz</strong> that tested their knowledge of Racial
-Harmony Day.
-<br>Through these meaningful experiences, Cedar Primary students not only
-celebrated the nation’s cultural diversity but also reflected on the importance
-of harmony, respect, and unity in shaping <strong>“Our People, Our Tapestry.”</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_1.jpg">
-</div>
-<p><strong>National Day</strong>
-<br>The spirit of National Day filled Cedar Primary School's halls early this
-year, kickstarted by a special visit from August the Merlion on 31 July.
-During the Character and Citizenship Education period, students were treated
-to an engaging session about Singapore's rich history, followed by August's
-classroom visits that brought smiles to young faces. The excitement peaked
-during an interactive quiz session, where eager participants vied for coveted
-limited-edition plushie keychains!
-<br>For two vibrant weeks leading to National Day, the school transformed
-into a hub of patriotic activities. Students embarked on an exciting Mathematical
-journey by the Mathematics Department, hunting for SG mascots around the
-school's ground floor to solve the puzzles relating to the mascots.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ND_2.jpg">
-</div>
-<p>At Basketball Court 2, they participated in engaging activities for a
-chance to win mystery gifts. There was a lively student-led karaoke session
-in the school library on 4 August, alongside other enriching library activities
-on National Day week.
-<br>The highlight of the National Day-related activities took place on 8 August.
-The day began with a solemn observance ceremony, then the National Day
-concert, featuring a magnificent display of Singapore's journey, diversity,
-and aspirations. Through six carefully crafted acts, the concert wove together
-mini-skits and performances by an impressive array of talents - from our
-adorable MOE Kindergarten students to the graceful International Dance
-CCA members, and from our talented Mother Tongue teachers to our dedicated
-Parent Support Group. Our own Cedar teachers even showcased their vocal
-prowess! The grand finale featured The Singapore Workout 2025 - Dance of
-the Nation, perfectly encapsulating the vibrant spirit of the celebration.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Term 4</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Deepavali</strong>
-<br>Cedar Primary celebrated the Festival of Lights with a joyful Deepavali
-concert filled with colour, music, and laughter. Students and teachers
-came together to share the meaning of Deepavali - the triumph of light
-over darkness and good over evil.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_2.jpg">
-</div>
-<p>The concert featured vibrant dance performances, lively songs, and a short
-skit that highlighted the importance of kindness and harmony. It was a
-wonderful opportunity for everyone to learn more about Indian culture and
-to celebrate unity in our diverse school community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_06_at_9_41_32_AM.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deepavali_2025_1.jpg">
-</div>
-<p><strong>Celebrating Hopes and Dreams (CHAD)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Chad_2025_3.jpg">
-</div>
-<p>Cedar Primary School held its annual Prize Giving Day, CHAD – Celebrating
-Hopes and Dreams – with great pride and joy as we honoured the achievements
-and talents of our students. This special occasion brought the school community
-together to recognise hard work, perseverance, and the Cedar spirit demonstrated
-throughout the year.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chad_2025_2.png">
-</div>
-<p>The celebration also included many captivating musical performances. Our
-Primary 6 Resilience and Kindness classes showcased their skills through
-heartfelt Anklung and Gamelan pieces, filling the hall with rich, resonant
-melodies. The International Dance CCA then took the stage with a vibrant
-and energetic performance that left the audience delighted. Adding to the
-artistic showcase, the Music Ensemble CCA presented a charming musical
-number that highlighted the students’ dedication and passion for the performing
-arts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chad_2025_1.png">
-</div>
-<p>A total of 288 awards were presented to deserving students across academic,
-leadership, and character domains. Each award reflected the students’ commitment
-to excellence and the support of teachers and families who have journeyed
-alongside them. CHAD 2025 was a meaningful celebration of growth, achievement,
-and aspiration. As our students continue to dream boldly and strive confidently,
-Cedar Primary School looks forward to nurturing their hopes and shaping
-even brighter futures.</p>
+<p></p>
 </div>
 </details>
 </div>
