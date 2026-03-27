@@ -40,3 +40,4 @@ variant: markdown
 ### Primary 6
 1. [March 2026 - Principal's Address](/files/Parent%20Engagement/2026%20P6%20Parent%20Engagement/1__Principal_s_Address_P5_P6.pdf)
 2. [March 2026 - P6 Curriculum Briefing](/files/Parent%20Engagement/2026%20P6%20Parent%20Engagement/2__P6_Curriculum_Briefing.pdf)
+3. [March 2026 - P6 Student Development and Well Being](/files/Parent%20Engagement/2026%20P6%20Parent%20Engagement/1__P6_Student_Development_and_Well_Being_2026.pdf)
