@@ -21,3 +21,6 @@ variant: markdown
 1. [March 2026 - Principal's Address](/files/Parent%20Engagement/2026%20P1%20P2%20Parent%20Webinar/1__Principal_s_Address_P1___P2_2.pdf)
 2. [March 2026 - P2 Curriculum Briefing](/files/Parent%20Engagement/2026%20P1%20P2%20Parent%20Webinar/4__P2_Curriculum_Briefing_2026.pdf)
 3. [March 2026 - P2 Student Development and Well Being](/files/Parent%20Engagement/2026%20P1%20P2%20Parent%20Webinar/2__P1__P2_Student_Development_and_Wellbeing_Briefing.pdf)
+
+### Primary 3
+1. [March 2026 - Principal's Address](/files/Parent%20Engagement/2026%20P3%20Parent%20Webinar/1__Principal_s_Address_P3_P4_2.pdf)
