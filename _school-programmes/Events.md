@@ -38,7 +38,16 @@ them better understand the importance of resilience and preparedness.</p>
 </div>
 <p>It was truly a celebration that blended tradition, community and the spirit
 of Total Defence, reminding us that together, we can build a strong and
-resilient nation.</p>
+resilient nation.
+<br>
+</p>
+<p><strong>Hari Raya 2026</strong>
+<br>Hari Raya Puasa was celebrated meaningfully, beginning with an impressive
+Silat performance by three talented Cedarians. Their graceful, dance-like
+movements, while appearing effortless, embodied deep cultural significance
+and reflected a tradition recognised by UNESCO as an intangible cultural
+heritage.</p>
+<p></p>
 </div>
 </details>
 </div>
