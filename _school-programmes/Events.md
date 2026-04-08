@@ -50,6 +50,19 @@ heritage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/HR_1.jpg">
 </div>
+<p>Students also gained a deeper appreciation of Ramadan, and the customs
+and traditions of Hari Raya Aidilfitri through an informative and interactive
+skit. The segment actively engaged the audience, and a few of our Cedarians
+even had the opportunity to go on stage, be part of the skit, and try on
+traditional Malay costumes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/HR_2.jpg">
+</div>
+<p>The celebration concluded on a high note with a musical finale performed
+by our Malay teachers and students. Through a lively music video featuring
+a medley of Raya songs, they showcased their enthusiasm and talent in both
+singing and dancing. The performance was warmly received by all and wrapped
+up the event in a truly memorable way.</p>
 </div>
 </details>
 </div>
