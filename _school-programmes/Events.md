@@ -47,7 +47,9 @@ Silat performance by three talented Cedarians. Their graceful, dance-like
 movements, while appearing effortless, embodied deep cultural significance
 and reflected a tradition recognised by UNESCO as an intangible cultural
 heritage.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/HR_1.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -437,4 +439,5 @@ and the role each of them plays in defending our nation.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
