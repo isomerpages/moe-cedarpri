@@ -24,8 +24,7 @@ Spinning Top and Peranakan Tile Design.
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/MTL_4thNight.jpg">
 </div>
-<p>
-<br>These engaging experiences provided pupils with the opportunity to explore
+<p>These engaging experiences provided pupils with the opportunity to explore
 traditional art forms and cultural practices connected to their cultural
 roots. The students also gained a deeper appreciation of their Mother Tongue
 languages and cultural heritage while learning in a fun and meaningful
