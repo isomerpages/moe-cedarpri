@@ -8,6 +8,34 @@ description: ""
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Term 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Mother Tongue Fortnight 2026</strong>
+</p>
+<p>During the Mother Tongue Language Fortnight, our students were given meaningful
+opportunities to celebrate and appreciate their language and cultural heritage
+through a variety of engaging activities. Over the two-week programme,
+students took part in a wide range of engaging hands-on activities, such
+as Batik Painting, Henna Painting, Indian Motifs, Lantern Painting, Chinese
+Spinning Top and Peranakan Tile Design.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/MTL_4thNight.jpg">
+</div>
+<p>
+<br>These engaging experiences provided pupils with the opportunity to explore
+traditional art forms and cultural practices connected to their cultural
+roots. The students also gained a deeper appreciation of their Mother Tongue
+languages and cultural heritage while learning in a fun and meaningful
+way. It was heartening to see them participate with enthusiasm and pride
+throughout the two weeks.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Term 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
