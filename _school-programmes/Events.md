@@ -12,8 +12,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Mother Tongue Fortnight 2026</strong>
-</p>
-<p>During the Mother Tongue Language Fortnight, our students were given meaningful
+<br>During the Mother Tongue Language Fortnight, our students were given meaningful
 opportunities to celebrate and appreciate their language and cultural heritage
 through a variety of engaging activities. Over the two-week programme,
 students took part in a wide range of engaging hands-on activities, such
