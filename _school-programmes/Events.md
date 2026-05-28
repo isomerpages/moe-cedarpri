@@ -38,6 +38,9 @@ and introduced the newly appointed Student Leaders who will continue to
 uphold the school values and serve the Cedar community with pride and responsibility.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/Student_Leaders_2026.jpg">
+</div>
 <p>A meaningful highlight of the event was the symbolic passing of the torch
 segment, which represented the transition of leadership from the outgoing
 leaders to the incoming team. The ceremony also featured inspiring speeches
@@ -45,6 +48,9 @@ by the outgoing and incoming Head Prefects, who reflected on their leadership
 journeys and shared their hopes and aspirations for the year ahead.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/Investiture.jpg">
+</div>
 <p>The event served as a memorable occasion to celebrate leadership, service,
 and the continued commitment of student leaders at Cedar Primary School.</p>
 </div>
