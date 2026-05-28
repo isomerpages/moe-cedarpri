@@ -18,9 +18,7 @@ opportunities to celebrate and appreciate their language and cultural heritage
 through a variety of engaging activities. Over the two-week programme,
 students took part in a wide range of engaging hands-on activities, such
 as Batik Painting, Henna Painting, Indian Motifs, Lantern Painting, Chinese
-Spinning Top and Peranakan Tile Design.
-<br>
-</p>
+Spinning Top and Peranakan Tile Design.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/MTL_4thNight.jpg">
 </div>
