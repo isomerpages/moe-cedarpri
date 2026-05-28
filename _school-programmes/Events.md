@@ -30,7 +30,26 @@ traditional art forms and cultural practices connected to their cultural
 roots. The students also gained a deeper appreciation of their Mother Tongue
 languages and cultural heritage while learning in a fun and meaningful
 way. It was heartening to see them participate with enthusiasm and pride
-throughout the two weeks.</p>
+throughout the two weeks.
+<br>
+<br><strong>Student Leaders’ Investiture</strong>
+<br>The Student Leaders’ Investiture Ceremony marked an important milestone
+as the outgoing Primary 6 Student Leaders officially stepped down from
+their leadership roles and were presented with certificates in recognition
+of their valuable contributions to the school. The ceremony also welcomed
+and introduced the newly appointed Student Leaders who will continue to
+uphold the school values and serve the Cedar community with pride and responsibility.
+<br>
+</p>
+<p>A meaningful highlight of the event was the symbolic passing of the torch
+segment, which represented the transition of leadership from the outgoing
+leaders to the incoming team. The ceremony also featured inspiring speeches
+by the outgoing and incoming Head Prefects, who reflected on their leadership
+journeys and shared their hopes and aspirations for the year ahead.
+<br>
+</p>
+<p>The event served as a memorable occasion to celebrate leadership, service,
+and the continued commitment of student leaders at Cedar Primary School.</p>
 </div>
 </details>
 </div>
