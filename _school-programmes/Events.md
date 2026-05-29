@@ -8,6 +8,55 @@ description: ""
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Term 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Mother Tongue Fortnight 2026</strong>
+<br>During the Mother Tongue Language Fortnight, our students were given meaningful
+opportunities to celebrate and appreciate their language and cultural heritage
+through a variety of engaging activities. Over the two-week programme,
+students took part in a wide range of engaging hands-on activities, such
+as Batik Painting, Henna Painting, Indian Motifs, Lantern Painting, Chinese
+Spinning Top and Peranakan Tile Design.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/MTL_4thNight.jpg">
+</div>
+<p>These engaging experiences provided pupils with the opportunity to explore
+traditional art forms and cultural practices connected to their cultural
+roots. The students also gained a deeper appreciation of their Mother Tongue
+languages and cultural heritage while learning in a fun and meaningful
+way. It was heartening to see them participate with enthusiasm and pride
+throughout the two weeks.
+<br>
+<br><strong>Student Leaders’ Investiture</strong>
+<br>The Student Leaders’ Investiture Ceremony marked an important milestone
+as the outgoing Primary 6 Student Leaders officially stepped down from
+their leadership roles and were presented with certificates in recognition
+of their valuable contributions to the school. The ceremony also welcomed
+and introduced the newly appointed Student Leaders who will continue to
+uphold the school values and serve the Cedar community with pride and responsibility.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/Student_Leaders_2026.jpg">
+</div>
+<p>A meaningful highlight of the event was the symbolic passing of the torch
+segment, which represented the transition of leadership from the outgoing
+leaders to the incoming team. The ceremony also featured inspiring speeches
+by the outgoing and incoming Head Prefects, who reflected on their leadership
+journeys and shared their hopes and aspirations for the year ahead.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2026/Investiture.jpg">
+</div>
+<p>The event served as a memorable occasion to celebrate leadership, service,
+and the continued commitment of student leaders at Cedar Primary School.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Term 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
