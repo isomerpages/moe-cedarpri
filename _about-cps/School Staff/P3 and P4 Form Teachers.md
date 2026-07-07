@@ -30,10 +30,10 @@ variant: tiptap
 <p>P3-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Millie Choo</p>
+<p>Mrs Wan Jia Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_poh_hong_millie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:toh_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -54,10 +54,10 @@ variant: tiptap
 <p>P3-Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wan Jia Wen</p>
+<p>Ms Chew Peck Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:chew_peck_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
