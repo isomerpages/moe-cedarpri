@@ -126,10 +126,10 @@ variant: tiptap
 <p>P5-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Demetria Chang</p>
+<p>Mr Muhammad Firdaus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:demetria_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:muhammad_firdaus_nasirjaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -138,10 +138,10 @@ variant: tiptap
 <p>P5-Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Firdaus</p>
+<p>Ms Demetria Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdaus_nasirjaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:demetria_chang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
