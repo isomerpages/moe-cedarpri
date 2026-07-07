@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mdm Ng Joo Siah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norlinda_mohamed_yatim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:ng_joo_siah_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
