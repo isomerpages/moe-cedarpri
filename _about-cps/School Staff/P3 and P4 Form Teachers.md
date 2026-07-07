@@ -126,10 +126,10 @@ variant: tiptap
 <p>P3-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Anusuya Retnam</p>
+<p>Ms Goh Ruoyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ramasamy_anusuya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:goh_ruoyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
