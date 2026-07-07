@@ -126,10 +126,10 @@ variant: tiptap
 <p>P3-Responsiblity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Muzaiyanah Mohamed Ali</p>
+<p>Ms Ye Jingxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:MUZAIYANAH_MOHAMED_ALI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:ye_jingxuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -138,10 +138,10 @@ variant: tiptap
 <p>P3-Responsiblity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ye Jingxuan</p>
+<p>Ms Mary Campos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ye_jingxuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:mary_martha_katherine_campos_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -320,6 +320,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_choon_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4-Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Foong Swee Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_swee_fong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
