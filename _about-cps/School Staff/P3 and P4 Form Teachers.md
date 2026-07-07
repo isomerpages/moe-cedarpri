@@ -280,10 +280,10 @@ variant: tiptap
 <p>P4-Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Peck Har</p>
+<p>Ms Vionna Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_peck_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+<p><a href="mailto:hong_yi_ni_vionna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
@@ -296,18 +296,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rachel_leng_yhih_huua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4-Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Vionna Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hong_yi_ni_vionna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
 </p>
 </td>
 </tr>
