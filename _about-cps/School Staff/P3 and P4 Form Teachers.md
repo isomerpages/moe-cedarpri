@@ -87,6 +87,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3-Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Bria Low Wen Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_wen_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3-Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
